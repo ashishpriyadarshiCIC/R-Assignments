@@ -1,0 +1,2917 @@
+StateCode,StateName,TypeOfDisability,TypeOfRegion,Sex,TotalWork,Nonworkers
+0,INDIA,TotalDisabledPopulation, Total ,Persons,9744386,17070608
+0,INDIA,TotalDisabledPopulation, Total ,Males,7072825,7915768
+0,INDIA,TotalDisabledPopulation, Total ,Females,2671561,9154840
+0,INDIA,TotalDisabledPopulation, Rural ,Persons,7004120,11632238
+0,INDIA,TotalDisabledPopulation, Rural ,Males,4912012,5498547
+0,INDIA,TotalDisabledPopulation, Rural ,Females,2092108,6133691
+0,INDIA,TotalDisabledPopulation, Urban ,Persons,2740266,5438370
+0,INDIA,TotalDisabledPopulation, Urban ,Males,2160813,2417221
+0,INDIA,TotalDisabledPopulation, Urban ,Females,579453,3021149
+0,INDIA,InSeeing, Total ,Persons,1891919,3141512
+0,INDIA,InSeeing, Total ,Males,1346034,1292994
+0,INDIA,InSeeing, Total ,Females,545885,1848518
+0,INDIA,InSeeing, Rural ,Persons,1352621,2150937
+0,INDIA,InSeeing, Rural ,Males,921956,899492
+0,INDIA,InSeeing, Rural ,Females,430665,1251445
+0,INDIA,InSeeing, Urban ,Persons,539298,990575
+0,INDIA,InSeeing, Urban ,Males,424078,393502
+0,INDIA,InSeeing, Urban ,Females,115220,597073
+0,INDIA,InHearing, Total ,Persons,2062058,3010856
+0,INDIA,InHearing, Total ,Males,1444083,1234501
+0,INDIA,InHearing, Total ,Females,617975,1776355
+0,INDIA,InHearing, Rural ,Persons,1443251,1950477
+0,INDIA,InHearing, Rural ,Males,966542,817884
+0,INDIA,InHearing, Rural ,Females,476709,1132593
+0,INDIA,InHearing, Urban ,Persons,618807,1060379
+0,INDIA,InHearing, Urban ,Males,477541,416617
+0,INDIA,InHearing, Urban ,Females,141266,643762
+0,INDIA,InSpeech, Total ,Persons,839258,1159434
+0,INDIA,InSpeech, Total ,Males,600179,522808
+0,INDIA,InSpeech, Total ,Females,239079,636626
+0,INDIA,InSpeech, Rural ,Persons,566849,737091
+0,INDIA,InSpeech, Rural ,Males,386552,348446
+0,INDIA,InSpeech, Rural ,Females,180297,388645
+0,INDIA,InSpeech, Urban ,Persons,272409,422343
+0,INDIA,InSpeech, Urban ,Males,213627,174362
+0,INDIA,InSpeech, Urban ,Females,58782,247981
+0,INDIA,InMovement, Total ,Persons,2034876,3401950
+0,INDIA,InMovement, Total ,Males,1601135,1769366
+0,INDIA,InMovement, Total ,Females,433741,1632584
+0,INDIA,InMovement, Rural ,Persons,1535250,2500491
+0,INDIA,InMovement, Rural ,Males,1184342,1319187
+0,INDIA,InMovement, Rural ,Females,350908,1181304
+0,INDIA,InMovement, Urban ,Persons,499626,901459
+0,INDIA,InMovement, Urban ,Males,416793,450179
+0,INDIA,InMovement, Urban ,Females,82833,451280
+0,INDIA,MentalRetardation, Total ,Persons,322285,1183679
+0,INDIA,MentalRetardation, Total ,Males,232298,638600
+0,INDIA,MentalRetardation, Total ,Females,89987,545079
+0,INDIA,MentalRetardation, Rural ,Persons,245121,780779
+0,INDIA,MentalRetardation, Rural ,Males,171341,420257
+0,INDIA,MentalRetardation, Rural ,Females,73780,360522
+0,INDIA,MentalRetardation, Urban ,Persons,77164,402900
+0,INDIA,MentalRetardation, Urban ,Males,60957,218343
+0,INDIA,MentalRetardation, Urban ,Females,16207,184557
+0,INDIA,MentalIllness, Total ,Persons,154534,568346
+0,INDIA,MentalIllness, Total ,Males,111873,303885
+0,INDIA,MentalIllness, Total ,Females,42661,264461
+0,INDIA,MentalIllness, Rural ,Persons,121732,374148
+0,INDIA,MentalIllness, Rural ,Males,85522,197936
+0,INDIA,MentalIllness, Rural ,Females,36210,176212
+0,INDIA,MentalIllness, Urban ,Persons,32802,194198
+0,INDIA,MentalIllness, Urban ,Males,26351,105949
+0,INDIA,MentalIllness, Urban ,Females,6451,88249
+0,INDIA,AnyOther, Total ,Persons,2046986,2880603
+0,INDIA,AnyOther, Total ,Males,1456713,1271412
+0,INDIA,AnyOther, Total ,Females,590273,1609191
+0,INDIA,AnyOther, Rural ,Persons,1433820,1859287
+0,INDIA,AnyOther, Rural ,Males,983945,843936
+0,INDIA,AnyOther, Rural ,Females,449875,1015351
+0,INDIA,AnyOther, Urban ,Persons,613166,1021316
+0,INDIA,AnyOther, Urban ,Males,472768,427476
+0,INDIA,AnyOther, Urban ,Females,140398,593840
+0,INDIA,MultipleDisability, Total ,Persons,392470,1724228
+0,INDIA,MultipleDisability, Total ,Males,280510,882202
+0,INDIA,MultipleDisability, Total ,Females,111960,842026
+0,INDIA,MultipleDisability, Rural ,Persons,305476,1279028
+0,INDIA,MultipleDisability, Rural ,Males,211812,651409
+0,INDIA,MultipleDisability, Rural ,Females,93664,627619
+0,INDIA,MultipleDisability, Urban ,Persons,86994,445200
+0,INDIA,MultipleDisability, Urban ,Males,68698,230793
+0,INDIA,MultipleDisability, Urban ,Females,18296,214407
+1,State - JAMMU & KASHMIR (01),TotalDisabledPopulation, Total ,Persons,121532,239621
+1,State - JAMMU & KASHMIR (01),TotalDisabledPopulation, Total ,Males,93948,110886
+1,State - JAMMU & KASHMIR (01),TotalDisabledPopulation, Total ,Females,27584,128735
+1,State - JAMMU & KASHMIR (01),TotalDisabledPopulation, Rural ,Persons,91369,182583
+1,State - JAMMU & KASHMIR (01),TotalDisabledPopulation, Rural ,Males,69322,85570
+1,State - JAMMU & KASHMIR (01),TotalDisabledPopulation, Rural ,Females,22047,97013
+1,State - JAMMU & KASHMIR (01),TotalDisabledPopulation, Urban ,Persons,30163,57038
+1,State - JAMMU & KASHMIR (01),TotalDisabledPopulation, Urban ,Males,24626,25316
+1,State - JAMMU & KASHMIR (01),TotalDisabledPopulation, Urban ,Females,5537,31722
+1,State - JAMMU & KASHMIR (01),InSeeing, Total ,Persons,22281,44167
+1,State - JAMMU & KASHMIR (01),InSeeing, Total ,Males,16860,18796
+1,State - JAMMU & KASHMIR (01),InSeeing, Total ,Females,5421,25371
+1,State - JAMMU & KASHMIR (01),InSeeing, Rural ,Persons,16856,33286
+1,State - JAMMU & KASHMIR (01),InSeeing, Rural ,Males,12607,14412
+1,State - JAMMU & KASHMIR (01),InSeeing, Rural ,Females,4249,18874
+1,State - JAMMU & KASHMIR (01),InSeeing, Urban ,Persons,5425,10881
+1,State - JAMMU & KASHMIR (01),InSeeing, Urban ,Males,4253,4384
+1,State - JAMMU & KASHMIR (01),InSeeing, Urban ,Females,1172,6497
+1,State - JAMMU & KASHMIR (01),InHearing, Total ,Persons,29855,44241
+1,State - JAMMU & KASHMIR (01),InHearing, Total ,Males,23815,18929
+1,State - JAMMU & KASHMIR (01),InHearing, Total ,Females,6040,25312
+1,State - JAMMU & KASHMIR (01),InHearing, Rural ,Persons,19947,31942
+1,State - JAMMU & KASHMIR (01),InHearing, Rural ,Males,15261,13940
+1,State - JAMMU & KASHMIR (01),InHearing, Rural ,Females,4686,18002
+1,State - JAMMU & KASHMIR (01),InHearing, Urban ,Persons,9908,12299
+1,State - JAMMU & KASHMIR (01),InHearing, Urban ,Males,8554,4989
+1,State - JAMMU & KASHMIR (01),InHearing, Urban ,Females,1354,7310
+1,State - JAMMU & KASHMIR (01),InSpeech, Total ,Persons,6548,12133
+1,State - JAMMU & KASHMIR (01),InSpeech, Total ,Males,5253,6098
+1,State - JAMMU & KASHMIR (01),InSpeech, Total ,Females,1295,6035
+1,State - JAMMU & KASHMIR (01),InSpeech, Rural ,Persons,5278,9594
+1,State - JAMMU & KASHMIR (01),InSpeech, Rural ,Males,4188,4908
+1,State - JAMMU & KASHMIR (01),InSpeech, Rural ,Females,1090,4686
+1,State - JAMMU & KASHMIR (01),InSpeech, Urban ,Persons,1270,2539
+1,State - JAMMU & KASHMIR (01),InSpeech, Urban ,Males,1065,1190
+1,State - JAMMU & KASHMIR (01),InSpeech, Urban ,Females,205,1349
+1,State - JAMMU & KASHMIR (01),InMovement, Total ,Persons,19323,38814
+1,State - JAMMU & KASHMIR (01),InMovement, Total ,Males,15600,19545
+1,State - JAMMU & KASHMIR (01),InMovement, Total ,Females,3723,19269
+1,State - JAMMU & KASHMIR (01),InMovement, Rural ,Persons,16183,31589
+1,State - JAMMU & KASHMIR (01),InMovement, Rural ,Males,12989,15989
+1,State - JAMMU & KASHMIR (01),InMovement, Rural ,Females,3194,15600
+1,State - JAMMU & KASHMIR (01),InMovement, Urban ,Persons,3140,7225
+1,State - JAMMU & KASHMIR (01),InMovement, Urban ,Males,2611,3556
+1,State - JAMMU & KASHMIR (01),InMovement, Urban ,Females,529,3669
+1,State - JAMMU & KASHMIR (01),MentalRetardation, Total ,Persons,3980,12744
+1,State - JAMMU & KASHMIR (01),MentalRetardation, Total ,Males,3005,6793
+1,State - JAMMU & KASHMIR (01),MentalRetardation, Total ,Females,975,5951
+1,State - JAMMU & KASHMIR (01),MentalRetardation, Rural ,Persons,3031,9183
+1,State - JAMMU & KASHMIR (01),MentalRetardation, Rural ,Males,2240,4881
+1,State - JAMMU & KASHMIR (01),MentalRetardation, Rural ,Females,791,4302
+1,State - JAMMU & KASHMIR (01),MentalRetardation, Urban ,Persons,949,3561
+1,State - JAMMU & KASHMIR (01),MentalRetardation, Urban ,Males,765,1912
+1,State - JAMMU & KASHMIR (01),MentalRetardation, Urban ,Females,184,1649
+1,State - JAMMU & KASHMIR (01),MentalIllness, Total ,Persons,4708,10961
+1,State - JAMMU & KASHMIR (01),MentalIllness, Total ,Males,3378,5432
+1,State - JAMMU & KASHMIR (01),MentalIllness, Total ,Females,1330,5529
+1,State - JAMMU & KASHMIR (01),MentalIllness, Rural ,Persons,3626,7955
+1,State - JAMMU & KASHMIR (01),MentalIllness, Rural ,Males,2592,3855
+1,State - JAMMU & KASHMIR (01),MentalIllness, Rural ,Females,1034,4100
+1,State - JAMMU & KASHMIR (01),MentalIllness, Urban ,Persons,1082,3006
+1,State - JAMMU & KASHMIR (01),MentalIllness, Urban ,Males,786,1577
+1,State - JAMMU & KASHMIR (01),MentalIllness, Urban ,Females,296,1429
+1,State - JAMMU & KASHMIR (01),AnyOther, Total ,Persons,25856,41101
+1,State - JAMMU & KASHMIR (01),AnyOther, Total ,Males,19285,17567
+1,State - JAMMU & KASHMIR (01),AnyOther, Total ,Females,6571,23534
+1,State - JAMMU & KASHMIR (01),AnyOther, Rural ,Persons,19017,30382
+1,State - JAMMU & KASHMIR (01),AnyOther, Rural ,Males,13919,13150
+1,State - JAMMU & KASHMIR (01),AnyOther, Rural ,Females,5098,17232
+1,State - JAMMU & KASHMIR (01),AnyOther, Urban ,Persons,6839,10719
+1,State - JAMMU & KASHMIR (01),AnyOther, Urban ,Males,5366,4417
+1,State - JAMMU & KASHMIR (01),AnyOther, Urban ,Females,1473,6302
+1,State - JAMMU & KASHMIR (01),MultipleDisability, Total ,Persons,8981,35460
+1,State - JAMMU & KASHMIR (01),MultipleDisability, Total ,Males,6752,17726
+1,State - JAMMU & KASHMIR (01),MultipleDisability, Total ,Females,2229,17734
+1,State - JAMMU & KASHMIR (01),MultipleDisability, Rural ,Persons,7431,28652
+1,State - JAMMU & KASHMIR (01),MultipleDisability, Rural ,Males,5526,14435
+1,State - JAMMU & KASHMIR (01),MultipleDisability, Rural ,Females,1905,14217
+1,State - JAMMU & KASHMIR (01),MultipleDisability, Urban ,Persons,1550,6808
+1,State - JAMMU & KASHMIR (01),MultipleDisability, Urban ,Males,1226,3291
+1,State - JAMMU & KASHMIR (01),MultipleDisability, Urban ,Females,324,3517
+2,State - HIMACHAL PRADESH (02),TotalDisabledPopulation, Total ,Persons,68917,86399
+2,State - HIMACHAL PRADESH (02),TotalDisabledPopulation, Total ,Males,43731,42590
+2,State - HIMACHAL PRADESH (02),TotalDisabledPopulation, Total ,Females,25186,43809
+2,State - HIMACHAL PRADESH (02),TotalDisabledPopulation, Rural ,Persons,64506,78159
+2,State - HIMACHAL PRADESH (02),TotalDisabledPopulation, Rural ,Males,40197,38766
+2,State - HIMACHAL PRADESH (02),TotalDisabledPopulation, Rural ,Females,24309,39393
+2,State - HIMACHAL PRADESH (02),TotalDisabledPopulation, Urban ,Persons,4411,8240
+2,State - HIMACHAL PRADESH (02),TotalDisabledPopulation, Urban ,Males,3534,3824
+2,State - HIMACHAL PRADESH (02),TotalDisabledPopulation, Urban ,Females,877,4416
+2,State - HIMACHAL PRADESH (02),InSeeing, Total ,Persons,12060,14016
+2,State - HIMACHAL PRADESH (02),InSeeing, Total ,Males,7296,6086
+2,State - HIMACHAL PRADESH (02),InSeeing, Total ,Females,4764,7930
+2,State - HIMACHAL PRADESH (02),InSeeing, Rural ,Persons,11336,12804
+2,State - HIMACHAL PRADESH (02),InSeeing, Rural ,Males,6741,5550
+2,State - HIMACHAL PRADESH (02),InSeeing, Rural ,Females,4595,7254
+2,State - HIMACHAL PRADESH (02),InSeeing, Urban ,Persons,724,1212
+2,State - HIMACHAL PRADESH (02),InSeeing, Urban ,Males,555,536
+2,State - HIMACHAL PRADESH (02),InSeeing, Urban ,Females,169,676
+2,State - HIMACHAL PRADESH (02),InHearing, Total ,Persons,13649,13051
+2,State - HIMACHAL PRADESH (02),InHearing, Total ,Males,8575,5668
+2,State - HIMACHAL PRADESH (02),InHearing, Total ,Females,5074,7383
+2,State - HIMACHAL PRADESH (02),InHearing, Rural ,Persons,12523,11416
+2,State - HIMACHAL PRADESH (02),InHearing, Rural ,Males,7630,5023
+2,State - HIMACHAL PRADESH (02),InHearing, Rural ,Females,4893,6393
+2,State - HIMACHAL PRADESH (02),InHearing, Urban ,Persons,1126,1635
+2,State - HIMACHAL PRADESH (02),InHearing, Urban ,Males,945,645
+2,State - HIMACHAL PRADESH (02),InHearing, Urban ,Females,181,990
+2,State - HIMACHAL PRADESH (02),InSpeech, Total ,Persons,3976,4302
+2,State - HIMACHAL PRADESH (02),InSpeech, Total ,Males,2581,2298
+2,State - HIMACHAL PRADESH (02),InSpeech, Total ,Females,1395,2004
+2,State - HIMACHAL PRADESH (02),InSpeech, Rural ,Persons,3747,3801
+2,State - HIMACHAL PRADESH (02),InSpeech, Rural ,Males,2388,2075
+2,State - HIMACHAL PRADESH (02),InSpeech, Rural ,Females,1359,1726
+2,State - HIMACHAL PRADESH (02),InSpeech, Urban ,Persons,229,501
+2,State - HIMACHAL PRADESH (02),InSpeech, Urban ,Males,193,223
+2,State - HIMACHAL PRADESH (02),InSpeech, Urban ,Females,36,278
+2,State - HIMACHAL PRADESH (02),InMovement, Total ,Persons,14535,18015
+2,State - HIMACHAL PRADESH (02),InMovement, Total ,Males,10056,9391
+2,State - HIMACHAL PRADESH (02),InMovement, Total ,Females,4479,8624
+2,State - HIMACHAL PRADESH (02),InMovement, Rural ,Persons,13709,16718
+2,State - HIMACHAL PRADESH (02),InMovement, Rural ,Males,9375,8765
+2,State - HIMACHAL PRADESH (02),InMovement, Rural ,Females,4334,7953
+2,State - HIMACHAL PRADESH (02),InMovement, Urban ,Persons,826,1297
+2,State - HIMACHAL PRADESH (02),InMovement, Urban ,Males,681,626
+2,State - HIMACHAL PRADESH (02),InMovement, Urban ,Females,145,671
+2,State - HIMACHAL PRADESH (02),MentalRetardation, Total ,Persons,2833,6153
+2,State - HIMACHAL PRADESH (02),MentalRetardation, Total ,Males,1809,3501
+2,State - HIMACHAL PRADESH (02),MentalRetardation, Total ,Females,1024,2652
+2,State - HIMACHAL PRADESH (02),MentalRetardation, Rural ,Persons,2671,5456
+2,State - HIMACHAL PRADESH (02),MentalRetardation, Rural ,Males,1681,3128
+2,State - HIMACHAL PRADESH (02),MentalRetardation, Rural ,Females,990,2328
+2,State - HIMACHAL PRADESH (02),MentalRetardation, Urban ,Persons,162,697
+2,State - HIMACHAL PRADESH (02),MentalRetardation, Urban ,Males,128,373
+2,State - HIMACHAL PRADESH (02),MentalRetardation, Urban ,Females,34,324
+2,State - HIMACHAL PRADESH (02),MentalIllness, Total ,Persons,1594,3572
+2,State - HIMACHAL PRADESH (02),MentalIllness, Total ,Males,1009,2021
+2,State - HIMACHAL PRADESH (02),MentalIllness, Total ,Females,585,1551
+2,State - HIMACHAL PRADESH (02),MentalIllness, Rural ,Persons,1537,3227
+2,State - HIMACHAL PRADESH (02),MentalIllness, Rural ,Males,961,1808
+2,State - HIMACHAL PRADESH (02),MentalIllness, Rural ,Females,576,1419
+2,State - HIMACHAL PRADESH (02),MentalIllness, Urban ,Persons,57,345
+2,State - HIMACHAL PRADESH (02),MentalIllness, Urban ,Males,48,213
+2,State - HIMACHAL PRADESH (02),MentalIllness, Urban ,Females,9,132
+2,State - HIMACHAL PRADESH (02),AnyOther, Total ,Persons,16074,12950
+2,State - HIMACHAL PRADESH (02),AnyOther, Total ,Males,9806,6158
+2,State - HIMACHAL PRADESH (02),AnyOther, Total ,Females,6268,6792
+2,State - HIMACHAL PRADESH (02),AnyOther, Rural ,Persons,14943,11309
+2,State - HIMACHAL PRADESH (02),AnyOther, Rural ,Males,8950,5480
+2,State - HIMACHAL PRADESH (02),AnyOther, Rural ,Females,5993,5829
+2,State - HIMACHAL PRADESH (02),AnyOther, Urban ,Persons,1131,1641
+2,State - HIMACHAL PRADESH (02),AnyOther, Urban ,Males,856,678
+2,State - HIMACHAL PRADESH (02),AnyOther, Urban ,Females,275,963
+2,State - HIMACHAL PRADESH (02),MultipleDisability, Total ,Persons,4196,14340
+2,State - HIMACHAL PRADESH (02),MultipleDisability, Total ,Males,2599,7467
+2,State - HIMACHAL PRADESH (02),MultipleDisability, Total ,Females,1597,6873
+2,State - HIMACHAL PRADESH (02),MultipleDisability, Rural ,Persons,4040,13428
+2,State - HIMACHAL PRADESH (02),MultipleDisability, Rural ,Males,2471,6937
+2,State - HIMACHAL PRADESH (02),MultipleDisability, Rural ,Females,1569,6491
+2,State - HIMACHAL PRADESH (02),MultipleDisability, Urban ,Persons,156,912
+2,State - HIMACHAL PRADESH (02),MultipleDisability, Urban ,Males,128,530
+2,State - HIMACHAL PRADESH (02),MultipleDisability, Urban ,Females,28,382
+3,State - PUNJAB (03),TotalDisabledPopulation, Total ,Persons,216320,437743
+3,State - PUNJAB (03),TotalDisabledPopulation, Total ,Males,176623,202928
+3,State - PUNJAB (03),TotalDisabledPopulation, Total ,Females,39697,234815
+3,State - PUNJAB (03),TotalDisabledPopulation, Rural ,Persons,140392,289921
+3,State - PUNJAB (03),TotalDisabledPopulation, Rural ,Males,114768,136521
+3,State - PUNJAB (03),TotalDisabledPopulation, Rural ,Females,25624,153400
+3,State - PUNJAB (03),TotalDisabledPopulation, Urban ,Persons,75928,147822
+3,State - PUNJAB (03),TotalDisabledPopulation, Urban ,Males,61855,66407
+3,State - PUNJAB (03),TotalDisabledPopulation, Urban ,Females,14073,81415
+3,State - PUNJAB (03),InSeeing, Total ,Persons,26511,55688
+3,State - PUNJAB (03),InSeeing, Total ,Males,21361,23450
+3,State - PUNJAB (03),InSeeing, Total ,Females,5150,32238
+3,State - PUNJAB (03),InSeeing, Rural ,Persons,17157,38008
+3,State - PUNJAB (03),InSeeing, Rural ,Males,13710,16129
+3,State - PUNJAB (03),InSeeing, Rural ,Females,3447,21879
+3,State - PUNJAB (03),InSeeing, Urban ,Persons,9354,17680
+3,State - PUNJAB (03),InSeeing, Urban ,Males,7651,7321
+3,State - PUNJAB (03),InSeeing, Urban ,Females,1703,10359
+3,State - PUNJAB (03),InHearing, Total ,Persons,54120,92576
+3,State - PUNJAB (03),InHearing, Total ,Males,42650,36111
+3,State - PUNJAB (03),InHearing, Total ,Females,11470,56465
+3,State - PUNJAB (03),InHearing, Rural ,Persons,30164,53571
+3,State - PUNJAB (03),InHearing, Rural ,Males,23660,21122
+3,State - PUNJAB (03),InHearing, Rural ,Females,6504,32449
+3,State - PUNJAB (03),InHearing, Urban ,Persons,23956,39005
+3,State - PUNJAB (03),InHearing, Urban ,Males,18990,14989
+3,State - PUNJAB (03),InHearing, Urban ,Females,4966,24016
+3,State - PUNJAB (03),InSpeech, Total ,Persons,7259,17290
+3,State - PUNJAB (03),InSpeech, Total ,Males,6042,8255
+3,State - PUNJAB (03),InSpeech, Total ,Females,1217,9035
+3,State - PUNJAB (03),InSpeech, Rural ,Persons,4557,11461
+3,State - PUNJAB (03),InSpeech, Rural ,Males,3778,5518
+3,State - PUNJAB (03),InSpeech, Rural ,Females,779,5943
+3,State - PUNJAB (03),InSpeech, Urban ,Persons,2702,5829
+3,State - PUNJAB (03),InSpeech, Urban ,Males,2264,2737
+3,State - PUNJAB (03),InSpeech, Urban ,Females,438,3092
+3,State - PUNJAB (03),InMovement, Total ,Persons,46758,83286
+3,State - PUNJAB (03),InMovement, Total ,Males,39736,41798
+3,State - PUNJAB (03),InMovement, Total ,Females,7022,41488
+3,State - PUNJAB (03),InMovement, Rural ,Persons,33933,60843
+3,State - PUNJAB (03),InMovement, Rural ,Males,28882,30921
+3,State - PUNJAB (03),InMovement, Rural ,Females,5051,29922
+3,State - PUNJAB (03),InMovement, Urban ,Persons,12825,22443
+3,State - PUNJAB (03),InMovement, Urban ,Males,10854,10877
+3,State - PUNJAB (03),InMovement, Urban ,Females,1971,11566
+3,State - PUNJAB (03),MentalRetardation, Total ,Persons,7490,37580
+3,State - PUNJAB (03),MentalRetardation, Total ,Males,6233,21099
+3,State - PUNJAB (03),MentalRetardation, Total ,Females,1257,16481
+3,State - PUNJAB (03),MentalRetardation, Rural ,Persons,4935,25008
+3,State - PUNJAB (03),MentalRetardation, Rural ,Males,4099,14117
+3,State - PUNJAB (03),MentalRetardation, Rural ,Females,836,10891
+3,State - PUNJAB (03),MentalRetardation, Urban ,Persons,2555,12572
+3,State - PUNJAB (03),MentalRetardation, Urban ,Males,2134,6982
+3,State - PUNJAB (03),MentalRetardation, Urban ,Females,421,5590
+3,State - PUNJAB (03),MentalIllness, Total ,Persons,3568,18357
+3,State - PUNJAB (03),MentalIllness, Total ,Males,3013,10568
+3,State - PUNJAB (03),MentalIllness, Total ,Females,555,7789
+3,State - PUNJAB (03),MentalIllness, Rural ,Persons,2558,12592
+3,State - PUNJAB (03),MentalIllness, Rural ,Males,2137,7227
+3,State - PUNJAB (03),MentalIllness, Rural ,Females,421,5365
+3,State - PUNJAB (03),MentalIllness, Urban ,Persons,1010,5765
+3,State - PUNJAB (03),MentalIllness, Urban ,Males,876,3341
+3,State - PUNJAB (03),MentalIllness, Urban ,Females,134,2424
+3,State - PUNJAB (03),AnyOther, Total ,Persons,65468,100139
+3,State - PUNJAB (03),AnyOther, Total ,Males,53314,43011
+3,State - PUNJAB (03),AnyOther, Total ,Females,12154,57128
+3,State - PUNJAB (03),AnyOther, Rural ,Persons,43725,65182
+3,State - PUNJAB (03),AnyOther, Rural ,Males,35749,28182
+3,State - PUNJAB (03),AnyOther, Rural ,Females,7976,37000
+3,State - PUNJAB (03),AnyOther, Urban ,Persons,21743,34957
+3,State - PUNJAB (03),AnyOther, Urban ,Males,17565,14829
+3,State - PUNJAB (03),AnyOther, Urban ,Females,4178,20128
+3,State - PUNJAB (03),MultipleDisability, Total ,Persons,5146,32827
+3,State - PUNJAB (03),MultipleDisability, Total ,Males,4274,18636
+3,State - PUNJAB (03),MultipleDisability, Total ,Females,872,14191
+3,State - PUNJAB (03),MultipleDisability, Rural ,Persons,3363,23256
+3,State - PUNJAB (03),MultipleDisability, Rural ,Males,2753,13305
+3,State - PUNJAB (03),MultipleDisability, Rural ,Females,610,9951
+3,State - PUNJAB (03),MultipleDisability, Urban ,Persons,1783,9571
+3,State - PUNJAB (03),MultipleDisability, Urban ,Males,1521,5331
+3,State - PUNJAB (03),MultipleDisability, Urban ,Females,262,4240
+4,State - CHANDIGARH (04),TotalDisabledPopulation, Total ,Persons,4641,10155
+4,State - CHANDIGARH (04),TotalDisabledPopulation, Total ,Males,3885,4858
+4,State - CHANDIGARH (04),TotalDisabledPopulation, Total ,Females,756,5297
+4,State - CHANDIGARH (04),TotalDisabledPopulation, Rural ,Persons,126,220
+4,State - CHANDIGARH (04),TotalDisabledPopulation, Rural ,Males,110,102
+4,State - CHANDIGARH (04),TotalDisabledPopulation, Rural ,Females,16,118
+4,State - CHANDIGARH (04),TotalDisabledPopulation, Urban ,Persons,4515,9935
+4,State - CHANDIGARH (04),TotalDisabledPopulation, Urban ,Males,3775,4756
+4,State - CHANDIGARH (04),TotalDisabledPopulation, Urban ,Females,740,5179
+4,State - CHANDIGARH (04),InSeeing, Total ,Persons,608,1166
+4,State - CHANDIGARH (04),InSeeing, Total ,Males,514,564
+4,State - CHANDIGARH (04),InSeeing, Total ,Females,94,602
+4,State - CHANDIGARH (04),InSeeing, Rural ,Persons,9,22
+4,State - CHANDIGARH (04),InSeeing, Rural ,Males,7,7
+4,State - CHANDIGARH (04),InSeeing, Rural ,Females,2,15
+4,State - CHANDIGARH (04),InSeeing, Urban ,Persons,599,1144
+4,State - CHANDIGARH (04),InSeeing, Urban ,Males,507,557
+4,State - CHANDIGARH (04),InSeeing, Urban ,Females,92,587
+4,State - CHANDIGARH (04),InHearing, Total ,Persons,875,1600
+4,State - CHANDIGARH (04),InHearing, Total ,Males,720,548
+4,State - CHANDIGARH (04),InHearing, Total ,Females,155,1052
+4,State - CHANDIGARH (04),InHearing, Rural ,Persons,17,15
+4,State - CHANDIGARH (04),InHearing, Rural ,Males,15,10
+4,State - CHANDIGARH (04),InHearing, Rural ,Females,2,5
+4,State - CHANDIGARH (04),InHearing, Urban ,Persons,858,1585
+4,State - CHANDIGARH (04),InHearing, Urban ,Males,705,538
+4,State - CHANDIGARH (04),InHearing, Urban ,Females,153,1047
+4,State - CHANDIGARH (04),InSpeech, Total ,Persons,332,629
+4,State - CHANDIGARH (04),InSpeech, Total ,Males,274,288
+4,State - CHANDIGARH (04),InSpeech, Total ,Females,58,341
+4,State - CHANDIGARH (04),InSpeech, Rural ,Persons,21,28
+4,State - CHANDIGARH (04),InSpeech, Rural ,Males,19,7
+4,State - CHANDIGARH (04),InSpeech, Rural ,Females,2,21
+4,State - CHANDIGARH (04),InSpeech, Urban ,Persons,311,601
+4,State - CHANDIGARH (04),InSpeech, Urban ,Males,255,281
+4,State - CHANDIGARH (04),InSpeech, Urban ,Females,56,320
+4,State - CHANDIGARH (04),InMovement, Total ,Persons,1507,2308
+4,State - CHANDIGARH (04),InMovement, Total ,Males,1270,1108
+4,State - CHANDIGARH (04),InMovement, Total ,Females,237,1200
+4,State - CHANDIGARH (04),InMovement, Rural ,Persons,58,71
+4,State - CHANDIGARH (04),InMovement, Rural ,Males,50,35
+4,State - CHANDIGARH (04),InMovement, Rural ,Females,8,36
+4,State - CHANDIGARH (04),InMovement, Urban ,Persons,1449,2237
+4,State - CHANDIGARH (04),InMovement, Urban ,Males,1220,1073
+4,State - CHANDIGARH (04),InMovement, Urban ,Females,229,1164
+4,State - CHANDIGARH (04),MentalRetardation, Total ,Persons,102,988
+4,State - CHANDIGARH (04),MentalRetardation, Total ,Males,82,601
+4,State - CHANDIGARH (04),MentalRetardation, Total ,Females,20,387
+4,State - CHANDIGARH (04),MentalRetardation, Rural ,Persons,1,15
+4,State - CHANDIGARH (04),MentalRetardation, Rural ,Males,0,6
+4,State - CHANDIGARH (04),MentalRetardation, Rural ,Females,1,9
+4,State - CHANDIGARH (04),MentalRetardation, Urban ,Persons,101,973
+4,State - CHANDIGARH (04),MentalRetardation, Urban ,Males,82,595
+4,State - CHANDIGARH (04),MentalRetardation, Urban ,Females,19,378
+4,State - CHANDIGARH (04),MentalIllness, Total ,Persons,115,641
+4,State - CHANDIGARH (04),MentalIllness, Total ,Males,99,346
+4,State - CHANDIGARH (04),MentalIllness, Total ,Females,16,295
+4,State - CHANDIGARH (04),MentalIllness, Rural ,Persons,4,16
+4,State - CHANDIGARH (04),MentalIllness, Rural ,Males,4,7
+4,State - CHANDIGARH (04),MentalIllness, Rural ,Females,0,9
+4,State - CHANDIGARH (04),MentalIllness, Urban ,Persons,111,625
+4,State - CHANDIGARH (04),MentalIllness, Urban ,Males,95,339
+4,State - CHANDIGARH (04),MentalIllness, Urban ,Females,16,286
+4,State - CHANDIGARH (04),AnyOther, Total ,Persons,902,1681
+4,State - CHANDIGARH (04),AnyOther, Total ,Males,760,794
+4,State - CHANDIGARH (04),AnyOther, Total ,Females,142,887
+4,State - CHANDIGARH (04),AnyOther, Rural ,Persons,14,26
+4,State - CHANDIGARH (04),AnyOther, Rural ,Males,13,15
+4,State - CHANDIGARH (04),AnyOther, Rural ,Females,1,11
+4,State - CHANDIGARH (04),AnyOther, Urban ,Persons,888,1655
+4,State - CHANDIGARH (04),AnyOther, Urban ,Males,747,779
+4,State - CHANDIGARH (04),AnyOther, Urban ,Females,141,876
+4,State - CHANDIGARH (04),MultipleDisability, Total ,Persons,200,1142
+4,State - CHANDIGARH (04),MultipleDisability, Total ,Males,166,609
+4,State - CHANDIGARH (04),MultipleDisability, Total ,Females,34,533
+4,State - CHANDIGARH (04),MultipleDisability, Rural ,Persons,2,27
+4,State - CHANDIGARH (04),MultipleDisability, Rural ,Males,2,15
+4,State - CHANDIGARH (04),MultipleDisability, Rural ,Females,0,12
+4,State - CHANDIGARH (04),MultipleDisability, Urban ,Persons,198,1115
+4,State - CHANDIGARH (04),MultipleDisability, Urban ,Males,164,594
+4,State - CHANDIGARH (04),MultipleDisability, Urban ,Females,34,521
+5,State - UTTARAKHAND (05),TotalDisabledPopulation, Total ,Persons,64888,120384
+5,State - UTTARAKHAND (05),TotalDisabledPopulation, Total ,Males,44868,57919
+5,State - UTTARAKHAND (05),TotalDisabledPopulation, Total ,Females,20020,62465
+5,State - UTTARAKHAND (05),TotalDisabledPopulation, Rural ,Persons,49320,84777
+5,State - UTTARAKHAND (05),TotalDisabledPopulation, Rural ,Males,31796,41448
+5,State - UTTARAKHAND (05),TotalDisabledPopulation, Rural ,Females,17524,43329
+5,State - UTTARAKHAND (05),TotalDisabledPopulation, Urban ,Persons,15568,35607
+5,State - UTTARAKHAND (05),TotalDisabledPopulation, Urban ,Males,13072,16471
+5,State - UTTARAKHAND (05),TotalDisabledPopulation, Urban ,Females,2496,19136
+5,State - UTTARAKHAND (05),InSeeing, Total ,Persons,10579,18528
+5,State - UTTARAKHAND (05),InSeeing, Total ,Males,6881,7605
+5,State - UTTARAKHAND (05),InSeeing, Total ,Females,3698,10923
+5,State - UTTARAKHAND (05),InSeeing, Rural ,Persons,8278,13205
+5,State - UTTARAKHAND (05),InSeeing, Rural ,Males,4978,5363
+5,State - UTTARAKHAND (05),InSeeing, Rural ,Females,3300,7842
+5,State - UTTARAKHAND (05),InSeeing, Urban ,Persons,2301,5323
+5,State - UTTARAKHAND (05),InSeeing, Urban ,Males,1903,2242
+5,State - UTTARAKHAND (05),InSeeing, Urban ,Females,398,3081
+5,State - UTTARAKHAND (05),InHearing, Total ,Persons,15738,21943
+5,State - UTTARAKHAND (05),InHearing, Total ,Males,10444,8748
+5,State - UTTARAKHAND (05),InHearing, Total ,Females,5294,13195
+5,State - UTTARAKHAND (05),InHearing, Rural ,Persons,11089,14223
+5,State - UTTARAKHAND (05),InHearing, Rural ,Males,6517,5893
+5,State - UTTARAKHAND (05),InHearing, Rural ,Females,4572,8330
+5,State - UTTARAKHAND (05),InHearing, Urban ,Persons,4649,7720
+5,State - UTTARAKHAND (05),InHearing, Urban ,Males,3927,2855
+5,State - UTTARAKHAND (05),InHearing, Urban ,Females,722,4865
+5,State - UTTARAKHAND (05),InSpeech, Total ,Persons,4841,7507
+5,State - UTTARAKHAND (05),InSpeech, Total ,Males,3399,3609
+5,State - UTTARAKHAND (05),InSpeech, Total ,Females,1442,3898
+5,State - UTTARAKHAND (05),InSpeech, Rural ,Persons,3684,5124
+5,State - UTTARAKHAND (05),InSpeech, Rural ,Males,2414,2552
+5,State - UTTARAKHAND (05),InSpeech, Rural ,Females,1270,2572
+5,State - UTTARAKHAND (05),InSpeech, Urban ,Persons,1157,2383
+5,State - UTTARAKHAND (05),InSpeech, Urban ,Males,985,1057
+5,State - UTTARAKHAND (05),InSpeech, Urban ,Females,172,1326
+5,State - UTTARAKHAND (05),InMovement, Total ,Persons,13459,23537
+5,State - UTTARAKHAND (05),InMovement, Total ,Males,10241,12502
+5,State - UTTARAKHAND (05),InMovement, Total ,Females,3218,11035
+5,State - UTTARAKHAND (05),InMovement, Rural ,Persons,10449,17498
+5,State - UTTARAKHAND (05),InMovement, Rural ,Males,7635,9335
+5,State - UTTARAKHAND (05),InMovement, Rural ,Females,2814,8163
+5,State - UTTARAKHAND (05),InMovement, Urban ,Persons,3010,6039
+5,State - UTTARAKHAND (05),InMovement, Urban ,Males,2606,3167
+5,State - UTTARAKHAND (05),InMovement, Urban ,Females,404,2872
+5,State - UTTARAKHAND (05),MentalRetardation, Total ,Persons,2394,9056
+5,State - UTTARAKHAND (05),MentalRetardation, Total ,Males,1742,5210
+5,State - UTTARAKHAND (05),MentalRetardation, Total ,Females,652,3846
+5,State - UTTARAKHAND (05),MentalRetardation, Rural ,Persons,1993,6375
+5,State - UTTARAKHAND (05),MentalRetardation, Rural ,Males,1411,3679
+5,State - UTTARAKHAND (05),MentalRetardation, Rural ,Females,582,2696
+5,State - UTTARAKHAND (05),MentalRetardation, Urban ,Persons,401,2681
+5,State - UTTARAKHAND (05),MentalRetardation, Urban ,Males,331,1531
+5,State - UTTARAKHAND (05),MentalRetardation, Urban ,Females,70,1150
+5,State - UTTARAKHAND (05),MentalIllness, Total ,Persons,1260,5183
+5,State - UTTARAKHAND (05),MentalIllness, Total ,Males,897,3038
+5,State - UTTARAKHAND (05),MentalIllness, Total ,Females,363,2145
+5,State - UTTARAKHAND (05),MentalIllness, Rural ,Persons,1087,3676
+5,State - UTTARAKHAND (05),MentalIllness, Rural ,Males,742,2240
+5,State - UTTARAKHAND (05),MentalIllness, Rural ,Females,345,1436
+5,State - UTTARAKHAND (05),MentalIllness, Urban ,Persons,173,1507
+5,State - UTTARAKHAND (05),MentalIllness, Urban ,Males,155,798
+5,State - UTTARAKHAND (05),MentalIllness, Urban ,Females,18,709
+5,State - UTTARAKHAND (05),AnyOther, Total ,Persons,12469,18254
+5,State - UTTARAKHAND (05),AnyOther, Total ,Males,8519,8640
+5,State - UTTARAKHAND (05),AnyOther, Total ,Females,3950,9614
+5,State - UTTARAKHAND (05),AnyOther, Rural ,Persons,9386,12156
+5,State - UTTARAKHAND (05),AnyOther, Rural ,Males,5993,5866
+5,State - UTTARAKHAND (05),AnyOther, Rural ,Females,3393,6290
+5,State - UTTARAKHAND (05),AnyOther, Urban ,Persons,3083,6098
+5,State - UTTARAKHAND (05),AnyOther, Urban ,Males,2526,2774
+5,State - UTTARAKHAND (05),AnyOther, Urban ,Females,557,3324
+5,State - UTTARAKHAND (05),MultipleDisability, Total ,Persons,4148,16376
+5,State - UTTARAKHAND (05),MultipleDisability, Total ,Males,2745,8567
+5,State - UTTARAKHAND (05),MultipleDisability, Total ,Females,1403,7809
+5,State - UTTARAKHAND (05),MultipleDisability, Rural ,Persons,3354,12520
+5,State - UTTARAKHAND (05),MultipleDisability, Rural ,Males,2106,6520
+5,State - UTTARAKHAND (05),MultipleDisability, Rural ,Females,1248,6000
+5,State - UTTARAKHAND (05),MultipleDisability, Urban ,Persons,794,3856
+5,State - UTTARAKHAND (05),MultipleDisability, Urban ,Males,639,2047
+5,State - UTTARAKHAND (05),MultipleDisability, Urban ,Females,155,1809
+6,State - HARYANA (06),TotalDisabledPopulation, Total ,Persons,170600,375774
+6,State - HARYANA (06),TotalDisabledPopulation, Total ,Males,135825,179708
+6,State - HARYANA (06),TotalDisabledPopulation, Total ,Females,34775,196066
+6,State - HARYANA (06),TotalDisabledPopulation, Rural ,Persons,113109,244554
+6,State - HARYANA (06),TotalDisabledPopulation, Rural ,Males,88469,120315
+6,State - HARYANA (06),TotalDisabledPopulation, Rural ,Females,24640,124239
+6,State - HARYANA (06),TotalDisabledPopulation, Urban ,Persons,57491,131220
+6,State - HARYANA (06),TotalDisabledPopulation, Urban ,Males,47356,59393
+6,State - HARYANA (06),TotalDisabledPopulation, Urban ,Females,10135,71827
+6,State - HARYANA (06),InSeeing, Total ,Persons,25630,57072
+6,State - HARYANA (06),InSeeing, Total ,Males,20138,23486
+6,State - HARYANA (06),InSeeing, Total ,Females,5492,33586
+6,State - HARYANA (06),InSeeing, Rural ,Persons,16877,38860
+6,State - HARYANA (06),InSeeing, Rural ,Males,12892,16327
+6,State - HARYANA (06),InSeeing, Rural ,Females,3985,22533
+6,State - HARYANA (06),InSeeing, Urban ,Persons,8753,18212
+6,State - HARYANA (06),InSeeing, Urban ,Males,7246,7159
+6,State - HARYANA (06),InSeeing, Urban ,Females,1507,11053
+6,State - HARYANA (06),InHearing, Total ,Persons,39178,76349
+6,State - HARYANA (06),InHearing, Total ,Males,29397,31519
+6,State - HARYANA (06),InHearing, Total ,Females,9781,44830
+6,State - HARYANA (06),InHearing, Rural ,Persons,22991,43430
+6,State - HARYANA (06),InHearing, Rural ,Males,16657,18372
+6,State - HARYANA (06),InHearing, Rural ,Females,6334,25058
+6,State - HARYANA (06),InHearing, Urban ,Persons,16187,32919
+6,State - HARYANA (06),InHearing, Urban ,Males,12740,13147
+6,State - HARYANA (06),InHearing, Urban ,Females,3447,19772
+6,State - HARYANA (06),InSpeech, Total ,Persons,6727,15060
+6,State - HARYANA (06),InSpeech, Total ,Males,5436,7885
+6,State - HARYANA (06),InSpeech, Total ,Females,1291,7175
+6,State - HARYANA (06),InSpeech, Rural ,Persons,4623,9955
+6,State - HARYANA (06),InSpeech, Rural ,Males,3637,5398
+6,State - HARYANA (06),InSpeech, Rural ,Females,986,4557
+6,State - HARYANA (06),InSpeech, Urban ,Persons,2104,5105
+6,State - HARYANA (06),InSpeech, Urban ,Males,1799,2487
+6,State - HARYANA (06),InSpeech, Urban ,Females,305,2618
+6,State - HARYANA (06),InMovement, Total ,Persons,39534,76492
+6,State - HARYANA (06),InMovement, Total ,Males,33349,39412
+6,State - HARYANA (06),InMovement, Total ,Females,6185,37080
+6,State - HARYANA (06),InMovement, Rural ,Persons,28727,53556
+6,State - HARYANA (06),InMovement, Rural ,Males,23981,28559
+6,State - HARYANA (06),InMovement, Rural ,Females,4746,24997
+6,State - HARYANA (06),InMovement, Urban ,Persons,10807,22936
+6,State - HARYANA (06),InMovement, Urban ,Males,9368,10853
+6,State - HARYANA (06),InMovement, Urban ,Females,1439,12083
+6,State - HARYANA (06),MentalRetardation, Total ,Persons,5524,24546
+6,State - HARYANA (06),MentalRetardation, Total ,Males,4448,14820
+6,State - HARYANA (06),MentalRetardation, Total ,Females,1076,9726
+6,State - HARYANA (06),MentalRetardation, Rural ,Persons,3937,16223
+6,State - HARYANA (06),MentalRetardation, Rural ,Males,3112,9932
+6,State - HARYANA (06),MentalRetardation, Rural ,Females,825,6291
+6,State - HARYANA (06),MentalRetardation, Urban ,Persons,1587,8323
+6,State - HARYANA (06),MentalRetardation, Urban ,Males,1336,4888
+6,State - HARYANA (06),MentalRetardation, Urban ,Females,251,3435
+6,State - HARYANA (06),MentalIllness, Total ,Persons,2799,13392
+6,State - HARYANA (06),MentalIllness, Total ,Males,2318,7980
+6,State - HARYANA (06),MentalIllness, Total ,Females,481,5412
+6,State - HARYANA (06),MentalIllness, Rural ,Persons,2081,8576
+6,State - HARYANA (06),MentalIllness, Rural ,Males,1686,5134
+6,State - HARYANA (06),MentalIllness, Rural ,Females,395,3442
+6,State - HARYANA (06),MentalIllness, Urban ,Persons,718,4816
+6,State - HARYANA (06),MentalIllness, Urban ,Males,632,2846
+6,State - HARYANA (06),MentalIllness, Urban ,Females,86,1970
+6,State - HARYANA (06),AnyOther, Total ,Persons,44862,71959
+6,State - HARYANA (06),AnyOther, Total ,Males,35634,31894
+6,State - HARYANA (06),AnyOther, Total ,Females,9228,40065
+6,State - HARYANA (06),AnyOther, Rural ,Persons,29614,44760
+6,State - HARYANA (06),AnyOther, Rural ,Males,23134,20206
+6,State - HARYANA (06),AnyOther, Rural ,Females,6480,24554
+6,State - HARYANA (06),AnyOther, Urban ,Persons,15248,27199
+6,State - HARYANA (06),AnyOther, Urban ,Males,12500,11688
+6,State - HARYANA (06),AnyOther, Urban ,Females,2748,15511
+6,State - HARYANA (06),MultipleDisability, Total ,Persons,6346,40904
+6,State - HARYANA (06),MultipleDisability, Total ,Males,5105,22712
+6,State - HARYANA (06),MultipleDisability, Total ,Females,1241,18192
+6,State - HARYANA (06),MultipleDisability, Rural ,Persons,4259,29194
+6,State - HARYANA (06),MultipleDisability, Rural ,Males,3370,16387
+6,State - HARYANA (06),MultipleDisability, Rural ,Females,889,12807
+6,State - HARYANA (06),MultipleDisability, Urban ,Persons,2087,11710
+6,State - HARYANA (06),MultipleDisability, Urban ,Males,1735,6325
+6,State - HARYANA (06),MultipleDisability, Urban ,Females,352,5385
+7,State - NCT OF DELHI (07),TotalDisabledPopulation, Total ,Persons,65573,169309
+7,State - NCT OF DELHI (07),TotalDisabledPopulation, Total ,Males,57018,81361
+7,State - NCT OF DELHI (07),TotalDisabledPopulation, Total ,Females,8555,87948
+7,State - NCT OF DELHI (07),TotalDisabledPopulation, Rural ,Persons,1645,4471
+7,State - NCT OF DELHI (07),TotalDisabledPopulation, Rural ,Males,1424,2244
+7,State - NCT OF DELHI (07),TotalDisabledPopulation, Rural ,Females,221,2227
+7,State - NCT OF DELHI (07),TotalDisabledPopulation, Urban ,Persons,63928,164838
+7,State - NCT OF DELHI (07),TotalDisabledPopulation, Urban ,Males,55594,79117
+7,State - NCT OF DELHI (07),TotalDisabledPopulation, Urban ,Females,8334,85721
+7,State - NCT OF DELHI (07),InSeeing, Total ,Persons,9228,20896
+7,State - NCT OF DELHI (07),InSeeing, Total ,Males,7881,8983
+7,State - NCT OF DELHI (07),InSeeing, Total ,Females,1347,11913
+7,State - NCT OF DELHI (07),InSeeing, Rural ,Persons,234,558
+7,State - NCT OF DELHI (07),InSeeing, Rural ,Males,202,228
+7,State - NCT OF DELHI (07),InSeeing, Rural ,Females,32,330
+7,State - NCT OF DELHI (07),InSeeing, Urban ,Persons,8994,20338
+7,State - NCT OF DELHI (07),InSeeing, Urban ,Males,7679,8755
+7,State - NCT OF DELHI (07),InSeeing, Urban ,Females,1315,11583
+7,State - NCT OF DELHI (07),InHearing, Total ,Persons,11695,22804
+7,State - NCT OF DELHI (07),InHearing, Total ,Males,10123,9154
+7,State - NCT OF DELHI (07),InHearing, Total ,Females,1572,13650
+7,State - NCT OF DELHI (07),InHearing, Rural ,Persons,216,609
+7,State - NCT OF DELHI (07),InHearing, Rural ,Males,181,251
+7,State - NCT OF DELHI (07),InHearing, Rural ,Females,35,358
+7,State - NCT OF DELHI (07),InHearing, Urban ,Persons,11479,22195
+7,State - NCT OF DELHI (07),InHearing, Urban ,Males,9942,8903
+7,State - NCT OF DELHI (07),InHearing, Urban ,Females,1537,13292
+7,State - NCT OF DELHI (07),InSpeech, Total ,Persons,4788,10306
+7,State - NCT OF DELHI (07),InSpeech, Total ,Males,4115,4831
+7,State - NCT OF DELHI (07),InSpeech, Total ,Females,673,5475
+7,State - NCT OF DELHI (07),InSpeech, Rural ,Persons,99,240
+7,State - NCT OF DELHI (07),InSpeech, Rural ,Males,83,125
+7,State - NCT OF DELHI (07),InSpeech, Rural ,Females,16,115
+7,State - NCT OF DELHI (07),InSpeech, Urban ,Persons,4689,10066
+7,State - NCT OF DELHI (07),InSpeech, Urban ,Males,4032,4706
+7,State - NCT OF DELHI (07),InSpeech, Urban ,Females,657,5360
+7,State - NCT OF DELHI (07),InMovement, Total ,Persons,21618,45765
+7,State - NCT OF DELHI (07),InMovement, Total ,Males,19081,21646
+7,State - NCT OF DELHI (07),InMovement, Total ,Females,2537,24119
+7,State - NCT OF DELHI (07),InMovement, Rural ,Persons,620,1265
+7,State - NCT OF DELHI (07),InMovement, Rural ,Males,546,652
+7,State - NCT OF DELHI (07),InMovement, Rural ,Females,74,613
+7,State - NCT OF DELHI (07),InMovement, Urban ,Persons,20998,44500
+7,State - NCT OF DELHI (07),InMovement, Urban ,Males,18535,20994
+7,State - NCT OF DELHI (07),InMovement, Urban ,Females,2463,23506
+7,State - NCT OF DELHI (07),MentalRetardation, Total ,Persons,1731,14607
+7,State - NCT OF DELHI (07),MentalRetardation, Total ,Males,1524,8861
+7,State - NCT OF DELHI (07),MentalRetardation, Total ,Females,207,5746
+7,State - NCT OF DELHI (07),MentalRetardation, Rural ,Persons,37,313
+7,State - NCT OF DELHI (07),MentalRetardation, Rural ,Males,33,212
+7,State - NCT OF DELHI (07),MentalRetardation, Rural ,Females,4,101
+7,State - NCT OF DELHI (07),MentalRetardation, Urban ,Persons,1694,14294
+7,State - NCT OF DELHI (07),MentalRetardation, Urban ,Males,1491,8649
+7,State - NCT OF DELHI (07),MentalRetardation, Urban ,Females,203,5645
+7,State - NCT OF DELHI (07),MentalIllness, Total ,Persons,1205,8841
+7,State - NCT OF DELHI (07),MentalIllness, Total ,Males,1067,5225
+7,State - NCT OF DELHI (07),MentalIllness, Total ,Females,138,3616
+7,State - NCT OF DELHI (07),MentalIllness, Rural ,Persons,36,211
+7,State - NCT OF DELHI (07),MentalIllness, Rural ,Males,35,137
+7,State - NCT OF DELHI (07),MentalIllness, Rural ,Females,1,74
+7,State - NCT OF DELHI (07),MentalIllness, Urban ,Persons,1169,8630
+7,State - NCT OF DELHI (07),MentalIllness, Urban ,Males,1032,5088
+7,State - NCT OF DELHI (07),MentalIllness, Urban ,Females,137,3542
+7,State - NCT OF DELHI (07),AnyOther, Total ,Persons,12453,24560
+7,State - NCT OF DELHI (07),AnyOther, Total ,Males,10753,11030
+7,State - NCT OF DELHI (07),AnyOther, Total ,Females,1700,13530
+7,State - NCT OF DELHI (07),AnyOther, Rural ,Persons,331,674
+7,State - NCT OF DELHI (07),AnyOther, Rural ,Males,285,301
+7,State - NCT OF DELHI (07),AnyOther, Rural ,Females,46,373
+7,State - NCT OF DELHI (07),AnyOther, Urban ,Persons,12122,23886
+7,State - NCT OF DELHI (07),AnyOther, Urban ,Males,10468,10729
+7,State - NCT OF DELHI (07),AnyOther, Urban ,Females,1654,13157
+7,State - NCT OF DELHI (07),MultipleDisability, Total ,Persons,2855,21530
+7,State - NCT OF DELHI (07),MultipleDisability, Total ,Males,2474,11631
+7,State - NCT OF DELHI (07),MultipleDisability, Total ,Females,381,9899
+7,State - NCT OF DELHI (07),MultipleDisability, Rural ,Persons,72,601
+7,State - NCT OF DELHI (07),MultipleDisability, Rural ,Males,59,338
+7,State - NCT OF DELHI (07),MultipleDisability, Rural ,Females,13,263
+7,State - NCT OF DELHI (07),MultipleDisability, Urban ,Persons,2783,20929
+7,State - NCT OF DELHI (07),MultipleDisability, Urban ,Males,2415,11293
+7,State - NCT OF DELHI (07),MultipleDisability, Urban ,Females,368,9636
+8,State - RAJASTHAN (08),TotalDisabledPopulation, Total ,Persons,541842,1021852
+8,State - RAJASTHAN (08),TotalDisabledPopulation, Total ,Males,370423,477864
+8,State - RAJASTHAN (08),TotalDisabledPopulation, Total ,Females,171419,543988
+8,State - RAJASTHAN (08),TotalDisabledPopulation, Rural ,Persons,439483,779703
+8,State - RAJASTHAN (08),TotalDisabledPopulation, Rural ,Males,285748,369387
+8,State - RAJASTHAN (08),TotalDisabledPopulation, Rural ,Females,153735,410316
+8,State - RAJASTHAN (08),TotalDisabledPopulation, Urban ,Persons,102359,242149
+8,State - RAJASTHAN (08),TotalDisabledPopulation, Urban ,Males,84675,108477
+8,State - RAJASTHAN (08),TotalDisabledPopulation, Urban ,Females,17684,133672
+8,State - RAJASTHAN (08),InSeeing, Total ,Persons,115414,199204
+8,State - RAJASTHAN (08),InSeeing, Total ,Males,75407,80637
+8,State - RAJASTHAN (08),InSeeing, Total ,Females,40007,118567
+8,State - RAJASTHAN (08),InSeeing, Rural ,Persons,91387,147472
+8,State - RAJASTHAN (08),InSeeing, Rural ,Males,55913,60563
+8,State - RAJASTHAN (08),InSeeing, Rural ,Females,35474,86909
+8,State - RAJASTHAN (08),InSeeing, Urban ,Persons,24027,51732
+8,State - RAJASTHAN (08),InSeeing, Urban ,Males,19494,20074
+8,State - RAJASTHAN (08),InSeeing, Urban ,Females,4533,31658
+8,State - RAJASTHAN (08),InHearing, Total ,Persons,90150,128723
+8,State - RAJASTHAN (08),InHearing, Total ,Males,59220,53979
+8,State - RAJASTHAN (08),InHearing, Total ,Females,30930,74744
+8,State - RAJASTHAN (08),InHearing, Rural ,Persons,70712,90079
+8,State - RAJASTHAN (08),InHearing, Rural ,Males,43399,38722
+8,State - RAJASTHAN (08),InHearing, Rural ,Females,27313,51357
+8,State - RAJASTHAN (08),InHearing, Urban ,Persons,19438,38644
+8,State - RAJASTHAN (08),InHearing, Urban ,Males,15821,15257
+8,State - RAJASTHAN (08),InHearing, Urban ,Females,3617,23387
+8,State - RAJASTHAN (08),InSpeech, Total ,Persons,29132,40352
+8,State - RAJASTHAN (08),InSpeech, Total ,Males,20718,21464
+8,State - RAJASTHAN (08),InSpeech, Total ,Females,8414,18888
+8,State - RAJASTHAN (08),InSpeech, Rural ,Persons,21783,26082
+8,State - RAJASTHAN (08),InSpeech, Rural ,Males,14495,15190
+8,State - RAJASTHAN (08),InSpeech, Rural ,Females,7288,10892
+8,State - RAJASTHAN (08),InSpeech, Urban ,Persons,7349,14270
+8,State - RAJASTHAN (08),InSpeech, Urban ,Males,6223,6274
+8,State - RAJASTHAN (08),InSpeech, Urban ,Females,1126,7996
+8,State - RAJASTHAN (08),InMovement, Total ,Persons,150430,276934
+8,State - RAJASTHAN (08),InMovement, Total ,Males,108960,132089
+8,State - RAJASTHAN (08),InMovement, Total ,Females,41470,144845
+8,State - RAJASTHAN (08),InMovement, Rural ,Persons,124994,225062
+8,State - RAJASTHAN (08),InMovement, Rural ,Males,87444,108119
+8,State - RAJASTHAN (08),InMovement, Rural ,Females,37550,116943
+8,State - RAJASTHAN (08),InMovement, Urban ,Persons,25436,51872
+8,State - RAJASTHAN (08),InMovement, Urban ,Males,21516,23970
+8,State - RAJASTHAN (08),InMovement, Urban ,Females,3920,27902
+8,State - RAJASTHAN (08),MentalRetardation, Total ,Persons,22558,58831
+8,State - RAJASTHAN (08),MentalRetardation, Total ,Males,16047,36486
+8,State - RAJASTHAN (08),MentalRetardation, Total ,Females,6511,22345
+8,State - RAJASTHAN (08),MentalRetardation, Rural ,Persons,19336,42044
+8,State - RAJASTHAN (08),MentalRetardation, Rural ,Males,13332,26342
+8,State - RAJASTHAN (08),MentalRetardation, Rural ,Females,6004,15702
+8,State - RAJASTHAN (08),MentalRetardation, Urban ,Persons,3222,16787
+8,State - RAJASTHAN (08),MentalRetardation, Urban ,Males,2715,10144
+8,State - RAJASTHAN (08),MentalRetardation, Urban ,Females,507,6643
+8,State - RAJASTHAN (08),MentalIllness, Total ,Persons,10889,30158
+8,State - RAJASTHAN (08),MentalIllness, Total ,Males,7406,17827
+8,State - RAJASTHAN (08),MentalIllness, Total ,Females,3483,12331
+8,State - RAJASTHAN (08),MentalIllness, Rural ,Persons,9533,21708
+8,State - RAJASTHAN (08),MentalIllness, Rural ,Males,6240,12804
+8,State - RAJASTHAN (08),MentalIllness, Rural ,Females,3293,8904
+8,State - RAJASTHAN (08),MentalIllness, Urban ,Persons,1356,8450
+8,State - RAJASTHAN (08),MentalIllness, Urban ,Males,1166,5023
+8,State - RAJASTHAN (08),MentalIllness, Urban ,Females,190,3427
+8,State - RAJASTHAN (08),AnyOther, Total ,Persons,90552,109144
+8,State - RAJASTHAN (08),AnyOther, Total ,Males,61710,51748
+8,State - RAJASTHAN (08),AnyOther, Total ,Females,28842,57396
+8,State - RAJASTHAN (08),AnyOther, Rural ,Persons,72880,76890
+8,State - RAJASTHAN (08),AnyOther, Rural ,Males,47092,38092
+8,State - RAJASTHAN (08),AnyOther, Rural ,Females,25788,38798
+8,State - RAJASTHAN (08),AnyOther, Urban ,Persons,17672,32254
+8,State - RAJASTHAN (08),AnyOther, Urban ,Males,14618,13656
+8,State - RAJASTHAN (08),AnyOther, Urban ,Females,3054,18598
+8,State - RAJASTHAN (08),MultipleDisability, Total ,Persons,32717,178506
+8,State - RAJASTHAN (08),MultipleDisability, Total ,Males,20955,83634
+8,State - RAJASTHAN (08),MultipleDisability, Total ,Females,11762,94872
+8,State - RAJASTHAN (08),MultipleDisability, Rural ,Persons,28858,150366
+8,State - RAJASTHAN (08),MultipleDisability, Rural ,Males,17833,69555
+8,State - RAJASTHAN (08),MultipleDisability, Rural ,Females,11025,80811
+8,State - RAJASTHAN (08),MultipleDisability, Urban ,Persons,3859,28140
+8,State - RAJASTHAN (08),MultipleDisability, Urban ,Males,3122,14079
+8,State - RAJASTHAN (08),MultipleDisability, Urban ,Females,737,14061
+9,State - UTTAR PRADESH (09),TotalDisabledPopulation, Total ,Persons,1446393,2711121
+9,State - UTTAR PRADESH (09),TotalDisabledPopulation, Total ,Males,1104369,1259802
+9,State - UTTAR PRADESH (09),TotalDisabledPopulation, Total ,Females,342024,1451319
+9,State - UTTAR PRADESH (09),TotalDisabledPopulation, Rural ,Persons,1119087,2047528
+9,State - UTTAR PRADESH (09),TotalDisabledPopulation, Rural ,Males,841783,961932
+9,State - UTTAR PRADESH (09),TotalDisabledPopulation, Rural ,Females,277304,1085596
+9,State - UTTAR PRADESH (09),TotalDisabledPopulation, Urban ,Persons,327306,663593
+9,State - UTTAR PRADESH (09),TotalDisabledPopulation, Urban ,Males,262586,297870
+9,State - UTTAR PRADESH (09),TotalDisabledPopulation, Urban ,Females,64720,365723
+9,State - UTTAR PRADESH (09),InSeeing, Total ,Persons,264611,499377
+9,State - UTTAR PRADESH (09),InSeeing, Total ,Males,198588,209274
+9,State - UTTAR PRADESH (09),InSeeing, Total ,Females,66023,290103
+9,State - UTTAR PRADESH (09),InSeeing, Rural ,Persons,202496,376686
+9,State - UTTAR PRADESH (09),InSeeing, Rural ,Males,148560,159261
+9,State - UTTAR PRADESH (09),InSeeing, Rural ,Females,53936,217425
+9,State - UTTAR PRADESH (09),InSeeing, Urban ,Persons,62115,122691
+9,State - UTTAR PRADESH (09),InSeeing, Urban ,Males,50028,50013
+9,State - UTTAR PRADESH (09),InSeeing, Urban ,Females,12087,72678
+9,State - UTTAR PRADESH (09),InHearing, Total ,Persons,372949,654886
+9,State - UTTAR PRADESH (09),InHearing, Total ,Males,271143,274036
+9,State - UTTAR PRADESH (09),InHearing, Total ,Females,101806,380850
+9,State - UTTAR PRADESH (09),InHearing, Rural ,Persons,278521,475183
+9,State - UTTAR PRADESH (09),InHearing, Rural ,Males,197948,200717
+9,State - UTTAR PRADESH (09),InHearing, Rural ,Females,80573,274466
+9,State - UTTAR PRADESH (09),InHearing, Urban ,Persons,94428,179703
+9,State - UTTAR PRADESH (09),InHearing, Urban ,Males,73195,73319
+9,State - UTTAR PRADESH (09),InHearing, Urban ,Females,21233,106384
+9,State - UTTAR PRADESH (09),InSpeech, Total ,Persons,96234,170352
+9,State - UTTAR PRADESH (09),InSpeech, Total ,Males,73765,77405
+9,State - UTTAR PRADESH (09),InSpeech, Total ,Females,22469,92947
+9,State - UTTAR PRADESH (09),InSpeech, Rural ,Persons,74145,128007
+9,State - UTTAR PRADESH (09),InSpeech, Rural ,Males,55782,58883
+9,State - UTTAR PRADESH (09),InSpeech, Rural ,Females,18363,69124
+9,State - UTTAR PRADESH (09),InSpeech, Urban ,Persons,22089,42345
+9,State - UTTAR PRADESH (09),InSpeech, Urban ,Males,17983,18522
+9,State - UTTAR PRADESH (09),InSpeech, Urban ,Females,4106,23823
+9,State - UTTAR PRADESH (09),InMovement, Total ,Persons,243893,433820
+9,State - UTTAR PRADESH (09),InMovement, Total ,Males,206468,235147
+9,State - UTTAR PRADESH (09),InMovement, Total ,Females,37425,198673
+9,State - UTTAR PRADESH (09),InMovement, Rural ,Persons,196877,346326
+9,State - UTTAR PRADESH (09),InMovement, Rural ,Males,165573,189488
+9,State - UTTAR PRADESH (09),InMovement, Rural ,Females,31304,156838
+9,State - UTTAR PRADESH (09),InMovement, Urban ,Persons,47016,87494
+9,State - UTTAR PRADESH (09),InMovement, Urban ,Males,40895,45659
+9,State - UTTAR PRADESH (09),InMovement, Urban ,Females,6121,41835
+9,State - UTTAR PRADESH (09),MentalRetardation, Total ,Persons,45770,135572
+9,State - UTTAR PRADESH (09),MentalRetardation, Total ,Males,36606,77235
+9,State - UTTAR PRADESH (09),MentalRetardation, Total ,Females,9164,58337
+9,State - UTTAR PRADESH (09),MentalRetardation, Rural ,Persons,37145,102952
+9,State - UTTAR PRADESH (09),MentalRetardation, Rural ,Males,29477,58759
+9,State - UTTAR PRADESH (09),MentalRetardation, Rural ,Females,7668,44193
+9,State - UTTAR PRADESH (09),MentalRetardation, Urban ,Persons,8625,32620
+9,State - UTTAR PRADESH (09),MentalRetardation, Urban ,Males,7129,18476
+9,State - UTTAR PRADESH (09),MentalRetardation, Urban ,Females,1496,14144
+9,State - UTTAR PRADESH (09),MentalIllness, Total ,Persons,16861,59742
+9,State - UTTAR PRADESH (09),MentalIllness, Total ,Males,13764,35357
+9,State - UTTAR PRADESH (09),MentalIllness, Total ,Females,3097,24385
+9,State - UTTAR PRADESH (09),MentalIllness, Rural ,Persons,13615,43882
+9,State - UTTAR PRADESH (09),MentalIllness, Rural ,Males,10997,26024
+9,State - UTTAR PRADESH (09),MentalIllness, Rural ,Females,2618,17858
+9,State - UTTAR PRADESH (09),MentalIllness, Urban ,Persons,3246,15860
+9,State - UTTAR PRADESH (09),MentalIllness, Urban ,Males,2767,9333
+9,State - UTTAR PRADESH (09),MentalIllness, Urban ,Females,479,6527
+9,State - UTTAR PRADESH (09),AnyOther, Total ,Persons,361086,585350
+9,State - UTTAR PRADESH (09),AnyOther, Total ,Males,269510,259454
+9,State - UTTAR PRADESH (09),AnyOther, Total ,Females,91576,325896
+9,State - UTTAR PRADESH (09),AnyOther, Rural ,Persons,280613,439407
+9,State - UTTAR PRADESH (09),AnyOther, Rural ,Males,206392,196346
+9,State - UTTAR PRADESH (09),AnyOther, Rural ,Females,74221,243061
+9,State - UTTAR PRADESH (09),AnyOther, Urban ,Persons,80473,145943
+9,State - UTTAR PRADESH (09),AnyOther, Urban ,Males,63118,63108
+9,State - UTTAR PRADESH (09),AnyOther, Urban ,Females,17355,82835
+9,State - UTTAR PRADESH (09),MultipleDisability, Total ,Persons,44989,172022
+9,State - UTTAR PRADESH (09),MultipleDisability, Total ,Males,34525,91894
+9,State - UTTAR PRADESH (09),MultipleDisability, Total ,Females,10464,80128
+9,State - UTTAR PRADESH (09),MultipleDisability, Rural ,Persons,35675,135085
+9,State - UTTAR PRADESH (09),MultipleDisability, Rural ,Males,27054,72454
+9,State - UTTAR PRADESH (09),MultipleDisability, Rural ,Females,8621,62631
+9,State - UTTAR PRADESH (09),MultipleDisability, Urban ,Persons,9314,36937
+9,State - UTTAR PRADESH (09),MultipleDisability, Urban ,Males,7471,19440
+9,State - UTTAR PRADESH (09),MultipleDisability, Urban ,Females,1843,17497
+10,State - BIHAR (10),TotalDisabledPopulation, Total ,Persons,865347,1465662
+10,State - BIHAR (10),TotalDisabledPopulation, Total ,Males,654038,689062
+10,State - BIHAR (10),TotalDisabledPopulation, Total ,Females,211309,776600
+10,State - BIHAR (10),TotalDisabledPopulation, Rural ,Persons,775277,1271074
+10,State - BIHAR (10),TotalDisabledPopulation, Rural ,Males,581040,599773
+10,State - BIHAR (10),TotalDisabledPopulation, Rural ,Females,194237,671301
+10,State - BIHAR (10),TotalDisabledPopulation, Urban ,Persons,90070,194588
+10,State - BIHAR (10),TotalDisabledPopulation, Urban ,Males,72998,89289
+10,State - BIHAR (10),TotalDisabledPopulation, Urban ,Females,17072,105299
+10,State - BIHAR (10),InSeeing, Total ,Persons,200995,348085
+10,State - BIHAR (10),InSeeing, Total ,Males,149712,147331
+10,State - BIHAR (10),InSeeing, Total ,Females,51283,200754
+10,State - BIHAR (10),InSeeing, Rural ,Persons,179530,300588
+10,State - BIHAR (10),InSeeing, Rural ,Males,132038,127477
+10,State - BIHAR (10),InSeeing, Rural ,Females,47492,173111
+10,State - BIHAR (10),InSeeing, Urban ,Persons,21465,47497
+10,State - BIHAR (10),InSeeing, Urban ,Males,17674,19854
+10,State - BIHAR (10),InSeeing, Urban ,Females,3791,27643
+10,State - BIHAR (10),InHearing, Total ,Persons,221561,350602
+10,State - BIHAR (10),InHearing, Total ,Males,159383,148688
+10,State - BIHAR (10),InHearing, Total ,Females,62178,201914
+10,State - BIHAR (10),InHearing, Rural ,Persons,196844,300912
+10,State - BIHAR (10),InHearing, Rural ,Males,140131,128141
+10,State - BIHAR (10),InHearing, Rural ,Females,56713,172771
+10,State - BIHAR (10),InHearing, Urban ,Persons,24717,49690
+10,State - BIHAR (10),InHearing, Urban ,Males,19252,20547
+10,State - BIHAR (10),InHearing, Urban ,Females,5465,29143
+10,State - BIHAR (10),InSpeech, Total ,Persons,64974,105871
+10,State - BIHAR (10),InSpeech, Total ,Males,48932,48961
+10,State - BIHAR (10),InSpeech, Total ,Females,16042,56910
+10,State - BIHAR (10),InSpeech, Rural ,Persons,58247,91950
+10,State - BIHAR (10),InSpeech, Rural ,Males,43438,42798
+10,State - BIHAR (10),InSpeech, Rural ,Females,14809,49152
+10,State - BIHAR (10),InSpeech, Urban ,Persons,6727,13921
+10,State - BIHAR (10),InSpeech, Urban ,Males,5494,6163
+10,State - BIHAR (10),InSpeech, Urban ,Females,1233,7758
+10,State - BIHAR (10),InMovement, Total ,Persons,140722,228855
+10,State - BIHAR (10),InMovement, Total ,Males,118482,127094
+10,State - BIHAR (10),InMovement, Total ,Females,22240,101761
+10,State - BIHAR (10),InMovement, Rural ,Persons,127850,202544
+10,State - BIHAR (10),InMovement, Rural ,Males,107234,112828
+10,State - BIHAR (10),InMovement, Rural ,Females,20616,89716
+10,State - BIHAR (10),InMovement, Urban ,Persons,12872,26311
+10,State - BIHAR (10),InMovement, Urban ,Males,11248,14266
+10,State - BIHAR (10),InMovement, Urban ,Females,1624,12045
+10,State - BIHAR (10),MentalRetardation, Total ,Persons,26356,62895
+10,State - BIHAR (10),MentalRetardation, Total ,Males,20312,35023
+10,State - BIHAR (10),MentalRetardation, Total ,Females,6044,27872
+10,State - BIHAR (10),MentalRetardation, Rural ,Persons,24252,54268
+10,State - BIHAR (10),MentalRetardation, Rural ,Males,18547,30074
+10,State - BIHAR (10),MentalRetardation, Rural ,Females,5705,24194
+10,State - BIHAR (10),MentalRetardation, Urban ,Persons,2104,8627
+10,State - BIHAR (10),MentalRetardation, Urban ,Males,1765,4949
+10,State - BIHAR (10),MentalRetardation, Urban ,Females,339,3678
+10,State - BIHAR (10),MentalIllness, Total ,Persons,10006,27515
+10,State - BIHAR (10),MentalIllness, Total ,Males,8084,16817
+10,State - BIHAR (10),MentalIllness, Total ,Females,1922,10698
+10,State - BIHAR (10),MentalIllness, Rural ,Persons,9259,23432
+10,State - BIHAR (10),MentalIllness, Rural ,Males,7436,14158
+10,State - BIHAR (10),MentalIllness, Rural ,Females,1823,9274
+10,State - BIHAR (10),MentalIllness, Urban ,Persons,747,4083
+10,State - BIHAR (10),MentalIllness, Urban ,Males,648,2659
+10,State - BIHAR (10),MentalIllness, Urban ,Females,99,1424
+10,State - BIHAR (10),AnyOther, Total ,Persons,175382,256346
+10,State - BIHAR (10),AnyOther, Total ,Males,129924,116536
+10,State - BIHAR (10),AnyOther, Total ,Females,45458,139810
+10,State - BIHAR (10),AnyOther, Rural ,Persons,156244,221837
+10,State - BIHAR (10),AnyOther, Rural ,Males,114867,101240
+10,State - BIHAR (10),AnyOther, Rural ,Females,41377,120597
+10,State - BIHAR (10),AnyOther, Urban ,Persons,19138,34509
+10,State - BIHAR (10),AnyOther, Urban ,Males,15057,15296
+10,State - BIHAR (10),AnyOther, Urban ,Females,4081,19213
+10,State - BIHAR (10),MultipleDisability, Total ,Persons,25351,85493
+10,State - BIHAR (10),MultipleDisability, Total ,Males,19209,48612
+10,State - BIHAR (10),MultipleDisability, Total ,Females,6142,36881
+10,State - BIHAR (10),MultipleDisability, Rural ,Persons,23051,75543
+10,State - BIHAR (10),MultipleDisability, Rural ,Males,17349,43057
+10,State - BIHAR (10),MultipleDisability, Rural ,Females,5702,32486
+10,State - BIHAR (10),MultipleDisability, Urban ,Persons,2300,9950
+10,State - BIHAR (10),MultipleDisability, Urban ,Males,1860,5555
+10,State - BIHAR (10),MultipleDisability, Urban ,Females,440,4395
+11,State - SIKKIM (11),TotalDisabledPopulation, Total ,Persons,8918,9269
+11,State - SIKKIM (11),TotalDisabledPopulation, Total ,Males,5596,4183
+11,State - SIKKIM (11),TotalDisabledPopulation, Total ,Females,3322,5086
+11,State - SIKKIM (11),TotalDisabledPopulation, Rural ,Persons,8093,7766
+11,State - SIKKIM (11),TotalDisabledPopulation, Rural ,Males,4982,3566
+11,State - SIKKIM (11),TotalDisabledPopulation, Rural ,Females,3111,4200
+11,State - SIKKIM (11),TotalDisabledPopulation, Urban ,Persons,825,1503
+11,State - SIKKIM (11),TotalDisabledPopulation, Urban ,Males,614,617
+11,State - SIKKIM (11),TotalDisabledPopulation, Urban ,Females,211,886
+11,State - SIKKIM (11),InSeeing, Total ,Persons,1434,1338
+11,State - SIKKIM (11),InSeeing, Total ,Males,836,585
+11,State - SIKKIM (11),InSeeing, Total ,Females,598,753
+11,State - SIKKIM (11),InSeeing, Rural ,Persons,1323,1161
+11,State - SIKKIM (11),InSeeing, Rural ,Males,752,519
+11,State - SIKKIM (11),InSeeing, Rural ,Females,571,642
+11,State - SIKKIM (11),InSeeing, Urban ,Persons,111,177
+11,State - SIKKIM (11),InSeeing, Urban ,Males,84,66
+11,State - SIKKIM (11),InSeeing, Urban ,Females,27,111
+11,State - SIKKIM (11),InHearing, Total ,Persons,3241,2102
+11,State - SIKKIM (11),InHearing, Total ,Males,2108,879
+11,State - SIKKIM (11),InHearing, Total ,Females,1133,1223
+11,State - SIKKIM (11),InHearing, Rural ,Persons,2965,1738
+11,State - SIKKIM (11),InHearing, Rural ,Males,1899,739
+11,State - SIKKIM (11),InHearing, Rural ,Females,1066,999
+11,State - SIKKIM (11),InHearing, Urban ,Persons,276,364
+11,State - SIKKIM (11),InHearing, Urban ,Males,209,140
+11,State - SIKKIM (11),InHearing, Urban ,Females,67,224
+11,State - SIKKIM (11),InSpeech, Total ,Persons,790,787
+11,State - SIKKIM (11),InSpeech, Total ,Males,468,350
+11,State - SIKKIM (11),InSpeech, Total ,Females,322,437
+11,State - SIKKIM (11),InSpeech, Rural ,Persons,704,635
+11,State - SIKKIM (11),InSpeech, Rural ,Males,407,292
+11,State - SIKKIM (11),InSpeech, Rural ,Females,297,343
+11,State - SIKKIM (11),InSpeech, Urban ,Persons,86,152
+11,State - SIKKIM (11),InSpeech, Urban ,Males,61,58
+11,State - SIKKIM (11),InSpeech, Urban ,Females,25,94
+11,State - SIKKIM (11),InMovement, Total ,Persons,833,1234
+11,State - SIKKIM (11),InMovement, Total ,Males,596,622
+11,State - SIKKIM (11),InMovement, Total ,Females,237,612
+11,State - SIKKIM (11),InMovement, Rural ,Persons,739,1053
+11,State - SIKKIM (11),InMovement, Rural ,Males,521,543
+11,State - SIKKIM (11),InMovement, Rural ,Females,218,510
+11,State - SIKKIM (11),InMovement, Urban ,Persons,94,181
+11,State - SIKKIM (11),InMovement, Urban ,Males,75,79
+11,State - SIKKIM (11),InMovement, Urban ,Females,19,102
+11,State - SIKKIM (11),MentalRetardation, Total ,Persons,174,342
+11,State - SIKKIM (11),MentalRetardation, Total ,Males,105,169
+11,State - SIKKIM (11),MentalRetardation, Total ,Females,69,173
+11,State - SIKKIM (11),MentalRetardation, Rural ,Persons,156,260
+11,State - SIKKIM (11),MentalRetardation, Rural ,Males,94,127
+11,State - SIKKIM (11),MentalRetardation, Rural ,Females,62,133
+11,State - SIKKIM (11),MentalRetardation, Urban ,Persons,18,82
+11,State - SIKKIM (11),MentalRetardation, Urban ,Males,11,42
+11,State - SIKKIM (11),MentalRetardation, Urban ,Females,7,40
+11,State - SIKKIM (11),MentalIllness, Total ,Persons,167,346
+11,State - SIKKIM (11),MentalIllness, Total ,Males,92,163
+11,State - SIKKIM (11),MentalIllness, Total ,Females,75,183
+11,State - SIKKIM (11),MentalIllness, Rural ,Persons,155,288
+11,State - SIKKIM (11),MentalIllness, Rural ,Males,83,126
+11,State - SIKKIM (11),MentalIllness, Rural ,Females,72,162
+11,State - SIKKIM (11),MentalIllness, Urban ,Persons,12,58
+11,State - SIKKIM (11),MentalIllness, Urban ,Males,9,37
+11,State - SIKKIM (11),MentalIllness, Urban ,Females,3,21
+11,State - SIKKIM (11),AnyOther, Total ,Persons,1217,1242
+11,State - SIKKIM (11),AnyOther, Total ,Males,744,538
+11,State - SIKKIM (11),AnyOther, Total ,Females,473,704
+11,State - SIKKIM (11),AnyOther, Rural ,Persons,1049,974
+11,State - SIKKIM (11),AnyOther, Rural ,Males,621,442
+11,State - SIKKIM (11),AnyOther, Rural ,Females,428,532
+11,State - SIKKIM (11),AnyOther, Urban ,Persons,168,268
+11,State - SIKKIM (11),AnyOther, Urban ,Males,123,96
+11,State - SIKKIM (11),AnyOther, Urban ,Females,45,172
+11,State - SIKKIM (11),MultipleDisability, Total ,Persons,1062,1878
+11,State - SIKKIM (11),MultipleDisability, Total ,Males,647,877
+11,State - SIKKIM (11),MultipleDisability, Total ,Females,415,1001
+11,State - SIKKIM (11),MultipleDisability, Rural ,Persons,1002,1657
+11,State - SIKKIM (11),MultipleDisability, Rural ,Males,605,778
+11,State - SIKKIM (11),MultipleDisability, Rural ,Females,397,879
+11,State - SIKKIM (11),MultipleDisability, Urban ,Persons,60,221
+11,State - SIKKIM (11),MultipleDisability, Urban ,Males,42,99
+11,State - SIKKIM (11),MultipleDisability, Urban ,Females,18,122
+12,State - ARUNACHAL PRADESH (12),TotalDisabledPopulation, Total ,Persons,11948,14786
+12,State - ARUNACHAL PRADESH (12),TotalDisabledPopulation, Total ,Males,7332,6913
+12,State - ARUNACHAL PRADESH (12),TotalDisabledPopulation, Total ,Females,4616,7873
+12,State - ARUNACHAL PRADESH (12),TotalDisabledPopulation, Rural ,Persons,10259,12049
+12,State - ARUNACHAL PRADESH (12),TotalDisabledPopulation, Rural ,Males,6090,5690
+12,State - ARUNACHAL PRADESH (12),TotalDisabledPopulation, Rural ,Females,4169,6359
+12,State - ARUNACHAL PRADESH (12),TotalDisabledPopulation, Urban ,Persons,1689,2737
+12,State - ARUNACHAL PRADESH (12),TotalDisabledPopulation, Urban ,Males,1242,1223
+12,State - ARUNACHAL PRADESH (12),TotalDisabledPopulation, Urban ,Females,447,1514
+12,State - ARUNACHAL PRADESH (12),InSeeing, Total ,Persons,2550,3102
+12,State - ARUNACHAL PRADESH (12),InSeeing, Total ,Males,1525,1337
+12,State - ARUNACHAL PRADESH (12),InSeeing, Total ,Females,1025,1765
+12,State - ARUNACHAL PRADESH (12),InSeeing, Rural ,Persons,2172,2497
+12,State - ARUNACHAL PRADESH (12),InSeeing, Rural ,Males,1261,1073
+12,State - ARUNACHAL PRADESH (12),InSeeing, Rural ,Females,911,1424
+12,State - ARUNACHAL PRADESH (12),InSeeing, Urban ,Persons,378,605
+12,State - ARUNACHAL PRADESH (12),InSeeing, Urban ,Males,264,264
+12,State - ARUNACHAL PRADESH (12),InSeeing, Urban ,Females,114,341
+12,State - ARUNACHAL PRADESH (12),InHearing, Total ,Persons,4125,4002
+12,State - ARUNACHAL PRADESH (12),InHearing, Total ,Males,2450,1759
+12,State - ARUNACHAL PRADESH (12),InHearing, Total ,Females,1675,2243
+12,State - ARUNACHAL PRADESH (12),InHearing, Rural ,Persons,3621,3295
+12,State - ARUNACHAL PRADESH (12),InHearing, Rural ,Males,2095,1470
+12,State - ARUNACHAL PRADESH (12),InHearing, Rural ,Females,1526,1825
+12,State - ARUNACHAL PRADESH (12),InHearing, Urban ,Persons,504,707
+12,State - ARUNACHAL PRADESH (12),InHearing, Urban ,Males,355,289
+12,State - ARUNACHAL PRADESH (12),InHearing, Urban ,Females,149,418
+12,State - ARUNACHAL PRADESH (12),InSpeech, Total ,Persons,722,816
+12,State - ARUNACHAL PRADESH (12),InSpeech, Total ,Males,447,433
+12,State - ARUNACHAL PRADESH (12),InSpeech, Total ,Females,275,383
+12,State - ARUNACHAL PRADESH (12),InSpeech, Rural ,Persons,641,658
+12,State - ARUNACHAL PRADESH (12),InSpeech, Rural ,Males,384,353
+12,State - ARUNACHAL PRADESH (12),InSpeech, Rural ,Females,257,305
+12,State - ARUNACHAL PRADESH (12),InSpeech, Urban ,Persons,81,158
+12,State - ARUNACHAL PRADESH (12),InSpeech, Urban ,Males,63,80
+12,State - ARUNACHAL PRADESH (12),InSpeech, Urban ,Females,18,78
+12,State - ARUNACHAL PRADESH (12),InMovement, Total ,Persons,1284,1951
+12,State - ARUNACHAL PRADESH (12),InMovement, Total ,Males,907,1028
+12,State - ARUNACHAL PRADESH (12),InMovement, Total ,Females,377,923
+12,State - ARUNACHAL PRADESH (12),InMovement, Rural ,Persons,1081,1654
+12,State - ARUNACHAL PRADESH (12),InMovement, Rural ,Males,751,869
+12,State - ARUNACHAL PRADESH (12),InMovement, Rural ,Females,330,785
+12,State - ARUNACHAL PRADESH (12),InMovement, Urban ,Persons,203,297
+12,State - ARUNACHAL PRADESH (12),InMovement, Urban ,Males,156,159
+12,State - ARUNACHAL PRADESH (12),InMovement, Urban ,Females,47,138
+12,State - ARUNACHAL PRADESH (12),MentalRetardation, Total ,Persons,437,827
+12,State - ARUNACHAL PRADESH (12),MentalRetardation, Total ,Males,240,395
+12,State - ARUNACHAL PRADESH (12),MentalRetardation, Total ,Females,197,432
+12,State - ARUNACHAL PRADESH (12),MentalRetardation, Rural ,Persons,370,641
+12,State - ARUNACHAL PRADESH (12),MentalRetardation, Rural ,Males,194,318
+12,State - ARUNACHAL PRADESH (12),MentalRetardation, Rural ,Females,176,323
+12,State - ARUNACHAL PRADESH (12),MentalRetardation, Urban ,Persons,67,186
+12,State - ARUNACHAL PRADESH (12),MentalRetardation, Urban ,Males,46,77
+12,State - ARUNACHAL PRADESH (12),MentalRetardation, Urban ,Females,21,109
+12,State - ARUNACHAL PRADESH (12),MentalIllness, Total ,Persons,204,427
+12,State - ARUNACHAL PRADESH (12),MentalIllness, Total ,Males,120,224
+12,State - ARUNACHAL PRADESH (12),MentalIllness, Total ,Females,84,203
+12,State - ARUNACHAL PRADESH (12),MentalIllness, Rural ,Persons,192,341
+12,State - ARUNACHAL PRADESH (12),MentalIllness, Rural ,Males,112,179
+12,State - ARUNACHAL PRADESH (12),MentalIllness, Rural ,Females,80,162
+12,State - ARUNACHAL PRADESH (12),MentalIllness, Urban ,Persons,12,86
+12,State - ARUNACHAL PRADESH (12),MentalIllness, Urban ,Males,8,45
+12,State - ARUNACHAL PRADESH (12),MentalIllness, Urban ,Females,4,41
+12,State - ARUNACHAL PRADESH (12),AnyOther, Total ,Persons,1787,2091
+12,State - ARUNACHAL PRADESH (12),AnyOther, Total ,Males,1130,950
+12,State - ARUNACHAL PRADESH (12),AnyOther, Total ,Females,657,1141
+12,State - ARUNACHAL PRADESH (12),AnyOther, Rural ,Persons,1410,1595
+12,State - ARUNACHAL PRADESH (12),AnyOther, Rural ,Males,831,751
+12,State - ARUNACHAL PRADESH (12),AnyOther, Rural ,Females,579,844
+12,State - ARUNACHAL PRADESH (12),AnyOther, Urban ,Persons,377,496
+12,State - ARUNACHAL PRADESH (12),AnyOther, Urban ,Males,299,199
+12,State - ARUNACHAL PRADESH (12),AnyOther, Urban ,Females,78,297
+12,State - ARUNACHAL PRADESH (12),MultipleDisability, Total ,Persons,839,1570
+12,State - ARUNACHAL PRADESH (12),MultipleDisability, Total ,Males,513,787
+12,State - ARUNACHAL PRADESH (12),MultipleDisability, Total ,Females,326,783
+12,State - ARUNACHAL PRADESH (12),MultipleDisability, Rural ,Persons,772,1368
+12,State - ARUNACHAL PRADESH (12),MultipleDisability, Rural ,Males,462,677
+12,State - ARUNACHAL PRADESH (12),MultipleDisability, Rural ,Females,310,691
+12,State - ARUNACHAL PRADESH (12),MultipleDisability, Urban ,Persons,67,202
+12,State - ARUNACHAL PRADESH (12),MultipleDisability, Urban ,Males,51,110
+12,State - ARUNACHAL PRADESH (12),MultipleDisability, Urban ,Females,16,92
+13,State - NAGALAND (13),TotalDisabledPopulation, Total ,Persons,15384,14247
+13,State - NAGALAND (13),TotalDisabledPopulation, Total ,Males,9022,7126
+13,State - NAGALAND (13),TotalDisabledPopulation, Total ,Females,6362,7121
+13,State - NAGALAND (13),TotalDisabledPopulation, Rural ,Persons,13419,10130
+13,State - NAGALAND (13),TotalDisabledPopulation, Rural ,Males,7620,5141
+13,State - NAGALAND (13),TotalDisabledPopulation, Rural ,Females,5799,4989
+13,State - NAGALAND (13),TotalDisabledPopulation, Urban ,Persons,1965,4117
+13,State - NAGALAND (13),TotalDisabledPopulation, Urban ,Males,1402,1985
+13,State - NAGALAND (13),TotalDisabledPopulation, Urban ,Females,563,2132
+13,State - NAGALAND (13),InSeeing, Total ,Persons,2264,1886
+13,State - NAGALAND (13),InSeeing, Total ,Males,1289,841
+13,State - NAGALAND (13),InSeeing, Total ,Females,975,1045
+13,State - NAGALAND (13),InSeeing, Rural ,Persons,1938,1353
+13,State - NAGALAND (13),InSeeing, Rural ,Males,1070,619
+13,State - NAGALAND (13),InSeeing, Rural ,Females,868,734
+13,State - NAGALAND (13),InSeeing, Urban ,Persons,326,533
+13,State - NAGALAND (13),InSeeing, Urban ,Males,219,222
+13,State - NAGALAND (13),InSeeing, Urban ,Females,107,311
+13,State - NAGALAND (13),InHearing, Total ,Persons,5529,3411
+13,State - NAGALAND (13),InHearing, Total ,Males,3353,1654
+13,State - NAGALAND (13),InHearing, Total ,Females,2176,1757
+13,State - NAGALAND (13),InHearing, Rural ,Persons,4856,2381
+13,State - NAGALAND (13),InHearing, Rural ,Males,2845,1205
+13,State - NAGALAND (13),InHearing, Rural ,Females,2011,1176
+13,State - NAGALAND (13),InHearing, Urban ,Persons,673,1030
+13,State - NAGALAND (13),InHearing, Urban ,Males,508,449
+13,State - NAGALAND (13),InHearing, Urban ,Females,165,581
+13,State - NAGALAND (13),InSpeech, Total ,Persons,1291,1003
+13,State - NAGALAND (13),InSpeech, Total ,Males,728,533
+13,State - NAGALAND (13),InSpeech, Total ,Females,563,470
+13,State - NAGALAND (13),InSpeech, Rural ,Persons,1180,709
+13,State - NAGALAND (13),InSpeech, Rural ,Males,649,384
+13,State - NAGALAND (13),InSpeech, Rural ,Females,531,325
+13,State - NAGALAND (13),InSpeech, Urban ,Persons,111,294
+13,State - NAGALAND (13),InSpeech, Urban ,Males,79,149
+13,State - NAGALAND (13),InSpeech, Urban ,Females,32,145
+13,State - NAGALAND (13),InMovement, Total ,Persons,1533,2295
+13,State - NAGALAND (13),InMovement, Total ,Males,993,1242
+13,State - NAGALAND (13),InMovement, Total ,Females,540,1053
+13,State - NAGALAND (13),InMovement, Rural ,Persons,1254,1687
+13,State - NAGALAND (13),InMovement, Rural ,Males,781,908
+13,State - NAGALAND (13),InMovement, Rural ,Females,473,779
+13,State - NAGALAND (13),InMovement, Urban ,Persons,279,608
+13,State - NAGALAND (13),InMovement, Urban ,Males,212,334
+13,State - NAGALAND (13),InMovement, Urban ,Females,67,274
+13,State - NAGALAND (13),MentalRetardation, Total ,Persons,477,773
+13,State - NAGALAND (13),MentalRetardation, Total ,Males,259,407
+13,State - NAGALAND (13),MentalRetardation, Total ,Females,218,366
+13,State - NAGALAND (13),MentalRetardation, Rural ,Persons,421,528
+13,State - NAGALAND (13),MentalRetardation, Rural ,Males,221,278
+13,State - NAGALAND (13),MentalRetardation, Rural ,Females,200,250
+13,State - NAGALAND (13),MentalRetardation, Urban ,Persons,56,245
+13,State - NAGALAND (13),MentalRetardation, Urban ,Males,38,129
+13,State - NAGALAND (13),MentalRetardation, Urban ,Females,18,116
+13,State - NAGALAND (13),MentalIllness, Total ,Persons,344,651
+13,State - NAGALAND (13),MentalIllness, Total ,Males,195,352
+13,State - NAGALAND (13),MentalIllness, Total ,Females,149,299
+13,State - NAGALAND (13),MentalIllness, Rural ,Persons,311,465
+13,State - NAGALAND (13),MentalIllness, Rural ,Males,177,248
+13,State - NAGALAND (13),MentalIllness, Rural ,Females,134,217
+13,State - NAGALAND (13),MentalIllness, Urban ,Persons,33,186
+13,State - NAGALAND (13),MentalIllness, Urban ,Males,18,104
+13,State - NAGALAND (13),MentalIllness, Urban ,Females,15,82
+13,State - NAGALAND (13),AnyOther, Total ,Persons,2708,2130
+13,State - NAGALAND (13),AnyOther, Total ,Males,1490,1039
+13,State - NAGALAND (13),AnyOther, Total ,Females,1218,1091
+13,State - NAGALAND (13),AnyOther, Rural ,Persons,2314,1385
+13,State - NAGALAND (13),AnyOther, Rural ,Males,1222,688
+13,State - NAGALAND (13),AnyOther, Rural ,Females,1092,697
+13,State - NAGALAND (13),AnyOther, Urban ,Persons,394,745
+13,State - NAGALAND (13),AnyOther, Urban ,Males,268,351
+13,State - NAGALAND (13),AnyOther, Urban ,Females,126,394
+13,State - NAGALAND (13),MultipleDisability, Total ,Persons,1238,2098
+13,State - NAGALAND (13),MultipleDisability, Total ,Males,715,1058
+13,State - NAGALAND (13),MultipleDisability, Total ,Females,523,1040
+13,State - NAGALAND (13),MultipleDisability, Rural ,Persons,1145,1622
+13,State - NAGALAND (13),MultipleDisability, Rural ,Males,655,811
+13,State - NAGALAND (13),MultipleDisability, Rural ,Females,490,811
+13,State - NAGALAND (13),MultipleDisability, Urban ,Persons,93,476
+13,State - NAGALAND (13),MultipleDisability, Urban ,Males,60,247
+13,State - NAGALAND (13),MultipleDisability, Urban ,Females,33,229
+14,State - MANIPUR (14),TotalDisabledPopulation, Total ,Persons,25582,32965
+14,State - MANIPUR (14),TotalDisabledPopulation, Total ,Males,15259,15915
+14,State - MANIPUR (14),TotalDisabledPopulation, Total ,Females,10323,17050
+14,State - MANIPUR (14),TotalDisabledPopulation, Rural ,Persons,18878,21610
+14,State - MANIPUR (14),TotalDisabledPopulation, Rural ,Males,11042,10684
+14,State - MANIPUR (14),TotalDisabledPopulation, Rural ,Females,7836,10926
+14,State - MANIPUR (14),TotalDisabledPopulation, Urban ,Persons,6704,11355
+14,State - MANIPUR (14),TotalDisabledPopulation, Urban ,Males,4217,5231
+14,State - MANIPUR (14),TotalDisabledPopulation, Urban ,Females,2487,6124
+14,State - MANIPUR (14),InSeeing, Total ,Persons,9221,9973
+14,State - MANIPUR (14),InSeeing, Total ,Males,5411,4504
+14,State - MANIPUR (14),InSeeing, Total ,Females,3810,5469
+14,State - MANIPUR (14),InSeeing, Rural ,Persons,6780,6649
+14,State - MANIPUR (14),InSeeing, Rural ,Males,3885,3085
+14,State - MANIPUR (14),InSeeing, Rural ,Females,2895,3564
+14,State - MANIPUR (14),InSeeing, Urban ,Persons,2441,3324
+14,State - MANIPUR (14),InSeeing, Urban ,Males,1526,1419
+14,State - MANIPUR (14),InSeeing, Urban ,Females,915,1905
+14,State - MANIPUR (14),InHearing, Total ,Persons,6520,6371
+14,State - MANIPUR (14),InHearing, Total ,Males,3798,2890
+14,State - MANIPUR (14),InHearing, Total ,Females,2722,3481
+14,State - MANIPUR (14),InHearing, Rural ,Persons,5078,4585
+14,State - MANIPUR (14),InHearing, Rural ,Males,2897,2153
+14,State - MANIPUR (14),InHearing, Rural ,Females,2181,2432
+14,State - MANIPUR (14),InHearing, Urban ,Persons,1442,1786
+14,State - MANIPUR (14),InHearing, Urban ,Males,901,737
+14,State - MANIPUR (14),InHearing, Urban ,Females,541,1049
+14,State - MANIPUR (14),InSpeech, Total ,Persons,1134,1527
+14,State - MANIPUR (14),InSpeech, Total ,Males,705,783
+14,State - MANIPUR (14),InSpeech, Total ,Females,429,744
+14,State - MANIPUR (14),InSpeech, Rural ,Persons,818,1015
+14,State - MANIPUR (14),InSpeech, Rural ,Males,502,536
+14,State - MANIPUR (14),InSpeech, Rural ,Females,316,479
+14,State - MANIPUR (14),InSpeech, Urban ,Persons,316,512
+14,State - MANIPUR (14),InSpeech, Urban ,Males,203,247
+14,State - MANIPUR (14),InSpeech, Urban ,Females,113,265
+14,State - MANIPUR (14),InMovement, Total ,Persons,1829,3486
+14,State - MANIPUR (14),InMovement, Total ,Males,1246,1919
+14,State - MANIPUR (14),InMovement, Total ,Females,583,1567
+14,State - MANIPUR (14),InMovement, Rural ,Persons,1297,2211
+14,State - MANIPUR (14),InMovement, Rural ,Males,868,1227
+14,State - MANIPUR (14),InMovement, Rural ,Females,429,984
+14,State - MANIPUR (14),InMovement, Urban ,Persons,532,1275
+14,State - MANIPUR (14),InMovement, Urban ,Males,378,692
+14,State - MANIPUR (14),InMovement, Urban ,Females,154,583
+14,State - MANIPUR (14),MentalRetardation, Total ,Persons,1554,3292
+14,State - MANIPUR (14),MentalRetardation, Total ,Males,943,1683
+14,State - MANIPUR (14),MentalRetardation, Total ,Females,611,1609
+14,State - MANIPUR (14),MentalRetardation, Rural ,Persons,1198,1950
+14,State - MANIPUR (14),MentalRetardation, Rural ,Males,717,1037
+14,State - MANIPUR (14),MentalRetardation, Rural ,Females,481,913
+14,State - MANIPUR (14),MentalRetardation, Urban ,Persons,356,1342
+14,State - MANIPUR (14),MentalRetardation, Urban ,Males,226,646
+14,State - MANIPUR (14),MentalRetardation, Urban ,Females,130,696
+14,State - MANIPUR (14),MentalIllness, Total ,Persons,400,1059
+14,State - MANIPUR (14),MentalIllness, Total ,Males,258,584
+14,State - MANIPUR (14),MentalIllness, Total ,Females,142,475
+14,State - MANIPUR (14),MentalIllness, Rural ,Persons,284,557
+14,State - MANIPUR (14),MentalIllness, Rural ,Males,175,299
+14,State - MANIPUR (14),MentalIllness, Rural ,Females,109,258
+14,State - MANIPUR (14),MentalIllness, Urban ,Persons,116,502
+14,State - MANIPUR (14),MentalIllness, Urban ,Males,83,285
+14,State - MANIPUR (14),MentalIllness, Urban ,Females,33,217
+14,State - MANIPUR (14),AnyOther, Total ,Persons,3974,4654
+14,State - MANIPUR (14),AnyOther, Total ,Males,2323,2193
+14,State - MANIPUR (14),AnyOther, Total ,Females,1651,2461
+14,State - MANIPUR (14),AnyOther, Rural ,Persons,2691,2963
+14,State - MANIPUR (14),AnyOther, Rural ,Males,1557,1459
+14,State - MANIPUR (14),AnyOther, Rural ,Females,1134,1504
+14,State - MANIPUR (14),AnyOther, Urban ,Persons,1283,1691
+14,State - MANIPUR (14),AnyOther, Urban ,Males,766,734
+14,State - MANIPUR (14),AnyOther, Urban ,Females,517,957
+14,State - MANIPUR (14),MultipleDisability, Total ,Persons,950,2603
+14,State - MANIPUR (14),MultipleDisability, Total ,Males,575,1359
+14,State - MANIPUR (14),MultipleDisability, Total ,Females,375,1244
+14,State - MANIPUR (14),MultipleDisability, Rural ,Persons,732,1680
+14,State - MANIPUR (14),MultipleDisability, Rural ,Males,441,888
+14,State - MANIPUR (14),MultipleDisability, Rural ,Females,291,792
+14,State - MANIPUR (14),MultipleDisability, Urban ,Persons,218,923
+14,State - MANIPUR (14),MultipleDisability, Urban ,Males,134,471
+14,State - MANIPUR (14),MultipleDisability, Urban ,Females,84,452
+15,State - MIZORAM (15),TotalDisabledPopulation, Total ,Persons,5499,9661
+15,State - MIZORAM (15),TotalDisabledPopulation, Total ,Males,3540,4658
+15,State - MIZORAM (15),TotalDisabledPopulation, Total ,Females,1959,5003
+15,State - MIZORAM (15),TotalDisabledPopulation, Rural ,Persons,3582,5045
+15,State - MIZORAM (15),TotalDisabledPopulation, Rural ,Males,2256,2328
+15,State - MIZORAM (15),TotalDisabledPopulation, Rural ,Females,1326,2717
+15,State - MIZORAM (15),TotalDisabledPopulation, Urban ,Persons,1917,4616
+15,State - MIZORAM (15),TotalDisabledPopulation, Urban ,Males,1284,2330
+15,State - MIZORAM (15),TotalDisabledPopulation, Urban ,Females,633,2286
+15,State - MIZORAM (15),InSeeing, Total ,Persons,809,1226
+15,State - MIZORAM (15),InSeeing, Total ,Males,557,530
+15,State - MIZORAM (15),InSeeing, Total ,Females,252,696
+15,State - MIZORAM (15),InSeeing, Rural ,Persons,540,697
+15,State - MIZORAM (15),InSeeing, Rural ,Males,379,290
+15,State - MIZORAM (15),InSeeing, Rural ,Females,161,407
+15,State - MIZORAM (15),InSeeing, Urban ,Persons,269,529
+15,State - MIZORAM (15),InSeeing, Urban ,Males,178,240
+15,State - MIZORAM (15),InSeeing, Urban ,Females,91,289
+15,State - MIZORAM (15),InHearing, Total ,Persons,1742,1612
+15,State - MIZORAM (15),InHearing, Total ,Males,1105,723
+15,State - MIZORAM (15),InHearing, Total ,Females,637,889
+15,State - MIZORAM (15),InHearing, Rural ,Persons,1117,872
+15,State - MIZORAM (15),InHearing, Rural ,Males,685,370
+15,State - MIZORAM (15),InHearing, Rural ,Females,432,502
+15,State - MIZORAM (15),InHearing, Urban ,Persons,625,740
+15,State - MIZORAM (15),InHearing, Urban ,Males,420,353
+15,State - MIZORAM (15),InHearing, Urban ,Females,205,387
+15,State - MIZORAM (15),InSpeech, Total ,Persons,456,707
+15,State - MIZORAM (15),InSpeech, Total ,Males,281,320
+15,State - MIZORAM (15),InSpeech, Total ,Females,175,387
+15,State - MIZORAM (15),InSpeech, Rural ,Persons,341,394
+15,State - MIZORAM (15),InSpeech, Rural ,Males,209,190
+15,State - MIZORAM (15),InSpeech, Rural ,Females,132,204
+15,State - MIZORAM (15),InSpeech, Urban ,Persons,115,313
+15,State - MIZORAM (15),InSpeech, Urban ,Males,72,130
+15,State - MIZORAM (15),InSpeech, Urban ,Females,43,183
+15,State - MIZORAM (15),InMovement, Total ,Persons,601,1375
+15,State - MIZORAM (15),InMovement, Total ,Males,415,747
+15,State - MIZORAM (15),InMovement, Total ,Females,186,628
+15,State - MIZORAM (15),InMovement, Rural ,Persons,367,774
+15,State - MIZORAM (15),InMovement, Rural ,Males,243,408
+15,State - MIZORAM (15),InMovement, Rural ,Females,124,366
+15,State - MIZORAM (15),InMovement, Urban ,Persons,234,601
+15,State - MIZORAM (15),InMovement, Urban ,Males,172,339
+15,State - MIZORAM (15),InMovement, Urban ,Females,62,262
+15,State - MIZORAM (15),MentalRetardation, Total ,Persons,443,1142
+15,State - MIZORAM (15),MentalRetardation, Total ,Males,282,561
+15,State - MIZORAM (15),MentalRetardation, Total ,Females,161,581
+15,State - MIZORAM (15),MentalRetardation, Rural ,Persons,263,513
+15,State - MIZORAM (15),MentalRetardation, Rural ,Males,164,246
+15,State - MIZORAM (15),MentalRetardation, Rural ,Females,99,267
+15,State - MIZORAM (15),MentalRetardation, Urban ,Persons,180,629
+15,State - MIZORAM (15),MentalRetardation, Urban ,Males,118,315
+15,State - MIZORAM (15),MentalRetardation, Urban ,Females,62,314
+15,State - MIZORAM (15),MentalIllness, Total ,Persons,176,874
+15,State - MIZORAM (15),MentalIllness, Total ,Males,106,470
+15,State - MIZORAM (15),MentalIllness, Total ,Females,70,404
+15,State - MIZORAM (15),MentalIllness, Rural ,Persons,111,312
+15,State - MIZORAM (15),MentalIllness, Rural ,Males,68,129
+15,State - MIZORAM (15),MentalIllness, Rural ,Females,43,183
+15,State - MIZORAM (15),MentalIllness, Urban ,Persons,65,562
+15,State - MIZORAM (15),MentalIllness, Urban ,Males,38,341
+15,State - MIZORAM (15),MentalIllness, Urban ,Females,27,221
+15,State - MIZORAM (15),AnyOther, Total ,Persons,789,1125
+15,State - MIZORAM (15),AnyOther, Total ,Males,492,517
+15,State - MIZORAM (15),AnyOther, Total ,Females,297,608
+15,State - MIZORAM (15),AnyOther, Rural ,Persons,499,622
+15,State - MIZORAM (15),AnyOther, Rural ,Males,299,289
+15,State - MIZORAM (15),AnyOther, Rural ,Females,200,333
+15,State - MIZORAM (15),AnyOther, Urban ,Persons,290,503
+15,State - MIZORAM (15),AnyOther, Urban ,Males,193,228
+15,State - MIZORAM (15),AnyOther, Urban ,Females,97,275
+15,State - MIZORAM (15),MultipleDisability, Total ,Persons,483,1600
+15,State - MIZORAM (15),MultipleDisability, Total ,Males,302,790
+15,State - MIZORAM (15),MultipleDisability, Total ,Females,181,810
+15,State - MIZORAM (15),MultipleDisability, Rural ,Persons,344,861
+15,State - MIZORAM (15),MultipleDisability, Rural ,Males,209,406
+15,State - MIZORAM (15),MultipleDisability, Rural ,Females,135,455
+15,State - MIZORAM (15),MultipleDisability, Urban ,Persons,139,739
+15,State - MIZORAM (15),MultipleDisability, Urban ,Males,93,384
+15,State - MIZORAM (15),MultipleDisability, Urban ,Females,46,355
+16,State - TRIPURA (16),TotalDisabledPopulation, Total ,Persons,21627,42719
+16,State - TRIPURA (16),TotalDisabledPopulation, Total ,Males,16224,19258
+16,State - TRIPURA (16),TotalDisabledPopulation, Total ,Females,5403,23461
+16,State - TRIPURA (16),TotalDisabledPopulation, Rural ,Persons,15602,29340
+16,State - TRIPURA (16),TotalDisabledPopulation, Rural ,Males,11439,13197
+16,State - TRIPURA (16),TotalDisabledPopulation, Rural ,Females,4163,16143
+16,State - TRIPURA (16),TotalDisabledPopulation, Urban ,Persons,6025,13379
+16,State - TRIPURA (16),TotalDisabledPopulation, Urban ,Males,4785,6061
+16,State - TRIPURA (16),TotalDisabledPopulation, Urban ,Females,1240,7318
+16,State - TRIPURA (16),InSeeing, Total ,Persons,3853,6975
+16,State - TRIPURA (16),InSeeing, Total ,Males,2818,2694
+16,State - TRIPURA (16),InSeeing, Total ,Females,1035,4281
+16,State - TRIPURA (16),InSeeing, Rural ,Persons,2780,4895
+16,State - TRIPURA (16),InSeeing, Rural ,Males,2002,1911
+16,State - TRIPURA (16),InSeeing, Rural ,Females,778,2984
+16,State - TRIPURA (16),InSeeing, Urban ,Persons,1073,2080
+16,State - TRIPURA (16),InSeeing, Urban ,Males,816,783
+16,State - TRIPURA (16),InSeeing, Urban ,Females,257,1297
+16,State - TRIPURA (16),InHearing, Total ,Persons,5407,6288
+16,State - TRIPURA (16),InHearing, Total ,Males,4022,2360
+16,State - TRIPURA (16),InHearing, Total ,Females,1385,3928
+16,State - TRIPURA (16),InHearing, Rural ,Persons,4117,4468
+16,State - TRIPURA (16),InHearing, Rural ,Males,2985,1667
+16,State - TRIPURA (16),InHearing, Rural ,Females,1132,2801
+16,State - TRIPURA (16),InHearing, Urban ,Persons,1290,1820
+16,State - TRIPURA (16),InHearing, Urban ,Males,1037,693
+16,State - TRIPURA (16),InHearing, Urban ,Females,253,1127
+16,State - TRIPURA (16),InSpeech, Total ,Persons,1471,3096
+16,State - TRIPURA (16),InSpeech, Total ,Males,1102,1436
+16,State - TRIPURA (16),InSpeech, Total ,Females,369,1660
+16,State - TRIPURA (16),InSpeech, Rural ,Persons,986,2053
+16,State - TRIPURA (16),InSpeech, Rural ,Males,740,962
+16,State - TRIPURA (16),InSpeech, Rural ,Females,246,1091
+16,State - TRIPURA (16),InSpeech, Urban ,Persons,485,1043
+16,State - TRIPURA (16),InSpeech, Urban ,Males,362,474
+16,State - TRIPURA (16),InSpeech, Urban ,Females,123,569
+16,State - TRIPURA (16),InMovement, Total ,Persons,3772,7935
+16,State - TRIPURA (16),InMovement, Total ,Males,3079,4047
+16,State - TRIPURA (16),InMovement, Total ,Females,693,3888
+16,State - TRIPURA (16),InMovement, Rural ,Persons,2499,5516
+16,State - TRIPURA (16),InMovement, Rural ,Males,2016,2830
+16,State - TRIPURA (16),InMovement, Rural ,Females,483,2686
+16,State - TRIPURA (16),InMovement, Urban ,Persons,1273,2419
+16,State - TRIPURA (16),InMovement, Urban ,Males,1063,1217
+16,State - TRIPURA (16),InMovement, Urban ,Females,210,1202
+16,State - TRIPURA (16),MentalRetardation, Total ,Persons,985,3322
+16,State - TRIPURA (16),MentalRetardation, Total ,Males,687,1671
+16,State - TRIPURA (16),MentalRetardation, Total ,Females,298,1651
+16,State - TRIPURA (16),MentalRetardation, Rural ,Persons,792,2235
+16,State - TRIPURA (16),MentalRetardation, Rural ,Males,536,1104
+16,State - TRIPURA (16),MentalRetardation, Rural ,Females,256,1131
+16,State - TRIPURA (16),MentalRetardation, Urban ,Persons,193,1087
+16,State - TRIPURA (16),MentalRetardation, Urban ,Males,151,567
+16,State - TRIPURA (16),MentalRetardation, Urban ,Females,42,520
+16,State - TRIPURA (16),MentalIllness, Total ,Persons,553,2356
+16,State - TRIPURA (16),MentalIllness, Total ,Males,411,1172
+16,State - TRIPURA (16),MentalIllness, Total ,Females,142,1184
+16,State - TRIPURA (16),MentalIllness, Rural ,Persons,388,1477
+16,State - TRIPURA (16),MentalIllness, Rural ,Males,286,707
+16,State - TRIPURA (16),MentalIllness, Rural ,Females,102,770
+16,State - TRIPURA (16),MentalIllness, Urban ,Persons,165,879
+16,State - TRIPURA (16),MentalIllness, Urban ,Males,125,465
+16,State - TRIPURA (16),MentalIllness, Urban ,Females,40,414
+16,State - TRIPURA (16),AnyOther, Total ,Persons,4622,7203
+16,State - TRIPURA (16),AnyOther, Total ,Males,3375,3130
+16,State - TRIPURA (16),AnyOther, Total ,Females,1247,4073
+16,State - TRIPURA (16),AnyOther, Rural ,Persons,3372,5077
+16,State - TRIPURA (16),AnyOther, Rural ,Males,2379,2232
+16,State - TRIPURA (16),AnyOther, Rural ,Females,993,2845
+16,State - TRIPURA (16),AnyOther, Urban ,Persons,1250,2126
+16,State - TRIPURA (16),AnyOther, Urban ,Males,996,898
+16,State - TRIPURA (16),AnyOther, Urban ,Females,254,1228
+16,State - TRIPURA (16),MultipleDisability, Total ,Persons,964,5544
+16,State - TRIPURA (16),MultipleDisability, Total ,Males,730,2748
+16,State - TRIPURA (16),MultipleDisability, Total ,Females,234,2796
+16,State - TRIPURA (16),MultipleDisability, Rural ,Persons,668,3619
+16,State - TRIPURA (16),MultipleDisability, Rural ,Males,495,1784
+16,State - TRIPURA (16),MultipleDisability, Rural ,Females,173,1835
+16,State - TRIPURA (16),MultipleDisability, Urban ,Persons,296,1925
+16,State - TRIPURA (16),MultipleDisability, Urban ,Males,235,964
+16,State - TRIPURA (16),MultipleDisability, Urban ,Females,61,961
+17,State - MEGHALAYA (17),TotalDisabledPopulation, Total ,Persons,16724,27593
+17,State - MEGHALAYA (17),TotalDisabledPopulation, Total ,Males,10209,13117
+17,State - MEGHALAYA (17),TotalDisabledPopulation, Total ,Females,6515,14476
+17,State - MEGHALAYA (17),TotalDisabledPopulation, Rural ,Persons,14750,22816
+17,State - MEGHALAYA (17),TotalDisabledPopulation, Rural ,Males,8718,10858
+17,State - MEGHALAYA (17),TotalDisabledPopulation, Rural ,Females,6032,11958
+17,State - MEGHALAYA (17),TotalDisabledPopulation, Urban ,Persons,1974,4777
+17,State - MEGHALAYA (17),TotalDisabledPopulation, Urban ,Males,1491,2259
+17,State - MEGHALAYA (17),TotalDisabledPopulation, Urban ,Females,483,2518
+17,State - MEGHALAYA (17),InSeeing, Total ,Persons,2846,4134
+17,State - MEGHALAYA (17),InSeeing, Total ,Males,1708,1786
+17,State - MEGHALAYA (17),InSeeing, Total ,Females,1138,2348
+17,State - MEGHALAYA (17),InSeeing, Rural ,Persons,2547,3522
+17,State - MEGHALAYA (17),InSeeing, Rural ,Males,1488,1538
+17,State - MEGHALAYA (17),InSeeing, Rural ,Females,1059,1984
+17,State - MEGHALAYA (17),InSeeing, Urban ,Persons,299,612
+17,State - MEGHALAYA (17),InSeeing, Urban ,Males,220,248
+17,State - MEGHALAYA (17),InSeeing, Urban ,Females,79,364
+17,State - MEGHALAYA (17),InHearing, Total ,Persons,5639,6714
+17,State - MEGHALAYA (17),InHearing, Total ,Males,3495,3056
+17,State - MEGHALAYA (17),InHearing, Total ,Females,2144,3658
+17,State - MEGHALAYA (17),InHearing, Rural ,Persons,4852,5750
+17,State - MEGHALAYA (17),InHearing, Rural ,Males,2860,2636
+17,State - MEGHALAYA (17),InHearing, Rural ,Females,1992,3114
+17,State - MEGHALAYA (17),InHearing, Urban ,Persons,787,964
+17,State - MEGHALAYA (17),InHearing, Urban ,Males,635,420
+17,State - MEGHALAYA (17),InHearing, Urban ,Females,152,544
+17,State - MEGHALAYA (17),InSpeech, Total ,Persons,958,1749
+17,State - MEGHALAYA (17),InSpeech, Total ,Males,575,837
+17,State - MEGHALAYA (17),InSpeech, Total ,Females,383,912
+17,State - MEGHALAYA (17),InSpeech, Rural ,Persons,867,1462
+17,State - MEGHALAYA (17),InSpeech, Rural ,Males,517,711
+17,State - MEGHALAYA (17),InSpeech, Rural ,Females,350,751
+17,State - MEGHALAYA (17),InSpeech, Urban ,Persons,91,287
+17,State - MEGHALAYA (17),InSpeech, Urban ,Males,58,126
+17,State - MEGHALAYA (17),InSpeech, Urban ,Females,33,161
+17,State - MEGHALAYA (17),InMovement, Total ,Persons,1637,3675
+17,State - MEGHALAYA (17),InMovement, Total ,Males,1093,1905
+17,State - MEGHALAYA (17),InMovement, Total ,Females,544,1770
+17,State - MEGHALAYA (17),InMovement, Rural ,Persons,1455,3045
+17,State - MEGHALAYA (17),InMovement, Rural ,Males,954,1581
+17,State - MEGHALAYA (17),InMovement, Rural ,Females,501,1464
+17,State - MEGHALAYA (17),InMovement, Urban ,Persons,182,630
+17,State - MEGHALAYA (17),InMovement, Urban ,Males,139,324
+17,State - MEGHALAYA (17),InMovement, Urban ,Females,43,306
+17,State - MEGHALAYA (17),MentalRetardation, Total ,Persons,620,1712
+17,State - MEGHALAYA (17),MentalRetardation, Total ,Males,375,860
+17,State - MEGHALAYA (17),MentalRetardation, Total ,Females,245,852
+17,State - MEGHALAYA (17),MentalRetardation, Rural ,Persons,551,1237
+17,State - MEGHALAYA (17),MentalRetardation, Rural ,Males,324,604
+17,State - MEGHALAYA (17),MentalRetardation, Rural ,Females,227,633
+17,State - MEGHALAYA (17),MentalRetardation, Urban ,Persons,69,475
+17,State - MEGHALAYA (17),MentalRetardation, Urban ,Males,51,256
+17,State - MEGHALAYA (17),MentalRetardation, Urban ,Females,18,219
+17,State - MEGHALAYA (17),MentalIllness, Total ,Persons,613,1727
+17,State - MEGHALAYA (17),MentalIllness, Total ,Males,323,851
+17,State - MEGHALAYA (17),MentalIllness, Total ,Females,290,876
+17,State - MEGHALAYA (17),MentalIllness, Rural ,Persons,561,1320
+17,State - MEGHALAYA (17),MentalIllness, Rural ,Males,291,631
+17,State - MEGHALAYA (17),MentalIllness, Rural ,Females,270,689
+17,State - MEGHALAYA (17),MentalIllness, Urban ,Persons,52,407
+17,State - MEGHALAYA (17),MentalIllness, Urban ,Males,32,220
+17,State - MEGHALAYA (17),MentalIllness, Urban ,Females,20,187
+17,State - MEGHALAYA (17),AnyOther, Total ,Persons,3598,5119
+17,State - MEGHALAYA (17),AnyOther, Total ,Males,2150,2436
+17,State - MEGHALAYA (17),AnyOther, Total ,Females,1448,2683
+17,State - MEGHALAYA (17),AnyOther, Rural ,Persons,3165,4195
+17,State - MEGHALAYA (17),AnyOther, Rural ,Males,1837,2007
+17,State - MEGHALAYA (17),AnyOther, Rural ,Females,1328,2188
+17,State - MEGHALAYA (17),AnyOther, Urban ,Persons,433,924
+17,State - MEGHALAYA (17),AnyOther, Urban ,Males,313,429
+17,State - MEGHALAYA (17),AnyOther, Urban ,Females,120,495
+17,State - MEGHALAYA (17),MultipleDisability, Total ,Persons,813,2763
+17,State - MEGHALAYA (17),MultipleDisability, Total ,Males,490,1386
+17,State - MEGHALAYA (17),MultipleDisability, Total ,Females,323,1377
+17,State - MEGHALAYA (17),MultipleDisability, Rural ,Persons,752,2285
+17,State - MEGHALAYA (17),MultipleDisability, Rural ,Males,447,1150
+17,State - MEGHALAYA (17),MultipleDisability, Rural ,Females,305,1135
+17,State - MEGHALAYA (17),MultipleDisability, Urban ,Persons,61,478
+17,State - MEGHALAYA (17),MultipleDisability, Urban ,Males,43,236
+17,State - MEGHALAYA (17),MultipleDisability, Urban ,Females,18,242
+18,State - ASSAM (18),TotalDisabledPopulation, Total ,Persons,162785,317280
+18,State - ASSAM (18),TotalDisabledPopulation, Total ,Males,118396,138989
+18,State - ASSAM (18),TotalDisabledPopulation, Total ,Females,44389,178291
+18,State - ASSAM (18),TotalDisabledPopulation, Rural ,Persons,142436,273021
+18,State - ASSAM (18),TotalDisabledPopulation, Rural ,Males,102897,119525
+18,State - ASSAM (18),TotalDisabledPopulation, Rural ,Females,39539,153496
+18,State - ASSAM (18),TotalDisabledPopulation, Urban ,Persons,20349,44259
+18,State - ASSAM (18),TotalDisabledPopulation, Urban ,Males,15499,19464
+18,State - ASSAM (18),TotalDisabledPopulation, Urban ,Females,4850,24795
+18,State - ASSAM (18),InSeeing, Total ,Persons,29404,51149
+18,State - ASSAM (18),InSeeing, Total ,Males,21343,19709
+18,State - ASSAM (18),InSeeing, Total ,Females,8061,31440
+18,State - ASSAM (18),InSeeing, Rural ,Persons,25960,44614
+18,State - ASSAM (18),InSeeing, Rural ,Males,18681,17271
+18,State - ASSAM (18),InSeeing, Rural ,Females,7279,27343
+18,State - ASSAM (18),InSeeing, Urban ,Persons,3444,6535
+18,State - ASSAM (18),InSeeing, Urban ,Males,2662,2438
+18,State - ASSAM (18),InSeeing, Urban ,Females,782,4097
+18,State - ASSAM (18),InHearing, Total ,Persons,42172,59405
+18,State - ASSAM (18),InHearing, Total ,Males,29465,22317
+18,State - ASSAM (18),InHearing, Total ,Females,12707,37088
+18,State - ASSAM (18),InHearing, Rural ,Persons,37606,51451
+18,State - ASSAM (18),InHearing, Rural ,Males,26140,19412
+18,State - ASSAM (18),InHearing, Rural ,Females,11466,32039
+18,State - ASSAM (18),InHearing, Urban ,Persons,4566,7954
+18,State - ASSAM (18),InHearing, Urban ,Males,3325,2905
+18,State - ASSAM (18),InHearing, Urban ,Females,1241,5049
+18,State - ASSAM (18),InSpeech, Total ,Persons,13301,26449
+18,State - ASSAM (18),InSpeech, Total ,Males,9878,12007
+18,State - ASSAM (18),InSpeech, Total ,Females,3423,14442
+18,State - ASSAM (18),InSpeech, Rural ,Persons,11714,22784
+18,State - ASSAM (18),InSpeech, Rural ,Males,8596,10348
+18,State - ASSAM (18),InSpeech, Rural ,Females,3118,12436
+18,State - ASSAM (18),InSpeech, Urban ,Persons,1587,3665
+18,State - ASSAM (18),InSpeech, Urban ,Males,1282,1659
+18,State - ASSAM (18),InSpeech, Urban ,Females,305,2006
+18,State - ASSAM (18),InMovement, Total ,Persons,22884,53123
+18,State - ASSAM (18),InMovement, Total ,Males,18548,26551
+18,State - ASSAM (18),InMovement, Total ,Females,4336,26572
+18,State - ASSAM (18),InMovement, Rural ,Persons,20216,46650
+18,State - ASSAM (18),InMovement, Rural ,Males,16246,23305
+18,State - ASSAM (18),InMovement, Rural ,Females,3970,23345
+18,State - ASSAM (18),InMovement, Urban ,Persons,2668,6473
+18,State - ASSAM (18),InMovement, Urban ,Males,2302,3246
+18,State - ASSAM (18),InMovement, Urban ,Females,366,3227
+18,State - ASSAM (18),MentalRetardation, Total ,Persons,6976,19398
+18,State - ASSAM (18),MentalRetardation, Total ,Males,5168,9696
+18,State - ASSAM (18),MentalRetardation, Total ,Females,1808,9702
+18,State - ASSAM (18),MentalRetardation, Rural ,Persons,6232,16184
+18,State - ASSAM (18),MentalRetardation, Rural ,Males,4556,7963
+18,State - ASSAM (18),MentalRetardation, Rural ,Females,1676,8221
+18,State - ASSAM (18),MentalRetardation, Urban ,Persons,744,3214
+18,State - ASSAM (18),MentalRetardation, Urban ,Males,612,1733
+18,State - ASSAM (18),MentalRetardation, Urban ,Females,132,1481
+18,State - ASSAM (18),MentalIllness, Total ,Persons,4351,14468
+18,State - ASSAM (18),MentalIllness, Total ,Males,3247,7378
+18,State - ASSAM (18),MentalIllness, Total ,Females,1104,7090
+18,State - ASSAM (18),MentalIllness, Rural ,Persons,4025,11989
+18,State - ASSAM (18),MentalIllness, Rural ,Males,2984,5924
+18,State - ASSAM (18),MentalIllness, Rural ,Females,1041,6065
+18,State - ASSAM (18),MentalIllness, Urban ,Persons,326,2479
+18,State - ASSAM (18),MentalIllness, Urban ,Males,263,1454
+18,State - ASSAM (18),MentalIllness, Urban ,Females,63,1025
+18,State - ASSAM (18),AnyOther, Total ,Persons,34613,52848
+18,State - ASSAM (18),AnyOther, Total ,Males,24089,22436
+18,State - ASSAM (18),AnyOther, Total ,Females,10524,30412
+18,State - ASSAM (18),AnyOther, Rural ,Persons,28361,43683
+18,State - ASSAM (18),AnyOther, Rural ,Males,19621,18774
+18,State - ASSAM (18),AnyOther, Rural ,Females,8740,24909
+18,State - ASSAM (18),AnyOther, Urban ,Persons,6252,9165
+18,State - ASSAM (18),AnyOther, Urban ,Males,4468,3662
+18,State - ASSAM (18),AnyOther, Urban ,Females,1784,5503
+18,State - ASSAM (18),MultipleDisability, Total ,Persons,9084,40440
+18,State - ASSAM (18),MultipleDisability, Total ,Males,6658,18895
+18,State - ASSAM (18),MultipleDisability, Total ,Females,2426,21545
+18,State - ASSAM (18),MultipleDisability, Rural ,Persons,8322,35666
+18,State - ASSAM (18),MultipleDisability, Rural ,Males,6073,16528
+18,State - ASSAM (18),MultipleDisability, Rural ,Females,2249,19138
+18,State - ASSAM (18),MultipleDisability, Urban ,Persons,762,4774
+18,State - ASSAM (18),MultipleDisability, Urban ,Males,585,2367
+18,State - ASSAM (18),MultipleDisability, Urban ,Females,177,2407
+19,State - WEST BENGAL (19),TotalDisabledPopulation, Total ,Persons,685516,1331890
+19,State - WEST BENGAL (19),TotalDisabledPopulation, Total ,Males,535887,591294
+19,State - WEST BENGAL (19),TotalDisabledPopulation, Total ,Females,149629,740596
+19,State - WEST BENGAL (19),TotalDisabledPopulation, Rural ,Persons,465592,903350
+19,State - WEST BENGAL (19),TotalDisabledPopulation, Rural ,Males,362414,406207
+19,State - WEST BENGAL (19),TotalDisabledPopulation, Rural ,Females,103178,497143
+19,State - WEST BENGAL (19),TotalDisabledPopulation, Urban ,Persons,219924,428540
+19,State - WEST BENGAL (19),TotalDisabledPopulation, Urban ,Males,173473,185087
+19,State - WEST BENGAL (19),TotalDisabledPopulation, Urban ,Females,46451,243453
+19,State - WEST BENGAL (19),InSeeing, Total ,Persons,161730,262743
+19,State - WEST BENGAL (19),InSeeing, Total ,Males,125660,97665
+19,State - WEST BENGAL (19),InSeeing, Total ,Females,36070,165078
+19,State - WEST BENGAL (19),InSeeing, Rural ,Persons,106297,171069
+19,State - WEST BENGAL (19),InSeeing, Rural ,Males,81743,63927
+19,State - WEST BENGAL (19),InSeeing, Rural ,Females,24554,107142
+19,State - WEST BENGAL (19),InSeeing, Urban ,Persons,55433,91674
+19,State - WEST BENGAL (19),InSeeing, Urban ,Males,43917,33738
+19,State - WEST BENGAL (19),InSeeing, Urban ,Females,11516,57936
+19,State - WEST BENGAL (19),InHearing, Total ,Persons,126567,188625
+19,State - WEST BENGAL (19),InHearing, Total ,Males,95006,70747
+19,State - WEST BENGAL (19),InHearing, Total ,Females,31561,117878
+19,State - WEST BENGAL (19),InHearing, Rural ,Persons,82822,117597
+19,State - WEST BENGAL (19),InHearing, Rural ,Males,61452,44053
+19,State - WEST BENGAL (19),InHearing, Rural ,Females,21370,73544
+19,State - WEST BENGAL (19),InHearing, Urban ,Persons,43745,71028
+19,State - WEST BENGAL (19),InHearing, Urban ,Males,33554,26694
+19,State - WEST BENGAL (19),InHearing, Urban ,Females,10191,44334
+19,State - WEST BENGAL (19),InSpeech, Total ,Persons,50170,97166
+19,State - WEST BENGAL (19),InSpeech, Total ,Males,39317,41938
+19,State - WEST BENGAL (19),InSpeech, Total ,Females,10853,55228
+19,State - WEST BENGAL (19),InSpeech, Rural ,Persons,31047,63251
+19,State - WEST BENGAL (19),InSpeech, Rural ,Males,24282,28137
+19,State - WEST BENGAL (19),InSpeech, Rural ,Females,6765,35114
+19,State - WEST BENGAL (19),InSpeech, Urban ,Persons,19123,33915
+19,State - WEST BENGAL (19),InSpeech, Urban ,Males,15035,13801
+19,State - WEST BENGAL (19),InSpeech, Urban ,Females,4088,20114
+19,State - WEST BENGAL (19),InMovement, Total ,Persons,107728,215217
+19,State - WEST BENGAL (19),InMovement, Total ,Males,90772,114170
+19,State - WEST BENGAL (19),InMovement, Total ,Females,16956,101047
+19,State - WEST BENGAL (19),InMovement, Rural ,Persons,79393,159666
+19,State - WEST BENGAL (19),InMovement, Rural ,Males,67074,85253
+19,State - WEST BENGAL (19),InMovement, Rural ,Females,12319,74413
+19,State - WEST BENGAL (19),InMovement, Urban ,Persons,28335,55551
+19,State - WEST BENGAL (19),InMovement, Urban ,Males,23698,28917
+19,State - WEST BENGAL (19),InMovement, Urban ,Females,4637,26634
+19,State - WEST BENGAL (19),MentalRetardation, Total ,Persons,30446,106077
+19,State - WEST BENGAL (19),MentalRetardation, Total ,Males,23610,52660
+19,State - WEST BENGAL (19),MentalRetardation, Total ,Females,6836,53417
+19,State - WEST BENGAL (19),MentalRetardation, Rural ,Persons,20912,71614
+19,State - WEST BENGAL (19),MentalRetardation, Rural ,Males,16041,35434
+19,State - WEST BENGAL (19),MentalRetardation, Rural ,Females,4871,36180
+19,State - WEST BENGAL (19),MentalRetardation, Urban ,Persons,9534,34463
+19,State - WEST BENGAL (19),MentalRetardation, Urban ,Males,7569,17226
+19,State - WEST BENGAL (19),MentalRetardation, Urban ,Females,1965,17237
+19,State - WEST BENGAL (19),MentalIllness, Total ,Persons,14616,56899
+19,State - WEST BENGAL (19),MentalIllness, Total ,Males,11358,29387
+19,State - WEST BENGAL (19),MentalIllness, Total ,Females,3258,27512
+19,State - WEST BENGAL (19),MentalIllness, Rural ,Persons,11280,38601
+19,State - WEST BENGAL (19),MentalIllness, Rural ,Males,8716,19359
+19,State - WEST BENGAL (19),MentalIllness, Rural ,Females,2564,19242
+19,State - WEST BENGAL (19),MentalIllness, Urban ,Persons,3336,18298
+19,State - WEST BENGAL (19),MentalIllness, Urban ,Males,2642,10028
+19,State - WEST BENGAL (19),MentalIllness, Urban ,Females,694,8270
+19,State - WEST BENGAL (19),AnyOther, Total ,Persons,161028,241893
+19,State - WEST BENGAL (19),AnyOther, Total ,Males,124637,103626
+19,State - WEST BENGAL (19),AnyOther, Total ,Females,36391,138267
+19,State - WEST BENGAL (19),AnyOther, Rural ,Persons,107625,155102
+19,State - WEST BENGAL (19),AnyOther, Rural ,Males,82990,67471
+19,State - WEST BENGAL (19),AnyOther, Rural ,Females,24635,87631
+19,State - WEST BENGAL (19),AnyOther, Urban ,Persons,53403,86791
+19,State - WEST BENGAL (19),AnyOther, Urban ,Males,41647,36155
+19,State - WEST BENGAL (19),AnyOther, Urban ,Females,11756,50636
+19,State - WEST BENGAL (19),MultipleDisability, Total ,Persons,33231,163270
+19,State - WEST BENGAL (19),MultipleDisability, Total ,Males,25527,81101
+19,State - WEST BENGAL (19),MultipleDisability, Total ,Females,7704,82169
+19,State - WEST BENGAL (19),MultipleDisability, Rural ,Persons,26216,126450
+19,State - WEST BENGAL (19),MultipleDisability, Rural ,Males,20116,62573
+19,State - WEST BENGAL (19),MultipleDisability, Rural ,Females,6100,63877
+19,State - WEST BENGAL (19),MultipleDisability, Urban ,Persons,7015,36820
+19,State - WEST BENGAL (19),MultipleDisability, Urban ,Males,5411,18528
+19,State - WEST BENGAL (19),MultipleDisability, Urban ,Females,1604,18292
+20,State - JHARKHAND (20),TotalDisabledPopulation, Total ,Persons,290133,479847
+20,State - JHARKHAND (20),TotalDisabledPopulation, Total ,Males,201071,225805
+20,State - JHARKHAND (20),TotalDisabledPopulation, Total ,Females,89062,254042
+20,State - JHARKHAND (20),TotalDisabledPopulation, Rural ,Persons,240841,356703
+20,State - JHARKHAND (20),TotalDisabledPopulation, Rural ,Males,159958,168738
+20,State - JHARKHAND (20),TotalDisabledPopulation, Rural ,Females,80883,187965
+20,State - JHARKHAND (20),TotalDisabledPopulation, Urban ,Persons,49292,123144
+20,State - JHARKHAND (20),TotalDisabledPopulation, Urban ,Males,41113,57067
+20,State - JHARKHAND (20),TotalDisabledPopulation, Urban ,Females,8179,66077
+20,State - JHARKHAND (20),InSeeing, Total ,Persons,71801,108920
+20,State - JHARKHAND (20),InSeeing, Total ,Males,49178,46864
+20,State - JHARKHAND (20),InSeeing, Total ,Females,22623,62056
+20,State - JHARKHAND (20),InSeeing, Rural ,Persons,59896,82105
+20,State - JHARKHAND (20),InSeeing, Rural ,Males,39243,35556
+20,State - JHARKHAND (20),InSeeing, Rural ,Females,20653,46549
+20,State - JHARKHAND (20),InSeeing, Urban ,Persons,11905,26815
+20,State - JHARKHAND (20),InSeeing, Urban ,Males,9935,11308
+20,State - JHARKHAND (20),InSeeing, Urban ,Females,1970,15507
+20,State - JHARKHAND (20),InHearing, Total ,Persons,71462,94399
+20,State - JHARKHAND (20),InHearing, Total ,Males,47663,40479
+20,State - JHARKHAND (20),InHearing, Total ,Females,23799,53920
+20,State - JHARKHAND (20),InHearing, Rural ,Persons,58642,68099
+20,State - JHARKHAND (20),InHearing, Rural ,Males,37114,29637
+20,State - JHARKHAND (20),InHearing, Rural ,Females,21528,38462
+20,State - JHARKHAND (20),InHearing, Urban ,Persons,12820,26300
+20,State - JHARKHAND (20),InHearing, Urban ,Males,10549,10842
+20,State - JHARKHAND (20),InHearing, Urban ,Females,2271,15458
+20,State - JHARKHAND (20),InSpeech, Total ,Persons,17450,29234
+20,State - JHARKHAND (20),InSpeech, Total ,Males,12296,13873
+20,State - JHARKHAND (20),InSpeech, Total ,Females,5154,15361
+20,State - JHARKHAND (20),InSpeech, Rural ,Persons,13763,20781
+20,State - JHARKHAND (20),InSpeech, Rural ,Males,9210,10095
+20,State - JHARKHAND (20),InSpeech, Rural ,Females,4553,10686
+20,State - JHARKHAND (20),InSpeech, Urban ,Persons,3687,8453
+20,State - JHARKHAND (20),InSpeech, Urban ,Males,3086,3778
+20,State - JHARKHAND (20),InSpeech, Urban ,Females,601,4675
+20,State - JHARKHAND (20),InMovement, Total ,Persons,53178,94714
+20,State - JHARKHAND (20),InMovement, Total ,Males,40019,49084
+20,State - JHARKHAND (20),InMovement, Total ,Females,13159,45630
+20,State - JHARKHAND (20),InMovement, Rural ,Persons,44876,74052
+20,State - JHARKHAND (20),InMovement, Rural ,Males,32821,38392
+20,State - JHARKHAND (20),InMovement, Rural ,Females,12055,35660
+20,State - JHARKHAND (20),InMovement, Urban ,Persons,8302,20662
+20,State - JHARKHAND (20),InMovement, Urban ,Males,7198,10692
+20,State - JHARKHAND (20),InMovement, Urban ,Females,1104,9970
+20,State - JHARKHAND (20),MentalRetardation, Total ,Persons,10953,26505
+20,State - JHARKHAND (20),MentalRetardation, Total ,Males,7456,14145
+20,State - JHARKHAND (20),MentalRetardation, Total ,Females,3497,12360
+20,State - JHARKHAND (20),MentalRetardation, Rural ,Persons,9485,19208
+20,State - JHARKHAND (20),MentalRetardation, Rural ,Males,6244,10116
+20,State - JHARKHAND (20),MentalRetardation, Rural ,Females,3241,9092
+20,State - JHARKHAND (20),MentalRetardation, Urban ,Persons,1468,7297
+20,State - JHARKHAND (20),MentalRetardation, Urban ,Males,1212,4029
+20,State - JHARKHAND (20),MentalRetardation, Urban ,Females,256,3268
+20,State - JHARKHAND (20),MentalIllness, Total ,Persons,5514,14643
+20,State - JHARKHAND (20),MentalIllness, Total ,Males,3656,8062
+20,State - JHARKHAND (20),MentalIllness, Total ,Females,1858,6581
+20,State - JHARKHAND (20),MentalIllness, Rural ,Persons,4958,10203
+20,State - JHARKHAND (20),MentalIllness, Rural ,Males,3196,5358
+20,State - JHARKHAND (20),MentalIllness, Rural ,Females,1762,4845
+20,State - JHARKHAND (20),MentalIllness, Urban ,Persons,556,4440
+20,State - JHARKHAND (20),MentalIllness, Urban ,Males,460,2704
+20,State - JHARKHAND (20),MentalIllness, Urban ,Females,96,1736
+20,State - JHARKHAND (20),AnyOther, Total ,Persons,47897,64475
+20,State - JHARKHAND (20),AnyOther, Total ,Males,32739,29397
+20,State - JHARKHAND (20),AnyOther, Total ,Females,15158,35078
+20,State - JHARKHAND (20),AnyOther, Rural ,Persons,38790,44998
+20,State - JHARKHAND (20),AnyOther, Rural ,Males,25267,20916
+20,State - JHARKHAND (20),AnyOther, Rural ,Females,13523,24082
+20,State - JHARKHAND (20),AnyOther, Urban ,Persons,9107,19477
+20,State - JHARKHAND (20),AnyOther, Urban ,Males,7472,8481
+20,State - JHARKHAND (20),AnyOther, Urban ,Females,1635,10996
+20,State - JHARKHAND (20),MultipleDisability, Total ,Persons,11878,46957
+20,State - JHARKHAND (20),MultipleDisability, Total ,Males,8064,23901
+20,State - JHARKHAND (20),MultipleDisability, Total ,Females,3814,23056
+20,State - JHARKHAND (20),MultipleDisability, Rural ,Persons,10431,37257
+20,State - JHARKHAND (20),MultipleDisability, Rural ,Males,6863,18668
+20,State - JHARKHAND (20),MultipleDisability, Rural ,Females,3568,18589
+20,State - JHARKHAND (20),MultipleDisability, Urban ,Persons,1447,9700
+20,State - JHARKHAND (20),MultipleDisability, Urban ,Males,1201,5233
+20,State - JHARKHAND (20),MultipleDisability, Urban ,Females,246,4467
+21,State - ODISHA (21),TotalDisabledPopulation, Total ,Persons,427020,817382
+21,State - ODISHA (21),TotalDisabledPopulation, Total ,Males,304747,370028
+21,State - ODISHA (21),TotalDisabledPopulation, Total ,Females,122273,447354
+21,State - ODISHA (21),TotalDisabledPopulation, Rural ,Persons,372952,694787
+21,State - ODISHA (21),TotalDisabledPopulation, Rural ,Males,262017,314655
+21,State - ODISHA (21),TotalDisabledPopulation, Rural ,Females,110935,380132
+21,State - ODISHA (21),TotalDisabledPopulation, Urban ,Persons,54068,122595
+21,State - ODISHA (21),TotalDisabledPopulation, Urban ,Males,42730,55373
+21,State - ODISHA (21),TotalDisabledPopulation, Urban ,Females,11338,67222
+21,State - ODISHA (21),InSeeing, Total ,Persons,100564,163235
+21,State - ODISHA (21),InSeeing, Total ,Males,70934,65917
+21,State - ODISHA (21),InSeeing, Total ,Females,29630,97318
+21,State - ODISHA (21),InSeeing, Rural ,Persons,88266,139256
+21,State - ODISHA (21),InSeeing, Rural ,Males,61223,56367
+21,State - ODISHA (21),InSeeing, Rural ,Females,27043,82889
+21,State - ODISHA (21),InSeeing, Urban ,Persons,12298,23979
+21,State - ODISHA (21),InSeeing, Urban ,Males,9711,9550
+21,State - ODISHA (21),InSeeing, Urban ,Females,2587,14429
+21,State - ODISHA (21),InHearing, Total ,Persons,100241,137617
+21,State - ODISHA (21),InHearing, Total ,Males,68396,54849
+21,State - ODISHA (21),InHearing, Total ,Females,31845,82768
+21,State - ODISHA (21),InHearing, Rural ,Persons,87414,113205
+21,State - ODISHA (21),InHearing, Rural ,Males,58576,45187
+21,State - ODISHA (21),InHearing, Rural ,Females,28838,68018
+21,State - ODISHA (21),InHearing, Urban ,Persons,12827,24412
+21,State - ODISHA (21),InHearing, Urban ,Males,9820,9662
+21,State - ODISHA (21),InHearing, Urban ,Females,3007,14750
+21,State - ODISHA (21),InSpeech, Total ,Persons,27510,41007
+21,State - ODISHA (21),InSpeech, Total ,Males,20207,18299
+21,State - ODISHA (21),InSpeech, Total ,Females,7303,22708
+21,State - ODISHA (21),InSpeech, Rural ,Persons,22893,33237
+21,State - ODISHA (21),InSpeech, Rural ,Males,16394,15078
+21,State - ODISHA (21),InSpeech, Rural ,Females,6499,18159
+21,State - ODISHA (21),InSpeech, Urban ,Persons,4617,7770
+21,State - ODISHA (21),InSpeech, Urban ,Males,3813,3221
+21,State - ODISHA (21),InSpeech, Urban ,Females,804,4549
+21,State - ODISHA (21),InMovement, Total ,Persons,80123,179776
+21,State - ODISHA (21),InMovement, Total ,Males,62354,90645
+21,State - ODISHA (21),InMovement, Total ,Females,17769,89131
+21,State - ODISHA (21),InMovement, Rural ,Persons,70805,157785
+21,State - ODISHA (21),InMovement, Rural ,Males,54526,79272
+21,State - ODISHA (21),InMovement, Rural ,Females,16279,78513
+21,State - ODISHA (21),InMovement, Urban ,Persons,9318,21991
+21,State - ODISHA (21),InMovement, Urban ,Males,7828,11373
+21,State - ODISHA (21),InMovement, Urban ,Females,1490,10618
+21,State - ODISHA (21),MentalRetardation, Total ,Persons,16706,55693
+21,State - ODISHA (21),MentalRetardation, Total ,Males,11722,28598
+21,State - ODISHA (21),MentalRetardation, Total ,Females,4984,27095
+21,State - ODISHA (21),MentalRetardation, Rural ,Persons,14924,46803
+21,State - ODISHA (21),MentalRetardation, Rural ,Males,10277,23833
+21,State - ODISHA (21),MentalRetardation, Rural ,Females,4647,22970
+21,State - ODISHA (21),MentalRetardation, Urban ,Persons,1782,8890
+21,State - ODISHA (21),MentalRetardation, Urban ,Males,1445,4765
+21,State - ODISHA (21),MentalRetardation, Urban ,Females,337,4125
+21,State - ODISHA (21),MentalIllness, Total ,Persons,9197,33640
+21,State - ODISHA (21),MentalIllness, Total ,Males,6286,16627
+21,State - ODISHA (21),MentalIllness, Total ,Females,2911,17013
+21,State - ODISHA (21),MentalIllness, Rural ,Persons,8487,28740
+21,State - ODISHA (21),MentalIllness, Rural ,Males,5731,14007
+21,State - ODISHA (21),MentalIllness, Rural ,Females,2756,14733
+21,State - ODISHA (21),MentalIllness, Urban ,Persons,710,4900
+21,State - ODISHA (21),MentalIllness, Urban ,Males,555,2620
+21,State - ODISHA (21),MentalIllness, Urban ,Females,155,2280
+21,State - ODISHA (21),AnyOther, Total ,Persons,70641,102240
+21,State - ODISHA (21),AnyOther, Total ,Males,49426,44554
+21,State - ODISHA (21),AnyOther, Total ,Females,21215,57686
+21,State - ODISHA (21),AnyOther, Rural ,Persons,59921,83797
+21,State - ODISHA (21),AnyOther, Rural ,Males,41290,36670
+21,State - ODISHA (21),AnyOther, Rural ,Females,18631,47127
+21,State - ODISHA (21),AnyOther, Urban ,Persons,10720,18443
+21,State - ODISHA (21),AnyOther, Urban ,Males,8136,7884
+21,State - ODISHA (21),AnyOther, Urban ,Females,2584,10559
+21,State - ODISHA (21),MultipleDisability, Total ,Persons,22038,104174
+21,State - ODISHA (21),MultipleDisability, Total ,Males,15422,50539
+21,State - ODISHA (21),MultipleDisability, Total ,Females,6616,53635
+21,State - ODISHA (21),MultipleDisability, Rural ,Persons,20242,91964
+21,State - ODISHA (21),MultipleDisability, Rural ,Males,14000,44241
+21,State - ODISHA (21),MultipleDisability, Rural ,Females,6242,47723
+21,State - ODISHA (21),MultipleDisability, Urban ,Persons,1796,12210
+21,State - ODISHA (21),MultipleDisability, Urban ,Males,1422,6298
+21,State - ODISHA (21),MultipleDisability, Urban ,Females,374,5912
+22,State - CHHATTISGARH (22),TotalDisabledPopulation, Total ,Persons,240846,384091
+22,State - CHHATTISGARH (22),TotalDisabledPopulation, Total ,Males,157622,176471
+22,State - CHHATTISGARH (22),TotalDisabledPopulation, Total ,Females,83224,207620
+22,State - CHHATTISGARH (22),TotalDisabledPopulation, Rural ,Persons,201058,297170
+22,State - CHHATTISGARH (22),TotalDisabledPopulation, Rural ,Males,126566,137032
+22,State - CHHATTISGARH (22),TotalDisabledPopulation, Rural ,Females,74492,160138
+22,State - CHHATTISGARH (22),TotalDisabledPopulation, Urban ,Persons,39788,86921
+22,State - CHHATTISGARH (22),TotalDisabledPopulation, Urban ,Males,31056,39439
+22,State - CHHATTISGARH (22),TotalDisabledPopulation, Urban ,Females,8732,47482
+22,State - CHHATTISGARH (22),InSeeing, Total ,Persons,45535,65634
+22,State - CHHATTISGARH (22),InSeeing, Total ,Males,29231,26835
+22,State - CHHATTISGARH (22),InSeeing, Total ,Females,16304,38799
+22,State - CHHATTISGARH (22),InSeeing, Rural ,Persons,37674,50391
+22,State - CHHATTISGARH (22),InSeeing, Rural ,Males,23132,20780
+22,State - CHHATTISGARH (22),InSeeing, Rural ,Females,14542,29611
+22,State - CHHATTISGARH (22),InSeeing, Urban ,Persons,7861,15243
+22,State - CHHATTISGARH (22),InSeeing, Urban ,Males,6099,6055
+22,State - CHHATTISGARH (22),InSeeing, Urban ,Females,1762,9188
+22,State - CHHATTISGARH (22),InHearing, Total ,Persons,44636,47679
+22,State - CHHATTISGARH (22),InHearing, Total ,Males,28215,19725
+22,State - CHHATTISGARH (22),InHearing, Total ,Females,16421,27954
+22,State - CHHATTISGARH (22),InHearing, Rural ,Persons,37644,35792
+22,State - CHHATTISGARH (22),InHearing, Rural ,Males,22874,14993
+22,State - CHHATTISGARH (22),InHearing, Rural ,Females,14770,20799
+22,State - CHHATTISGARH (22),InHearing, Urban ,Persons,6992,11887
+22,State - CHHATTISGARH (22),InHearing, Urban ,Males,5341,4732
+22,State - CHHATTISGARH (22),InHearing, Urban ,Females,1651,7155
+22,State - CHHATTISGARH (22),InSpeech, Total ,Persons,11808,16454
+22,State - CHHATTISGARH (22),InSpeech, Total ,Males,7531,7978
+22,State - CHHATTISGARH (22),InSpeech, Total ,Females,4277,8476
+22,State - CHHATTISGARH (22),InSpeech, Rural ,Persons,9513,11795
+22,State - CHHATTISGARH (22),InSpeech, Rural ,Males,5733,5895
+22,State - CHHATTISGARH (22),InSpeech, Rural ,Females,3780,5900
+22,State - CHHATTISGARH (22),InSpeech, Urban ,Persons,2295,4659
+22,State - CHHATTISGARH (22),InSpeech, Urban ,Males,1798,2083
+22,State - CHHATTISGARH (22),InSpeech, Urban ,Females,497,2576
+22,State - CHHATTISGARH (22),InMovement, Total ,Persons,73973,116355
+22,State - CHHATTISGARH (22),InMovement, Total ,Males,52106,56309
+22,State - CHHATTISGARH (22),InMovement, Total ,Females,21867,60046
+22,State - CHHATTISGARH (22),InMovement, Rural ,Persons,61827,93710
+22,State - CHHATTISGARH (22),InMovement, Rural ,Males,42289,45294
+22,State - CHHATTISGARH (22),InMovement, Rural ,Females,19538,48416
+22,State - CHHATTISGARH (22),InMovement, Urban ,Persons,12146,22645
+22,State - CHHATTISGARH (22),InMovement, Urban ,Males,9817,11015
+22,State - CHHATTISGARH (22),InMovement, Urban ,Females,2329,11630
+22,State - CHHATTISGARH (22),MentalRetardation, Total ,Persons,8542,24629
+22,State - CHHATTISGARH (22),MentalRetardation, Total ,Males,5126,12436
+22,State - CHHATTISGARH (22),MentalRetardation, Total ,Females,3416,12193
+22,State - CHHATTISGARH (22),MentalRetardation, Rural ,Persons,7345,18110
+22,State - CHHATTISGARH (22),MentalRetardation, Rural ,Males,4227,9052
+22,State - CHHATTISGARH (22),MentalRetardation, Rural ,Females,3118,9058
+22,State - CHHATTISGARH (22),MentalRetardation, Urban ,Persons,1197,6519
+22,State - CHHATTISGARH (22),MentalRetardation, Urban ,Males,899,3384
+22,State - CHHATTISGARH (22),MentalRetardation, Urban ,Females,298,3135
+22,State - CHHATTISGARH (22),MentalIllness, Total ,Persons,5207,15625
+22,State - CHHATTISGARH (22),MentalIllness, Total ,Males,3111,7780
+22,State - CHHATTISGARH (22),MentalIllness, Total ,Females,2096,7845
+22,State - CHHATTISGARH (22),MentalIllness, Rural ,Persons,4646,11651
+22,State - CHHATTISGARH (22),MentalIllness, Rural ,Males,2662,5658
+22,State - CHHATTISGARH (22),MentalIllness, Rural ,Females,1984,5993
+22,State - CHHATTISGARH (22),MentalIllness, Urban ,Persons,561,3974
+22,State - CHHATTISGARH (22),MentalIllness, Urban ,Males,449,2122
+22,State - CHHATTISGARH (22),MentalIllness, Urban ,Females,112,1852
+22,State - CHHATTISGARH (22),AnyOther, Total ,Persons,37284,39619
+22,State - CHHATTISGARH (22),AnyOther, Total ,Males,23651,18198
+22,State - CHHATTISGARH (22),AnyOther, Total ,Females,13633,21421
+22,State - CHHATTISGARH (22),AnyOther, Rural ,Persons,30064,28214
+22,State - CHHATTISGARH (22),AnyOther, Rural ,Males,18149,13407
+22,State - CHHATTISGARH (22),AnyOther, Rural ,Females,11915,14807
+22,State - CHHATTISGARH (22),AnyOther, Urban ,Persons,7220,11405
+22,State - CHHATTISGARH (22),AnyOther, Urban ,Males,5502,4791
+22,State - CHHATTISGARH (22),AnyOther, Urban ,Females,1718,6614
+22,State - CHHATTISGARH (22),MultipleDisability, Total ,Persons,13861,58096
+22,State - CHHATTISGARH (22),MultipleDisability, Total ,Males,8651,27210
+22,State - CHHATTISGARH (22),MultipleDisability, Total ,Females,5210,30886
+22,State - CHHATTISGARH (22),MultipleDisability, Rural ,Persons,12345,47507
+22,State - CHHATTISGARH (22),MultipleDisability, Rural ,Males,7500,21953
+22,State - CHHATTISGARH (22),MultipleDisability, Rural ,Females,4845,25554
+22,State - CHHATTISGARH (22),MultipleDisability, Urban ,Persons,1516,10589
+22,State - CHHATTISGARH (22),MultipleDisability, Urban ,Males,1151,5257
+22,State - CHHATTISGARH (22),MultipleDisability, Urban ,Females,365,5332
+23,State - MADHYA PRADESH (23),TotalDisabledPopulation, Total ,Persons,613921,938010
+23,State - MADHYA PRADESH (23),TotalDisabledPopulation, Total ,Males,433143,455608
+23,State - MADHYA PRADESH (23),TotalDisabledPopulation, Total ,Females,180778,482402
+23,State - MADHYA PRADESH (23),TotalDisabledPopulation, Rural ,Persons,466887,638817
+23,State - MADHYA PRADESH (23),TotalDisabledPopulation, Rural ,Males,315571,315952
+23,State - MADHYA PRADESH (23),TotalDisabledPopulation, Rural ,Females,151316,322865
+23,State - MADHYA PRADESH (23),TotalDisabledPopulation, Urban ,Persons,147034,299193
+23,State - MADHYA PRADESH (23),TotalDisabledPopulation, Urban ,Males,117572,139656
+23,State - MADHYA PRADESH (23),TotalDisabledPopulation, Urban ,Females,29462,159537
+23,State - MADHYA PRADESH (23),InSeeing, Total ,Persons,106335,164416
+23,State - MADHYA PRADESH (23),InSeeing, Total ,Males,72819,71463
+23,State - MADHYA PRADESH (23),InSeeing, Total ,Females,33516,92953
+23,State - MADHYA PRADESH (23),InSeeing, Rural ,Persons,79613,113206
+23,State - MADHYA PRADESH (23),InSeeing, Rural ,Males,51639,49984
+23,State - MADHYA PRADESH (23),InSeeing, Rural ,Females,27974,63222
+23,State - MADHYA PRADESH (23),InSeeing, Urban ,Persons,26722,51210
+23,State - MADHYA PRADESH (23),InSeeing, Urban ,Males,21180,21479
+23,State - MADHYA PRADESH (23),InSeeing, Urban ,Females,5542,29731
+23,State - MADHYA PRADESH (23),InHearing, Total ,Persons,118663,148698
+23,State - MADHYA PRADESH (23),InHearing, Total ,Males,80925,64110
+23,State - MADHYA PRADESH (23),InHearing, Total ,Females,37738,84588
+23,State - MADHYA PRADESH (23),InHearing, Rural ,Persons,86629,92429
+23,State - MADHYA PRADESH (23),InHearing, Rural ,Males,55902,41315
+23,State - MADHYA PRADESH (23),InHearing, Rural ,Females,30727,51114
+23,State - MADHYA PRADESH (23),InHearing, Urban ,Persons,32034,56269
+23,State - MADHYA PRADESH (23),InHearing, Urban ,Males,25023,22795
+23,State - MADHYA PRADESH (23),InHearing, Urban ,Females,7011,33474
+23,State - MADHYA PRADESH (23),InSpeech, Total ,Persons,27327,41997
+23,State - MADHYA PRADESH (23),InSpeech, Total ,Males,19401,20916
+23,State - MADHYA PRADESH (23),InSpeech, Total ,Females,7926,21081
+23,State - MADHYA PRADESH (23),InSpeech, Rural ,Persons,19916,26473
+23,State - MADHYA PRADESH (23),InSpeech, Rural ,Males,13370,13882
+23,State - MADHYA PRADESH (23),InSpeech, Rural ,Females,6546,12591
+23,State - MADHYA PRADESH (23),InSpeech, Urban ,Persons,7411,15524
+23,State - MADHYA PRADESH (23),InSpeech, Urban ,Males,6031,7034
+23,State - MADHYA PRADESH (23),InSpeech, Urban ,Females,1380,8490
+23,State - MADHYA PRADESH (23),InMovement, Total ,Persons,170753,233985
+23,State - MADHYA PRADESH (23),InMovement, Total ,Males,128607,123778
+23,State - MADHYA PRADESH (23),InMovement, Total ,Females,42146,110207
+23,State - MADHYA PRADESH (23),InMovement, Rural ,Persons,135165,173983
+23,State - MADHYA PRADESH (23),InMovement, Rural ,Males,98879,92702
+23,State - MADHYA PRADESH (23),InMovement, Rural ,Females,36286,81281
+23,State - MADHYA PRADESH (23),InMovement, Urban ,Persons,35588,60002
+23,State - MADHYA PRADESH (23),InMovement, Urban ,Males,29728,31076
+23,State - MADHYA PRADESH (23),InMovement, Urban ,Females,5860,28926
+23,State - MADHYA PRADESH (23),MentalRetardation, Total ,Persons,20680,57123
+23,State - MADHYA PRADESH (23),MentalRetardation, Total ,Males,14452,32119
+23,State - MADHYA PRADESH (23),MentalRetardation, Total ,Females,6228,25004
+23,State - MADHYA PRADESH (23),MentalRetardation, Rural ,Persons,16289,35790
+23,State - MADHYA PRADESH (23),MentalRetardation, Rural ,Males,10937,20143
+23,State - MADHYA PRADESH (23),MentalRetardation, Rural ,Females,5352,15647
+23,State - MADHYA PRADESH (23),MentalRetardation, Urban ,Persons,4391,21333
+23,State - MADHYA PRADESH (23),MentalRetardation, Urban ,Males,3515,11976
+23,State - MADHYA PRADESH (23),MentalRetardation, Urban ,Females,876,9357
+23,State - MADHYA PRADESH (23),MentalIllness, Total ,Persons,9002,30511
+23,State - MADHYA PRADESH (23),MentalIllness, Total ,Males,6248,17518
+23,State - MADHYA PRADESH (23),MentalIllness, Total ,Females,2754,12993
+23,State - MADHYA PRADESH (23),MentalIllness, Rural ,Persons,7599,19512
+23,State - MADHYA PRADESH (23),MentalIllness, Rural ,Males,5094,11131
+23,State - MADHYA PRADESH (23),MentalIllness, Rural ,Females,2505,8381
+23,State - MADHYA PRADESH (23),MentalIllness, Urban ,Persons,1403,10999
+23,State - MADHYA PRADESH (23),MentalIllness, Urban ,Males,1154,6387
+23,State - MADHYA PRADESH (23),MentalIllness, Urban ,Females,249,4612
+23,State - MADHYA PRADESH (23),AnyOther, Total ,Persons,135786,159249
+23,State - MADHYA PRADESH (23),AnyOther, Total ,Males,93333,72791
+23,State - MADHYA PRADESH (23),AnyOther, Total ,Females,42453,86458
+23,State - MADHYA PRADESH (23),AnyOther, Rural ,Persons,100496,101850
+23,State - MADHYA PRADESH (23),AnyOther, Rural ,Males,65733,48342
+23,State - MADHYA PRADESH (23),AnyOther, Rural ,Females,34763,53508
+23,State - MADHYA PRADESH (23),AnyOther, Urban ,Persons,35290,57399
+23,State - MADHYA PRADESH (23),AnyOther, Urban ,Males,27600,24449
+23,State - MADHYA PRADESH (23),AnyOther, Urban ,Females,7690,32950
+23,State - MADHYA PRADESH (23),MultipleDisability, Total ,Persons,25375,102031
+23,State - MADHYA PRADESH (23),MultipleDisability, Total ,Males,17358,52913
+23,State - MADHYA PRADESH (23),MultipleDisability, Total ,Females,8017,49118
+23,State - MADHYA PRADESH (23),MultipleDisability, Rural ,Persons,21180,75574
+23,State - MADHYA PRADESH (23),MultipleDisability, Rural ,Males,14017,38453
+23,State - MADHYA PRADESH (23),MultipleDisability, Rural ,Females,7163,37121
+23,State - MADHYA PRADESH (23),MultipleDisability, Urban ,Persons,4195,26457
+23,State - MADHYA PRADESH (23),MultipleDisability, Urban ,Males,3341,14460
+23,State - MADHYA PRADESH (23),MultipleDisability, Urban ,Females,854,11997
+24,State - GUJARAT (24),TotalDisabledPopulation, Total ,Persons,380064,712238
+24,State - GUJARAT (24),TotalDisabledPopulation, Total ,Males,293182,319622
+24,State - GUJARAT (24),TotalDisabledPopulation, Total ,Females,86882,392616
+24,State - GUJARAT (24),TotalDisabledPopulation, Rural ,Persons,209835,360644
+24,State - GUJARAT (24),TotalDisabledPopulation, Rural ,Males,150956,170950
+24,State - GUJARAT (24),TotalDisabledPopulation, Rural ,Females,58879,189694
+24,State - GUJARAT (24),TotalDisabledPopulation, Urban ,Persons,170229,351594
+24,State - GUJARAT (24),TotalDisabledPopulation, Urban ,Males,142226,148672
+24,State - GUJARAT (24),TotalDisabledPopulation, Urban ,Females,28003,202922
+24,State - GUJARAT (24),InSeeing, Total ,Persons,76652,137498
+24,State - GUJARAT (24),InSeeing, Total ,Males,58582,55035
+24,State - GUJARAT (24),InSeeing, Total ,Females,18070,82463
+24,State - GUJARAT (24),InSeeing, Rural ,Persons,36785,61530
+24,State - GUJARAT (24),InSeeing, Rural ,Males,25490,25978
+24,State - GUJARAT (24),InSeeing, Rural ,Females,11295,35552
+24,State - GUJARAT (24),InSeeing, Urban ,Persons,39867,75968
+24,State - GUJARAT (24),InSeeing, Urban ,Males,33092,29057
+24,State - GUJARAT (24),InSeeing, Urban ,Females,6775,46911
+24,State - GUJARAT (24),InHearing, Total ,Persons,71710,118965
+24,State - GUJARAT (24),InHearing, Total ,Males,54544,45897
+24,State - GUJARAT (24),InHearing, Total ,Females,17166,73068
+24,State - GUJARAT (24),InHearing, Rural ,Persons,34808,50626
+24,State - GUJARAT (24),InHearing, Rural ,Males,23803,20398
+24,State - GUJARAT (24),InHearing, Rural ,Females,11005,30228
+24,State - GUJARAT (24),InHearing, Urban ,Persons,36902,68339
+24,State - GUJARAT (24),InHearing, Urban ,Males,30741,25499
+24,State - GUJARAT (24),InHearing, Urban ,Females,6161,42840
+24,State - GUJARAT (24),InSpeech, Total ,Persons,22088,38244
+24,State - GUJARAT (24),InSpeech, Total ,Males,17432,17845
+24,State - GUJARAT (24),InSpeech, Total ,Females,4656,20399
+24,State - GUJARAT (24),InSpeech, Rural ,Persons,11044,18304
+24,State - GUJARAT (24),InSpeech, Rural ,Males,8043,9511
+24,State - GUJARAT (24),InSpeech, Rural ,Females,3001,8793
+24,State - GUJARAT (24),InSpeech, Urban ,Persons,11044,19940
+24,State - GUJARAT (24),InSpeech, Urban ,Males,9389,8334
+24,State - GUJARAT (24),InSpeech, Urban ,Females,1655,11606
+24,State - GUJARAT (24),InMovement, Total ,Persons,99777,146102
+24,State - GUJARAT (24),InMovement, Total ,Males,80360,68903
+24,State - GUJARAT (24),InMovement, Total ,Females,19417,77199
+24,State - GUJARAT (24),InMovement, Rural ,Persons,65426,88269
+24,State - GUJARAT (24),InMovement, Rural ,Males,51094,43385
+24,State - GUJARAT (24),InMovement, Rural ,Females,14332,44884
+24,State - GUJARAT (24),InMovement, Urban ,Persons,34351,57833
+24,State - GUJARAT (24),InMovement, Urban ,Males,29266,25518
+24,State - GUJARAT (24),InMovement, Urban ,Females,5085,32315
+24,State - GUJARAT (24),MentalRetardation, Total ,Persons,9793,56600
+24,State - GUJARAT (24),MentalRetardation, Total ,Males,7334,31975
+24,State - GUJARAT (24),MentalRetardation, Total ,Females,2459,24625
+24,State - GUJARAT (24),MentalRetardation, Rural ,Persons,6452,33102
+24,State - GUJARAT (24),MentalRetardation, Rural ,Males,4593,18768
+24,State - GUJARAT (24),MentalRetardation, Rural ,Females,1859,14334
+24,State - GUJARAT (24),MentalRetardation, Urban ,Persons,3341,23498
+24,State - GUJARAT (24),MentalRetardation, Urban ,Males,2741,13207
+24,State - GUJARAT (24),MentalRetardation, Urban ,Females,600,10291
+24,State - GUJARAT (24),MentalIllness, Total ,Persons,8948,33089
+24,State - GUJARAT (24),MentalIllness, Total ,Males,6858,18085
+24,State - GUJARAT (24),MentalIllness, Total ,Females,2090,15004
+24,State - GUJARAT (24),MentalIllness, Rural ,Persons,6016,18805
+24,State - GUJARAT (24),MentalIllness, Rural ,Males,4398,10165
+24,State - GUJARAT (24),MentalIllness, Rural ,Females,1618,8640
+24,State - GUJARAT (24),MentalIllness, Urban ,Persons,2932,14284
+24,State - GUJARAT (24),MentalIllness, Urban ,Males,2460,7920
+24,State - GUJARAT (24),MentalIllness, Urban ,Females,472,6364
+24,State - GUJARAT (24),AnyOther, Total ,Persons,79230,118495
+24,State - GUJARAT (24),AnyOther, Total ,Males,59085,48330
+24,State - GUJARAT (24),AnyOther, Total ,Females,20145,70165
+24,State - GUJARAT (24),AnyOther, Rural ,Persons,41802,51580
+24,State - GUJARAT (24),AnyOther, Rural ,Males,28220,22238
+24,State - GUJARAT (24),AnyOther, Rural ,Females,13582,29342
+24,State - GUJARAT (24),AnyOther, Urban ,Persons,37428,66915
+24,State - GUJARAT (24),AnyOther, Urban ,Males,30865,26092
+24,State - GUJARAT (24),AnyOther, Urban ,Females,6563,40823
+24,State - GUJARAT (24),MultipleDisability, Total ,Persons,11866,63245
+24,State - GUJARAT (24),MultipleDisability, Total ,Males,8987,33552
+24,State - GUJARAT (24),MultipleDisability, Total ,Females,2879,29693
+24,State - GUJARAT (24),MultipleDisability, Rural ,Persons,7502,38428
+24,State - GUJARAT (24),MultipleDisability, Rural ,Males,5315,20507
+24,State - GUJARAT (24),MultipleDisability, Rural ,Females,2187,17921
+24,State - GUJARAT (24),MultipleDisability, Urban ,Persons,4364,24817
+24,State - GUJARAT (24),MultipleDisability, Urban ,Males,3672,13045
+24,State - GUJARAT (24),MultipleDisability, Urban ,Females,692,11772
+25,State - DAMAN & DIU (25),TotalDisabledPopulation, Total ,Persons,774,1422
+25,State - DAMAN & DIU (25),TotalDisabledPopulation, Total ,Males,650,650
+25,State - DAMAN & DIU (25),TotalDisabledPopulation, Total ,Females,124,772
+25,State - DAMAN & DIU (25),TotalDisabledPopulation, Rural ,Persons,262,515
+25,State - DAMAN & DIU (25),TotalDisabledPopulation, Rural ,Males,210,241
+25,State - DAMAN & DIU (25),TotalDisabledPopulation, Rural ,Females,52,274
+25,State - DAMAN & DIU (25),TotalDisabledPopulation, Urban ,Persons,512,907
+25,State - DAMAN & DIU (25),TotalDisabledPopulation, Urban ,Males,440,409
+25,State - DAMAN & DIU (25),TotalDisabledPopulation, Urban ,Females,72,498
+25,State - DAMAN & DIU (25),InSeeing, Total ,Persons,166,216
+25,State - DAMAN & DIU (25),InSeeing, Total ,Males,140,82
+25,State - DAMAN & DIU (25),InSeeing, Total ,Females,26,134
+25,State - DAMAN & DIU (25),InSeeing, Rural ,Persons,74,72
+25,State - DAMAN & DIU (25),InSeeing, Rural ,Males,67,28
+25,State - DAMAN & DIU (25),InSeeing, Rural ,Females,7,44
+25,State - DAMAN & DIU (25),InSeeing, Urban ,Persons,92,144
+25,State - DAMAN & DIU (25),InSeeing, Urban ,Males,73,54
+25,State - DAMAN & DIU (25),InSeeing, Urban ,Females,19,90
+25,State - DAMAN & DIU (25),InHearing, Total ,Persons,127,182
+25,State - DAMAN & DIU (25),InHearing, Total ,Males,105,53
+25,State - DAMAN & DIU (25),InHearing, Total ,Females,22,129
+25,State - DAMAN & DIU (25),InHearing, Rural ,Persons,34,46
+25,State - DAMAN & DIU (25),InHearing, Rural ,Males,25,11
+25,State - DAMAN & DIU (25),InHearing, Rural ,Females,9,35
+25,State - DAMAN & DIU (25),InHearing, Urban ,Persons,93,136
+25,State - DAMAN & DIU (25),InHearing, Urban ,Males,80,42
+25,State - DAMAN & DIU (25),InHearing, Urban ,Females,13,94
+25,State - DAMAN & DIU (25),InSpeech, Total ,Persons,60,89
+25,State - DAMAN & DIU (25),InSpeech, Total ,Males,55,48
+25,State - DAMAN & DIU (25),InSpeech, Total ,Females,5,41
+25,State - DAMAN & DIU (25),InSpeech, Rural ,Persons,16,40
+25,State - DAMAN & DIU (25),InSpeech, Rural ,Males,14,19
+25,State - DAMAN & DIU (25),InSpeech, Rural ,Females,2,21
+25,State - DAMAN & DIU (25),InSpeech, Urban ,Persons,44,49
+25,State - DAMAN & DIU (25),InSpeech, Urban ,Males,41,29
+25,State - DAMAN & DIU (25),InSpeech, Urban ,Females,3,20
+25,State - DAMAN & DIU (25),InMovement, Total ,Persons,225,395
+25,State - DAMAN & DIU (25),InMovement, Total ,Males,184,183
+25,State - DAMAN & DIU (25),InMovement, Total ,Females,41,212
+25,State - DAMAN & DIU (25),InMovement, Rural ,Persons,90,164
+25,State - DAMAN & DIU (25),InMovement, Rural ,Males,69,76
+25,State - DAMAN & DIU (25),InMovement, Rural ,Females,21,88
+25,State - DAMAN & DIU (25),InMovement, Urban ,Persons,135,231
+25,State - DAMAN & DIU (25),InMovement, Urban ,Males,115,107
+25,State - DAMAN & DIU (25),InMovement, Urban ,Females,20,124
+25,State - DAMAN & DIU (25),MentalRetardation, Total ,Persons,20,156
+25,State - DAMAN & DIU (25),MentalRetardation, Total ,Males,16,82
+25,State - DAMAN & DIU (25),MentalRetardation, Total ,Females,4,74
+25,State - DAMAN & DIU (25),MentalRetardation, Rural ,Persons,8,58
+25,State - DAMAN & DIU (25),MentalRetardation, Rural ,Males,5,32
+25,State - DAMAN & DIU (25),MentalRetardation, Rural ,Females,3,26
+25,State - DAMAN & DIU (25),MentalRetardation, Urban ,Persons,12,98
+25,State - DAMAN & DIU (25),MentalRetardation, Urban ,Males,11,50
+25,State - DAMAN & DIU (25),MentalRetardation, Urban ,Females,1,48
+25,State - DAMAN & DIU (25),MentalIllness, Total ,Persons,8,81
+25,State - DAMAN & DIU (25),MentalIllness, Total ,Males,6,48
+25,State - DAMAN & DIU (25),MentalIllness, Total ,Females,2,33
+25,State - DAMAN & DIU (25),MentalIllness, Rural ,Persons,3,31
+25,State - DAMAN & DIU (25),MentalIllness, Rural ,Males,2,18
+25,State - DAMAN & DIU (25),MentalIllness, Rural ,Females,1,13
+25,State - DAMAN & DIU (25),MentalIllness, Urban ,Persons,5,50
+25,State - DAMAN & DIU (25),MentalIllness, Urban ,Males,4,30
+25,State - DAMAN & DIU (25),MentalIllness, Urban ,Females,1,20
+25,State - DAMAN & DIU (25),AnyOther, Total ,Persons,145,119
+25,State - DAMAN & DIU (25),AnyOther, Total ,Males,125,57
+25,State - DAMAN & DIU (25),AnyOther, Total ,Females,20,62
+25,State - DAMAN & DIU (25),AnyOther, Rural ,Persons,25,40
+25,State - DAMAN & DIU (25),AnyOther, Rural ,Males,18,19
+25,State - DAMAN & DIU (25),AnyOther, Rural ,Females,7,21
+25,State - DAMAN & DIU (25),AnyOther, Urban ,Persons,120,79
+25,State - DAMAN & DIU (25),AnyOther, Urban ,Males,107,38
+25,State - DAMAN & DIU (25),AnyOther, Urban ,Females,13,41
+25,State - DAMAN & DIU (25),MultipleDisability, Total ,Persons,23,184
+25,State - DAMAN & DIU (25),MultipleDisability, Total ,Males,19,97
+25,State - DAMAN & DIU (25),MultipleDisability, Total ,Females,4,87
+25,State - DAMAN & DIU (25),MultipleDisability, Rural ,Persons,12,64
+25,State - DAMAN & DIU (25),MultipleDisability, Rural ,Males,10,38
+25,State - DAMAN & DIU (25),MultipleDisability, Rural ,Females,2,26
+25,State - DAMAN & DIU (25),MultipleDisability, Urban ,Persons,11,120
+25,State - DAMAN & DIU (25),MultipleDisability, Urban ,Males,9,59
+25,State - DAMAN & DIU (25),MultipleDisability, Urban ,Females,2,61
+26,State - DADRA & NAGAR HAVELI (26),TotalDisabledPopulation, Total ,Persons,1159,2135
+26,State - DADRA & NAGAR HAVELI (26),TotalDisabledPopulation, Total ,Males,845,1048
+26,State - DADRA & NAGAR HAVELI (26),TotalDisabledPopulation, Total ,Females,314,1087
+26,State - DADRA & NAGAR HAVELI (26),TotalDisabledPopulation, Rural ,Persons,708,1248
+26,State - DADRA & NAGAR HAVELI (26),TotalDisabledPopulation, Rural ,Males,467,630
+26,State - DADRA & NAGAR HAVELI (26),TotalDisabledPopulation, Rural ,Females,241,618
+26,State - DADRA & NAGAR HAVELI (26),TotalDisabledPopulation, Urban ,Persons,451,887
+26,State - DADRA & NAGAR HAVELI (26),TotalDisabledPopulation, Urban ,Males,378,418
+26,State - DADRA & NAGAR HAVELI (26),TotalDisabledPopulation, Urban ,Females,73,469
+26,State - DADRA & NAGAR HAVELI (26),InSeeing, Total ,Persons,157,272
+26,State - DADRA & NAGAR HAVELI (26),InSeeing, Total ,Males,119,115
+26,State - DADRA & NAGAR HAVELI (26),InSeeing, Total ,Females,38,157
+26,State - DADRA & NAGAR HAVELI (26),InSeeing, Rural ,Persons,88,172
+26,State - DADRA & NAGAR HAVELI (26),InSeeing, Rural ,Males,64,72
+26,State - DADRA & NAGAR HAVELI (26),InSeeing, Rural ,Females,24,100
+26,State - DADRA & NAGAR HAVELI (26),InSeeing, Urban ,Persons,69,100
+26,State - DADRA & NAGAR HAVELI (26),InSeeing, Urban ,Males,55,43
+26,State - DADRA & NAGAR HAVELI (26),InSeeing, Urban ,Females,14,57
+26,State - DADRA & NAGAR HAVELI (26),InHearing, Total ,Persons,288,427
+26,State - DADRA & NAGAR HAVELI (26),InHearing, Total ,Males,216,188
+26,State - DADRA & NAGAR HAVELI (26),InHearing, Total ,Females,72,239
+26,State - DADRA & NAGAR HAVELI (26),InHearing, Rural ,Persons,167,226
+26,State - DADRA & NAGAR HAVELI (26),InHearing, Rural ,Males,106,114
+26,State - DADRA & NAGAR HAVELI (26),InHearing, Rural ,Females,61,112
+26,State - DADRA & NAGAR HAVELI (26),InHearing, Urban ,Persons,121,201
+26,State - DADRA & NAGAR HAVELI (26),InHearing, Urban ,Males,110,74
+26,State - DADRA & NAGAR HAVELI (26),InHearing, Urban ,Females,11,127
+26,State - DADRA & NAGAR HAVELI (26),InSpeech, Total ,Persons,67,134
+26,State - DADRA & NAGAR HAVELI (26),InSpeech, Total ,Males,53,62
+26,State - DADRA & NAGAR HAVELI (26),InSpeech, Total ,Females,14,72
+26,State - DADRA & NAGAR HAVELI (26),InSpeech, Rural ,Persons,44,75
+26,State - DADRA & NAGAR HAVELI (26),InSpeech, Rural ,Males,34,34
+26,State - DADRA & NAGAR HAVELI (26),InSpeech, Rural ,Females,10,41
+26,State - DADRA & NAGAR HAVELI (26),InSpeech, Urban ,Persons,23,59
+26,State - DADRA & NAGAR HAVELI (26),InSpeech, Urban ,Males,19,28
+26,State - DADRA & NAGAR HAVELI (26),InSpeech, Urban ,Females,4,31
+26,State - DADRA & NAGAR HAVELI (26),InMovement, Total ,Persons,256,426
+26,State - DADRA & NAGAR HAVELI (26),InMovement, Total ,Males,201,239
+26,State - DADRA & NAGAR HAVELI (26),InMovement, Total ,Females,55,187
+26,State - DADRA & NAGAR HAVELI (26),InMovement, Rural ,Persons,148,240
+26,State - DADRA & NAGAR HAVELI (26),InMovement, Rural ,Males,110,133
+26,State - DADRA & NAGAR HAVELI (26),InMovement, Rural ,Females,38,107
+26,State - DADRA & NAGAR HAVELI (26),InMovement, Urban ,Persons,108,186
+26,State - DADRA & NAGAR HAVELI (26),InMovement, Urban ,Males,91,106
+26,State - DADRA & NAGAR HAVELI (26),InMovement, Urban ,Females,17,80
+26,State - DADRA & NAGAR HAVELI (26),MentalRetardation, Total ,Persons,27,153
+26,State - DADRA & NAGAR HAVELI (26),MentalRetardation, Total ,Males,15,80
+26,State - DADRA & NAGAR HAVELI (26),MentalRetardation, Total ,Females,12,73
+26,State - DADRA & NAGAR HAVELI (26),MentalRetardation, Rural ,Persons,25,93
+26,State - DADRA & NAGAR HAVELI (26),MentalRetardation, Rural ,Males,15,52
+26,State - DADRA & NAGAR HAVELI (26),MentalRetardation, Rural ,Females,10,41
+26,State - DADRA & NAGAR HAVELI (26),MentalRetardation, Urban ,Persons,2,60
+26,State - DADRA & NAGAR HAVELI (26),MentalRetardation, Urban ,Males,0,28
+26,State - DADRA & NAGAR HAVELI (26),MentalRetardation, Urban ,Females,2,32
+26,State - DADRA & NAGAR HAVELI (26),MentalIllness, Total ,Persons,26,89
+26,State - DADRA & NAGAR HAVELI (26),MentalIllness, Total ,Males,15,55
+26,State - DADRA & NAGAR HAVELI (26),MentalIllness, Total ,Females,11,34
+26,State - DADRA & NAGAR HAVELI (26),MentalIllness, Rural ,Persons,20,65
+26,State - DADRA & NAGAR HAVELI (26),MentalIllness, Rural ,Males,11,39
+26,State - DADRA & NAGAR HAVELI (26),MentalIllness, Rural ,Females,9,26
+26,State - DADRA & NAGAR HAVELI (26),MentalIllness, Urban ,Persons,6,24
+26,State - DADRA & NAGAR HAVELI (26),MentalIllness, Urban ,Males,4,16
+26,State - DADRA & NAGAR HAVELI (26),MentalIllness, Urban ,Females,2,8
+26,State - DADRA & NAGAR HAVELI (26),AnyOther, Total ,Persons,210,273
+26,State - DADRA & NAGAR HAVELI (26),AnyOther, Total ,Males,151,115
+26,State - DADRA & NAGAR HAVELI (26),AnyOther, Total ,Females,59,158
+26,State - DADRA & NAGAR HAVELI (26),AnyOther, Rural ,Persons,116,132
+26,State - DADRA & NAGAR HAVELI (26),AnyOther, Rural ,Males,74,61
+26,State - DADRA & NAGAR HAVELI (26),AnyOther, Rural ,Females,42,71
+26,State - DADRA & NAGAR HAVELI (26),AnyOther, Urban ,Persons,94,141
+26,State - DADRA & NAGAR HAVELI (26),AnyOther, Urban ,Males,77,54
+26,State - DADRA & NAGAR HAVELI (26),AnyOther, Urban ,Females,17,87
+26,State - DADRA & NAGAR HAVELI (26),MultipleDisability, Total ,Persons,128,361
+26,State - DADRA & NAGAR HAVELI (26),MultipleDisability, Total ,Males,75,194
+26,State - DADRA & NAGAR HAVELI (26),MultipleDisability, Total ,Females,53,167
+26,State - DADRA & NAGAR HAVELI (26),MultipleDisability, Rural ,Persons,100,245
+26,State - DADRA & NAGAR HAVELI (26),MultipleDisability, Rural ,Males,53,125
+26,State - DADRA & NAGAR HAVELI (26),MultipleDisability, Rural ,Females,47,120
+26,State - DADRA & NAGAR HAVELI (26),MultipleDisability, Urban ,Persons,28,116
+26,State - DADRA & NAGAR HAVELI (26),MultipleDisability, Urban ,Males,22,69
+26,State - DADRA & NAGAR HAVELI (26),MultipleDisability, Urban ,Females,6,47
+27,State - MAHARASHTRA (27),TotalDisabledPopulation, Total ,Persons,1248337,1715055
+27,State - MAHARASHTRA (27),TotalDisabledPopulation, Total ,Males,882916,809369
+27,State - MAHARASHTRA (27),TotalDisabledPopulation, Total ,Females,365421,905686
+27,State - MAHARASHTRA (27),TotalDisabledPopulation, Rural ,Persons,758021,908114
+27,State - MAHARASHTRA (27),TotalDisabledPopulation, Rural ,Males,497382,453399
+27,State - MAHARASHTRA (27),TotalDisabledPopulation, Rural ,Females,260639,454715
+27,State - MAHARASHTRA (27),TotalDisabledPopulation, Urban ,Persons,490316,806941
+27,State - MAHARASHTRA (27),TotalDisabledPopulation, Urban ,Males,385534,355970
+27,State - MAHARASHTRA (27),TotalDisabledPopulation, Urban ,Females,104782,450971
+27,State - MAHARASHTRA (27),InSeeing, Total ,Persons,241873,332179
+27,State - MAHARASHTRA (27),InSeeing, Total ,Males,167575,144260
+27,State - MAHARASHTRA (27),InSeeing, Total ,Females,74298,187919
+27,State - MAHARASHTRA (27),InSeeing, Rural ,Persons,144487,176779
+27,State - MAHARASHTRA (27),InSeeing, Rural ,Males,90637,80730
+27,State - MAHARASHTRA (27),InSeeing, Rural ,Females,53850,96049
+27,State - MAHARASHTRA (27),InSeeing, Urban ,Persons,97386,155400
+27,State - MAHARASHTRA (27),InSeeing, Urban ,Males,76938,63530
+27,State - MAHARASHTRA (27),InSeeing, Urban ,Females,20448,91870
+27,State - MAHARASHTRA (27),InHearing, Total ,Persons,210863,262408
+27,State - MAHARASHTRA (27),InHearing, Total ,Males,149988,114968
+27,State - MAHARASHTRA (27),InHearing, Total ,Females,60875,147440
+27,State - MAHARASHTRA (27),InHearing, Rural ,Persons,116983,120756
+27,State - MAHARASHTRA (27),InHearing, Rural ,Males,75893,56455
+27,State - MAHARASHTRA (27),InHearing, Rural ,Females,41090,64301
+27,State - MAHARASHTRA (27),InHearing, Urban ,Persons,93880,141652
+27,State - MAHARASHTRA (27),InHearing, Urban ,Males,74095,58513
+27,State - MAHARASHTRA (27),InHearing, Urban ,Females,19785,83139
+27,State - MAHARASHTRA (27),InSpeech, Total ,Persons,248720,224890
+27,State - MAHARASHTRA (27),InSpeech, Total ,Males,169406,91386
+27,State - MAHARASHTRA (27),InSpeech, Total ,Females,79314,133504
+27,State - MAHARASHTRA (27),InSpeech, Rural ,Persons,140628,100207
+27,State - MAHARASHTRA (27),InSpeech, Rural ,Males,86946,44925
+27,State - MAHARASHTRA (27),InSpeech, Rural ,Females,53682,55282
+27,State - MAHARASHTRA (27),InSpeech, Urban ,Persons,108092,124683
+27,State - MAHARASHTRA (27),InSpeech, Urban ,Males,82460,46461
+27,State - MAHARASHTRA (27),InSpeech, Urban ,Females,25632,78222
+27,State - MAHARASHTRA (27),InMovement, Total ,Persons,240071,308347
+27,State - MAHARASHTRA (27),InMovement, Total ,Males,187673,169675
+27,State - MAHARASHTRA (27),InMovement, Total ,Females,52398,138672
+27,State - MAHARASHTRA (27),InMovement, Rural ,Persons,168566,194787
+27,State - MAHARASHTRA (27),InMovement, Rural ,Males,127849,109934
+27,State - MAHARASHTRA (27),InMovement, Rural ,Females,40717,84853
+27,State - MAHARASHTRA (27),InMovement, Urban ,Persons,71505,113560
+27,State - MAHARASHTRA (27),InMovement, Urban ,Males,59824,59741
+27,State - MAHARASHTRA (27),InMovement, Urban ,Females,11681,53819
+27,State - MAHARASHTRA (27),MentalRetardation, Total ,Persons,31327,128882
+27,State - MAHARASHTRA (27),MentalRetardation, Total ,Males,21048,69360
+27,State - MAHARASHTRA (27),MentalRetardation, Total ,Females,10279,59522
+27,State - MAHARASHTRA (27),MentalRetardation, Rural ,Persons,20604,71714
+27,State - MAHARASHTRA (27),MentalRetardation, Rural ,Males,12677,38488
+27,State - MAHARASHTRA (27),MentalRetardation, Rural ,Females,7927,33226
+27,State - MAHARASHTRA (27),MentalRetardation, Urban ,Persons,10723,57168
+27,State - MAHARASHTRA (27),MentalRetardation, Urban ,Males,8371,30872
+27,State - MAHARASHTRA (27),MentalRetardation, Urban ,Females,2352,26296
+27,State - MAHARASHTRA (27),MentalIllness, Total ,Persons,14342,44411
+27,State - MAHARASHTRA (27),MentalIllness, Total ,Males,9547,23360
+27,State - MAHARASHTRA (27),MentalIllness, Total ,Females,4795,21051
+27,State - MAHARASHTRA (27),MentalIllness, Rural ,Persons,10535,23437
+27,State - MAHARASHTRA (27),MentalIllness, Rural ,Males,6592,12066
+27,State - MAHARASHTRA (27),MentalIllness, Rural ,Females,3943,11371
+27,State - MAHARASHTRA (27),MentalIllness, Urban ,Persons,3807,20974
+27,State - MAHARASHTRA (27),MentalIllness, Urban ,Males,2955,11294
+27,State - MAHARASHTRA (27),MentalIllness, Urban ,Females,852,9680
+27,State - MAHARASHTRA (27),AnyOther, Total ,Persons,226358,284378
+27,State - MAHARASHTRA (27),AnyOther, Total ,Males,152953,126095
+27,State - MAHARASHTRA (27),AnyOther, Total ,Females,73405,158283
+27,State - MAHARASHTRA (27),AnyOther, Rural ,Persons,132463,138279
+27,State - MAHARASHTRA (27),AnyOther, Rural ,Males,80805,65647
+27,State - MAHARASHTRA (27),AnyOther, Rural ,Females,51658,72632
+27,State - MAHARASHTRA (27),AnyOther, Urban ,Persons,93895,146099
+27,State - MAHARASHTRA (27),AnyOther, Urban ,Males,72148,60448
+27,State - MAHARASHTRA (27),AnyOther, Urban ,Females,21747,85651
+27,State - MAHARASHTRA (27),MultipleDisability, Total ,Persons,34783,129560
+27,State - MAHARASHTRA (27),MultipleDisability, Total ,Males,24726,70265
+27,State - MAHARASHTRA (27),MultipleDisability, Total ,Females,10057,59295
+27,State - MAHARASHTRA (27),MultipleDisability, Rural ,Persons,23755,82155
+27,State - MAHARASHTRA (27),MultipleDisability, Rural ,Males,15983,45154
+27,State - MAHARASHTRA (27),MultipleDisability, Rural ,Females,7772,37001
+27,State - MAHARASHTRA (27),MultipleDisability, Urban ,Persons,11028,47405
+27,State - MAHARASHTRA (27),MultipleDisability, Urban ,Males,8743,25111
+27,State - MAHARASHTRA (27),MultipleDisability, Urban ,Females,2285,22294
+28,State - ANDHRA PRADESH (28),TotalDisabledPopulation, Total ,Persons,875187,1391420
+28,State - ANDHRA PRADESH (28),TotalDisabledPopulation, Total ,Males,581621,642838
+28,State - ANDHRA PRADESH (28),TotalDisabledPopulation, Total ,Females,293566,748582
+28,State - ANDHRA PRADESH (28),TotalDisabledPopulation, Rural ,Persons,608840,904121
+28,State - ANDHRA PRADESH (28),TotalDisabledPopulation, Rural ,Males,381050,431832
+28,State - ANDHRA PRADESH (28),TotalDisabledPopulation, Rural ,Females,227790,472289
+28,State - ANDHRA PRADESH (28),TotalDisabledPopulation, Urban ,Persons,266347,487299
+28,State - ANDHRA PRADESH (28),TotalDisabledPopulation, Urban ,Males,200571,211006
+28,State - ANDHRA PRADESH (28),TotalDisabledPopulation, Urban ,Females,65776,276293
+28,State - ANDHRA PRADESH (28),InSeeing, Total ,Persons,159246,238898
+28,State - ANDHRA PRADESH (28),InSeeing, Total ,Males,102827,95646
+28,State - ANDHRA PRADESH (28),InSeeing, Total ,Females,56419,143252
+28,State - ANDHRA PRADESH (28),InSeeing, Rural ,Persons,109277,152190
+28,State - ANDHRA PRADESH (28),InSeeing, Rural ,Males,65681,61698
+28,State - ANDHRA PRADESH (28),InSeeing, Rural ,Females,43596,90492
+28,State - ANDHRA PRADESH (28),InSeeing, Urban ,Persons,49969,86708
+28,State - ANDHRA PRADESH (28),InSeeing, Urban ,Males,37146,33948
+28,State - ANDHRA PRADESH (28),InSeeing, Urban ,Females,12823,52760
+28,State - ANDHRA PRADESH (28),InHearing, Total ,Persons,152192,182100
+28,State - ANDHRA PRADESH (28),InHearing, Total ,Males,93832,73394
+28,State - ANDHRA PRADESH (28),InHearing, Total ,Females,58360,108706
+28,State - ANDHRA PRADESH (28),InHearing, Rural ,Persons,99801,97445
+28,State - ANDHRA PRADESH (28),InHearing, Rural ,Males,55837,40680
+28,State - ANDHRA PRADESH (28),InHearing, Rural ,Females,43964,56765
+28,State - ANDHRA PRADESH (28),InHearing, Urban ,Persons,52391,84655
+28,State - ANDHRA PRADESH (28),InHearing, Urban ,Males,37995,32714
+28,State - ANDHRA PRADESH (28),InHearing, Urban ,Females,14396,51941
+28,State - ANDHRA PRADESH (28),InSpeech, Total ,Persons,105331,114212
+28,State - ANDHRA PRADESH (28),InSpeech, Total ,Males,71408,50236
+28,State - ANDHRA PRADESH (28),InSpeech, Total ,Females,33923,63976
+28,State - ANDHRA PRADESH (28),InSpeech, Rural ,Persons,70339,67729
+28,State - ANDHRA PRADESH (28),InSpeech, Rural ,Males,44167,31989
+28,State - ANDHRA PRADESH (28),InSpeech, Rural ,Females,26172,35740
+28,State - ANDHRA PRADESH (28),InSpeech, Urban ,Persons,34992,46483
+28,State - ANDHRA PRADESH (28),InSpeech, Urban ,Males,27241,18247
+28,State - ANDHRA PRADESH (28),InSpeech, Urban ,Females,7751,28236
+28,State - ANDHRA PRADESH (28),InMovement, Total ,Persons,203760,335174
+28,State - ANDHRA PRADESH (28),InMovement, Total ,Males,152471,175476
+28,State - ANDHRA PRADESH (28),InMovement, Total ,Females,51289,159698
+28,State - ANDHRA PRADESH (28),InMovement, Rural ,Persons,156583,255137
+28,State - ANDHRA PRADESH (28),InMovement, Rural ,Males,114095,135745
+28,State - ANDHRA PRADESH (28),InMovement, Rural ,Females,42488,119392
+28,State - ANDHRA PRADESH (28),InMovement, Urban ,Persons,47177,80037
+28,State - ANDHRA PRADESH (28),InMovement, Urban ,Males,38376,39731
+28,State - ANDHRA PRADESH (28),InMovement, Urban ,Females,8801,40306
+28,State - ANDHRA PRADESH (28),MentalRetardation, Total ,Persons,26754,105626
+28,State - ANDHRA PRADESH (28),MentalRetardation, Total ,Males,16883,53389
+28,State - ANDHRA PRADESH (28),MentalRetardation, Total ,Females,9871,52237
+28,State - ANDHRA PRADESH (28),MentalRetardation, Rural ,Persons,19408,72787
+28,State - ANDHRA PRADESH (28),MentalRetardation, Rural ,Males,11407,36557
+28,State - ANDHRA PRADESH (28),MentalRetardation, Rural ,Females,8001,36230
+28,State - ANDHRA PRADESH (28),MentalRetardation, Urban ,Persons,7346,32839
+28,State - ANDHRA PRADESH (28),MentalRetardation, Urban ,Males,5476,16832
+28,State - ANDHRA PRADESH (28),MentalRetardation, Urban ,Females,1870,16007
+28,State - ANDHRA PRADESH (28),MentalIllness, Total ,Persons,9311,33858
+28,State - ANDHRA PRADESH (28),MentalIllness, Total ,Males,5645,16638
+28,State - ANDHRA PRADESH (28),MentalIllness, Total ,Females,3666,17220
+28,State - ANDHRA PRADESH (28),MentalIllness, Rural ,Persons,7222,23359
+28,State - ANDHRA PRADESH (28),MentalIllness, Rural ,Males,4136,11167
+28,State - ANDHRA PRADESH (28),MentalIllness, Rural ,Females,3086,12192
+28,State - ANDHRA PRADESH (28),MentalIllness, Urban ,Persons,2089,10499
+28,State - ANDHRA PRADESH (28),MentalIllness, Urban ,Males,1509,5471
+28,State - ANDHRA PRADESH (28),MentalIllness, Urban ,Females,580,5028
+28,State - ANDHRA PRADESH (28),AnyOther, Total ,Persons,182002,227773
+28,State - ANDHRA PRADESH (28),AnyOther, Total ,Males,114214,100124
+28,State - ANDHRA PRADESH (28),AnyOther, Total ,Females,67788,127649
+28,State - ANDHRA PRADESH (28),AnyOther, Rural ,Persons,118471,120528
+28,State - ANDHRA PRADESH (28),AnyOther, Rural ,Males,68063,55913
+28,State - ANDHRA PRADESH (28),AnyOther, Rural ,Females,50408,64615
+28,State - ANDHRA PRADESH (28),AnyOther, Urban ,Persons,63531,107245
+28,State - ANDHRA PRADESH (28),AnyOther, Urban ,Males,46151,44211
+28,State - ANDHRA PRADESH (28),AnyOther, Urban ,Females,17380,63034
+28,State - ANDHRA PRADESH (28),MultipleDisability, Total ,Persons,36591,153779
+28,State - ANDHRA PRADESH (28),MultipleDisability, Total ,Males,24341,77935
+28,State - ANDHRA PRADESH (28),MultipleDisability, Total ,Females,12250,75844
+28,State - ANDHRA PRADESH (28),MultipleDisability, Rural ,Persons,27739,114946
+28,State - ANDHRA PRADESH (28),MultipleDisability, Rural ,Males,17664,58083
+28,State - ANDHRA PRADESH (28),MultipleDisability, Rural ,Females,10075,56863
+28,State - ANDHRA PRADESH (28),MultipleDisability, Urban ,Persons,8852,38833
+28,State - ANDHRA PRADESH (28),MultipleDisability, Urban ,Males,6677,19852
+28,State - ANDHRA PRADESH (28),MultipleDisability, Urban ,Females,2175,18981
+29,State - KARNATAKA (29),TotalDisabledPopulation, Total ,Persons,503902,820303
+29,State - KARNATAKA (29),TotalDisabledPopulation, Total ,Males,349864,376657
+29,State - KARNATAKA (29),TotalDisabledPopulation, Total ,Females,154038,443646
+29,State - KARNATAKA (29),TotalDisabledPopulation, Rural ,Persons,303960,488734
+29,State - KARNATAKA (29),TotalDisabledPopulation, Rural ,Males,202675,235930
+29,State - KARNATAKA (29),TotalDisabledPopulation, Rural ,Females,101285,252804
+29,State - KARNATAKA (29),TotalDisabledPopulation, Urban ,Persons,199942,331569
+29,State - KARNATAKA (29),TotalDisabledPopulation, Urban ,Males,147189,140727
+29,State - KARNATAKA (29),TotalDisabledPopulation, Urban ,Females,52753,190842
+29,State - KARNATAKA (29),InSeeing, Total ,Persons,103751,160419
+29,State - KARNATAKA (29),InSeeing, Total ,Males,70239,63670
+29,State - KARNATAKA (29),InSeeing, Total ,Females,33512,96749
+29,State - KARNATAKA (29),InSeeing, Rural ,Persons,53473,85932
+29,State - KARNATAKA (29),InSeeing, Rural ,Males,33576,35690
+29,State - KARNATAKA (29),InSeeing, Rural ,Females,19897,50242
+29,State - KARNATAKA (29),InSeeing, Urban ,Persons,50278,74487
+29,State - KARNATAKA (29),InSeeing, Urban ,Males,36663,27980
+29,State - KARNATAKA (29),InSeeing, Urban ,Females,13615,46507
+29,State - KARNATAKA (29),InHearing, Total ,Persons,106291,129400
+29,State - KARNATAKA (29),InHearing, Total ,Males,70927,51758
+29,State - KARNATAKA (29),InHearing, Total ,Females,35364,77642
+29,State - KARNATAKA (29),InHearing, Rural ,Persons,57382,62912
+29,State - KARNATAKA (29),InHearing, Rural ,Males,35761,26580
+29,State - KARNATAKA (29),InHearing, Rural ,Females,21621,36332
+29,State - KARNATAKA (29),InHearing, Urban ,Persons,48909,66488
+29,State - KARNATAKA (29),InHearing, Urban ,Males,35166,25178
+29,State - KARNATAKA (29),InHearing, Urban ,Females,13743,41310
+29,State - KARNATAKA (29),InSpeech, Total ,Persons,35736,55005
+29,State - KARNATAKA (29),InSpeech, Total ,Males,24300,25548
+29,State - KARNATAKA (29),InSpeech, Total ,Females,11436,29457
+29,State - KARNATAKA (29),InSpeech, Rural ,Persons,25299,35334
+29,State - KARNATAKA (29),InSpeech, Rural ,Males,16571,17109
+29,State - KARNATAKA (29),InSpeech, Rural ,Females,8728,18225
+29,State - KARNATAKA (29),InSpeech, Urban ,Persons,10437,19671
+29,State - KARNATAKA (29),InSpeech, Urban ,Males,7729,8439
+29,State - KARNATAKA (29),InSpeech, Urban ,Females,2708,11232
+29,State - KARNATAKA (29),InMovement, Total ,Persons,104941,167041
+29,State - KARNATAKA (29),InMovement, Total ,Males,80438,90701
+29,State - KARNATAKA (29),InMovement, Total ,Females,24503,76340
+29,State - KARNATAKA (29),InMovement, Rural ,Persons,76021,119829
+29,State - KARNATAKA (29),InMovement, Rural ,Males,57475,66614
+29,State - KARNATAKA (29),InMovement, Rural ,Females,18546,53215
+29,State - KARNATAKA (29),InMovement, Urban ,Persons,28920,47212
+29,State - KARNATAKA (29),InMovement, Urban ,Males,22963,24087
+29,State - KARNATAKA (29),InMovement, Urban ,Females,5957,23125
+29,State - KARNATAKA (29),MentalRetardation, Total ,Persons,19464,74510
+29,State - KARNATAKA (29),MentalRetardation, Total ,Males,12675,36826
+29,State - KARNATAKA (29),MentalRetardation, Total ,Females,6789,37684
+29,State - KARNATAKA (29),MentalRetardation, Rural ,Persons,12054,47062
+29,State - KARNATAKA (29),MentalRetardation, Rural ,Males,7290,23520
+29,State - KARNATAKA (29),MentalRetardation, Rural ,Females,4764,23542
+29,State - KARNATAKA (29),MentalRetardation, Urban ,Persons,7410,27448
+29,State - KARNATAKA (29),MentalRetardation, Urban ,Males,5385,13306
+29,State - KARNATAKA (29),MentalRetardation, Urban ,Females,2025,14142
+29,State - KARNATAKA (29),MentalIllness, Total ,Persons,4302,16611
+29,State - KARNATAKA (29),MentalIllness, Total ,Males,2769,8059
+29,State - KARNATAKA (29),MentalIllness, Total ,Females,1533,8552
+29,State - KARNATAKA (29),MentalIllness, Rural ,Persons,3028,10197
+29,State - KARNATAKA (29),MentalIllness, Rural ,Males,1824,4874
+29,State - KARNATAKA (29),MentalIllness, Rural ,Females,1204,5323
+29,State - KARNATAKA (29),MentalIllness, Urban ,Persons,1274,6414
+29,State - KARNATAKA (29),MentalIllness, Urban ,Males,945,3185
+29,State - KARNATAKA (29),MentalIllness, Urban ,Females,329,3229
+29,State - KARNATAKA (29),AnyOther, Total ,Persons,110967,135754
+29,State - KARNATAKA (29),AnyOther, Total ,Males,75780,57299
+29,State - KARNATAKA (29),AnyOther, Total ,Females,35187,78455
+29,State - KARNATAKA (29),AnyOther, Rural ,Persons,64022,71161
+29,State - KARNATAKA (29),AnyOther, Rural ,Males,41688,31945
+29,State - KARNATAKA (29),AnyOther, Rural ,Females,22334,39216
+29,State - KARNATAKA (29),AnyOther, Urban ,Persons,46945,64593
+29,State - KARNATAKA (29),AnyOther, Urban ,Males,34092,25354
+29,State - KARNATAKA (29),AnyOther, Urban ,Females,12853,39239
+29,State - KARNATAKA (29),MultipleDisability, Total ,Persons,18450,81563
+29,State - KARNATAKA (29),MultipleDisability, Total ,Males,12736,42796
+29,State - KARNATAKA (29),MultipleDisability, Total ,Females,5714,38767
+29,State - KARNATAKA (29),MultipleDisability, Rural ,Persons,12681,56307
+29,State - KARNATAKA (29),MultipleDisability, Rural ,Males,8490,29598
+29,State - KARNATAKA (29),MultipleDisability, Rural ,Females,4191,26709
+29,State - KARNATAKA (29),MultipleDisability, Urban ,Persons,5769,25256
+29,State - KARNATAKA (29),MultipleDisability, Urban ,Males,4246,13198
+29,State - KARNATAKA (29),MultipleDisability, Urban ,Females,1523,12058
+30,State - GOA (30),TotalDisabledPopulation, Total ,Persons,9505,23507
+30,State - GOA (30),TotalDisabledPopulation, Total ,Males,6759,10257
+30,State - GOA (30),TotalDisabledPopulation, Total ,Females,2746,13250
+30,State - GOA (30),TotalDisabledPopulation, Rural ,Persons,4066,10556
+30,State - GOA (30),TotalDisabledPopulation, Rural ,Males,2872,4607
+30,State - GOA (30),TotalDisabledPopulation, Rural ,Females,1194,5949
+30,State - GOA (30),TotalDisabledPopulation, Urban ,Persons,5439,12951
+30,State - GOA (30),TotalDisabledPopulation, Urban ,Males,3887,5650
+30,State - GOA (30),TotalDisabledPopulation, Urban ,Females,1552,7301
+30,State - GOA (30),InSeeing, Total ,Persons,1625,3339
+30,State - GOA (30),InSeeing, Total ,Males,1146,1204
+30,State - GOA (30),InSeeing, Total ,Females,479,2135
+30,State - GOA (30),InSeeing, Rural ,Persons,769,1649
+30,State - GOA (30),InSeeing, Rural ,Males,547,591
+30,State - GOA (30),InSeeing, Rural ,Females,222,1058
+30,State - GOA (30),InSeeing, Urban ,Persons,856,1690
+30,State - GOA (30),InSeeing, Urban ,Males,599,613
+30,State - GOA (30),InSeeing, Urban ,Females,257,1077
+30,State - GOA (30),InHearing, Total ,Persons,1712,3635
+30,State - GOA (30),InHearing, Total ,Males,1254,1367
+30,State - GOA (30),InHearing, Total ,Females,458,2268
+30,State - GOA (30),InHearing, Rural ,Persons,686,1586
+30,State - GOA (30),InHearing, Rural ,Males,488,584
+30,State - GOA (30),InHearing, Rural ,Females,198,1002
+30,State - GOA (30),InHearing, Urban ,Persons,1026,2049
+30,State - GOA (30),InHearing, Urban ,Males,766,783
+30,State - GOA (30),InHearing, Urban ,Females,260,1266
+30,State - GOA (30),InSpeech, Total ,Persons,2246,3026
+30,State - GOA (30),InSpeech, Total ,Males,1616,1191
+30,State - GOA (30),InSpeech, Total ,Females,630,1835
+30,State - GOA (30),InSpeech, Rural ,Persons,908,1240
+30,State - GOA (30),InSpeech, Rural ,Males,636,483
+30,State - GOA (30),InSpeech, Rural ,Females,272,757
+30,State - GOA (30),InSpeech, Urban ,Persons,1338,1786
+30,State - GOA (30),InSpeech, Urban ,Males,980,708
+30,State - GOA (30),InSpeech, Urban ,Females,358,1078
+30,State - GOA (30),InMovement, Total ,Persons,1239,4339
+30,State - GOA (30),InMovement, Total ,Males,913,2240
+30,State - GOA (30),InMovement, Total ,Females,326,2099
+30,State - GOA (30),InMovement, Rural ,Persons,531,1915
+30,State - GOA (30),InMovement, Rural ,Males,392,1026
+30,State - GOA (30),InMovement, Rural ,Females,139,889
+30,State - GOA (30),InMovement, Urban ,Persons,708,2424
+30,State - GOA (30),InMovement, Urban ,Males,521,1214
+30,State - GOA (30),InMovement, Urban ,Females,187,1210
+30,State - GOA (30),MentalRetardation, Total ,Persons,223,1594
+30,State - GOA (30),MentalRetardation, Total ,Males,148,817
+30,State - GOA (30),MentalRetardation, Total ,Females,75,777
+30,State - GOA (30),MentalRetardation, Rural ,Persons,101,692
+30,State - GOA (30),MentalRetardation, Rural ,Males,65,353
+30,State - GOA (30),MentalRetardation, Rural ,Females,36,339
+30,State - GOA (30),MentalRetardation, Urban ,Persons,122,902
+30,State - GOA (30),MentalRetardation, Urban ,Males,83,464
+30,State - GOA (30),MentalRetardation, Urban ,Females,39,438
+30,State - GOA (30),MentalIllness, Total ,Persons,183,1492
+30,State - GOA (30),MentalIllness, Total ,Males,123,752
+30,State - GOA (30),MentalIllness, Total ,Females,60,740
+30,State - GOA (30),MentalIllness, Rural ,Persons,90,674
+30,State - GOA (30),MentalIllness, Rural ,Males,65,339
+30,State - GOA (30),MentalIllness, Rural ,Females,25,335
+30,State - GOA (30),MentalIllness, Urban ,Persons,93,818
+30,State - GOA (30),MentalIllness, Urban ,Males,58,413
+30,State - GOA (30),MentalIllness, Urban ,Females,35,405
+30,State - GOA (30),AnyOther, Total ,Persons,1932,3852
+30,State - GOA (30),AnyOther, Total ,Males,1325,1608
+30,State - GOA (30),AnyOther, Total ,Females,607,2244
+30,State - GOA (30),AnyOther, Rural ,Persons,799,1754
+30,State - GOA (30),AnyOther, Rural ,Males,559,753
+30,State - GOA (30),AnyOther, Rural ,Females,240,1001
+30,State - GOA (30),AnyOther, Urban ,Persons,1133,2098
+30,State - GOA (30),AnyOther, Urban ,Males,766,855
+30,State - GOA (30),AnyOther, Urban ,Females,367,1243
+30,State - GOA (30),MultipleDisability, Total ,Persons,345,2230
+30,State - GOA (30),MultipleDisability, Total ,Males,234,1078
+30,State - GOA (30),MultipleDisability, Total ,Females,111,1152
+30,State - GOA (30),MultipleDisability, Rural ,Persons,182,1046
+30,State - GOA (30),MultipleDisability, Rural ,Males,120,478
+30,State - GOA (30),MultipleDisability, Rural ,Females,62,568
+30,State - GOA (30),MultipleDisability, Urban ,Persons,163,1184
+30,State - GOA (30),MultipleDisability, Urban ,Males,114,600
+30,State - GOA (30),MultipleDisability, Urban ,Females,49,584
+31,State - LAKSHADWEEP (31),TotalDisabledPopulation, Total ,Persons,321,1294
+31,State - LAKSHADWEEP (31),TotalDisabledPopulation, Total ,Males,259,579
+31,State - LAKSHADWEEP (31),TotalDisabledPopulation, Total ,Females,62,715
+31,State - LAKSHADWEEP (31),TotalDisabledPopulation, Rural ,Persons,96,300
+31,State - LAKSHADWEEP (31),TotalDisabledPopulation, Rural ,Males,75,113
+31,State - LAKSHADWEEP (31),TotalDisabledPopulation, Rural ,Females,21,187
+31,State - LAKSHADWEEP (31),TotalDisabledPopulation, Urban ,Persons,225,994
+31,State - LAKSHADWEEP (31),TotalDisabledPopulation, Urban ,Males,184,466
+31,State - LAKSHADWEEP (31),TotalDisabledPopulation, Urban ,Females,41,528
+31,State - LAKSHADWEEP (31),InSeeing, Total ,Persons,76,261
+31,State - LAKSHADWEEP (31),InSeeing, Total ,Males,59,90
+31,State - LAKSHADWEEP (31),InSeeing, Total ,Females,17,171
+31,State - LAKSHADWEEP (31),InSeeing, Rural ,Persons,35,69
+31,State - LAKSHADWEEP (31),InSeeing, Rural ,Males,26,19
+31,State - LAKSHADWEEP (31),InSeeing, Rural ,Females,9,50
+31,State - LAKSHADWEEP (31),InSeeing, Urban ,Persons,41,192
+31,State - LAKSHADWEEP (31),InSeeing, Urban ,Males,33,71
+31,State - LAKSHADWEEP (31),InSeeing, Urban ,Females,8,121
+31,State - LAKSHADWEEP (31),InHearing, Total ,Persons,40,184
+31,State - LAKSHADWEEP (31),InHearing, Total ,Males,31,74
+31,State - LAKSHADWEEP (31),InHearing, Total ,Females,9,110
+31,State - LAKSHADWEEP (31),InHearing, Rural ,Persons,9,38
+31,State - LAKSHADWEEP (31),InHearing, Rural ,Males,6,16
+31,State - LAKSHADWEEP (31),InHearing, Rural ,Females,3,22
+31,State - LAKSHADWEEP (31),InHearing, Urban ,Persons,31,146
+31,State - LAKSHADWEEP (31),InHearing, Urban ,Males,25,58
+31,State - LAKSHADWEEP (31),InHearing, Urban ,Females,6,88
+31,State - LAKSHADWEEP (31),InSpeech, Total ,Persons,17,56
+31,State - LAKSHADWEEP (31),InSpeech, Total ,Males,16,32
+31,State - LAKSHADWEEP (31),InSpeech, Total ,Females,1,24
+31,State - LAKSHADWEEP (31),InSpeech, Rural ,Persons,4,6
+31,State - LAKSHADWEEP (31),InSpeech, Rural ,Males,4,3
+31,State - LAKSHADWEEP (31),InSpeech, Rural ,Females,0,3
+31,State - LAKSHADWEEP (31),InSpeech, Urban ,Persons,13,50
+31,State - LAKSHADWEEP (31),InSpeech, Urban ,Males,12,29
+31,State - LAKSHADWEEP (31),InSpeech, Urban ,Females,1,21
+31,State - LAKSHADWEEP (31),InMovement, Total ,Persons,96,265
+31,State - LAKSHADWEEP (31),InMovement, Total ,Males,77,133
+31,State - LAKSHADWEEP (31),InMovement, Total ,Females,19,132
+31,State - LAKSHADWEEP (31),InMovement, Rural ,Persons,20,59
+31,State - LAKSHADWEEP (31),InMovement, Rural ,Males,15,29
+31,State - LAKSHADWEEP (31),InMovement, Rural ,Females,5,30
+31,State - LAKSHADWEEP (31),InMovement, Urban ,Persons,76,206
+31,State - LAKSHADWEEP (31),InMovement, Urban ,Males,62,104
+31,State - LAKSHADWEEP (31),InMovement, Urban ,Females,14,102
+31,State - LAKSHADWEEP (31),MentalRetardation, Total ,Persons,12,100
+31,State - LAKSHADWEEP (31),MentalRetardation, Total ,Males,10,65
+31,State - LAKSHADWEEP (31),MentalRetardation, Total ,Females,2,35
+31,State - LAKSHADWEEP (31),MentalRetardation, Rural ,Persons,5,19
+31,State - LAKSHADWEEP (31),MentalRetardation, Rural ,Males,3,10
+31,State - LAKSHADWEEP (31),MentalRetardation, Rural ,Females,2,9
+31,State - LAKSHADWEEP (31),MentalRetardation, Urban ,Persons,7,81
+31,State - LAKSHADWEEP (31),MentalRetardation, Urban ,Males,7,55
+31,State - LAKSHADWEEP (31),MentalRetardation, Urban ,Females,0,26
+31,State - LAKSHADWEEP (31),MentalIllness, Total ,Persons,10,86
+31,State - LAKSHADWEEP (31),MentalIllness, Total ,Males,8,26
+31,State - LAKSHADWEEP (31),MentalIllness, Total ,Females,2,60
+31,State - LAKSHADWEEP (31),MentalIllness, Rural ,Persons,5,34
+31,State - LAKSHADWEEP (31),MentalIllness, Rural ,Males,4,8
+31,State - LAKSHADWEEP (31),MentalIllness, Rural ,Females,1,26
+31,State - LAKSHADWEEP (31),MentalIllness, Urban ,Persons,5,52
+31,State - LAKSHADWEEP (31),MentalIllness, Urban ,Males,4,18
+31,State - LAKSHADWEEP (31),MentalIllness, Urban ,Females,1,34
+31,State - LAKSHADWEEP (31),AnyOther, Total ,Persons,41,142
+31,State - LAKSHADWEEP (31),AnyOther, Total ,Males,33,67
+31,State - LAKSHADWEEP (31),AnyOther, Total ,Females,8,75
+31,State - LAKSHADWEEP (31),AnyOther, Rural ,Persons,11,24
+31,State - LAKSHADWEEP (31),AnyOther, Rural ,Males,10,6
+31,State - LAKSHADWEEP (31),AnyOther, Rural ,Females,1,18
+31,State - LAKSHADWEEP (31),AnyOther, Urban ,Persons,30,118
+31,State - LAKSHADWEEP (31),AnyOther, Urban ,Males,23,61
+31,State - LAKSHADWEEP (31),AnyOther, Urban ,Females,7,57
+31,State - LAKSHADWEEP (31),MultipleDisability, Total ,Persons,29,200
+31,State - LAKSHADWEEP (31),MultipleDisability, Total ,Males,25,92
+31,State - LAKSHADWEEP (31),MultipleDisability, Total ,Females,4,108
+31,State - LAKSHADWEEP (31),MultipleDisability, Rural ,Persons,7,51
+31,State - LAKSHADWEEP (31),MultipleDisability, Rural ,Males,7,22
+31,State - LAKSHADWEEP (31),MultipleDisability, Rural ,Females,0,29
+31,State - LAKSHADWEEP (31),MultipleDisability, Urban ,Persons,22,149
+31,State - LAKSHADWEEP (31),MultipleDisability, Urban ,Males,18,70
+31,State - LAKSHADWEEP (31),MultipleDisability, Urban ,Females,4,79
+32,State - KERALA (32),TotalDisabledPopulation, Total ,Persons,179694,582149
+32,State - KERALA (32),TotalDisabledPopulation, Total ,Males,136006,258700
+32,State - KERALA (32),TotalDisabledPopulation, Total ,Females,43688,323449
+32,State - KERALA (32),TotalDisabledPopulation, Rural ,Persons,100783,314092
+32,State - KERALA (32),TotalDisabledPopulation, Rural ,Males,75231,140521
+32,State - KERALA (32),TotalDisabledPopulation, Rural ,Females,25552,173571
+32,State - KERALA (32),TotalDisabledPopulation, Urban ,Persons,78911,268057
+32,State - KERALA (32),TotalDisabledPopulation, Urban ,Males,60775,118179
+32,State - KERALA (32),TotalDisabledPopulation, Urban ,Females,18136,149878
+32,State - KERALA (32),InSeeing, Total ,Persons,31467,84046
+32,State - KERALA (32),InSeeing, Total ,Males,22751,30416
+32,State - KERALA (32),InSeeing, Total ,Females,8716,53630
+32,State - KERALA (32),InSeeing, Rural ,Persons,18044,45365
+32,State - KERALA (32),InSeeing, Rural ,Males,12764,16391
+32,State - KERALA (32),InSeeing, Rural ,Females,5280,28974
+32,State - KERALA (32),InSeeing, Urban ,Persons,13423,38681
+32,State - KERALA (32),InSeeing, Urban ,Males,9987,14025
+32,State - KERALA (32),InSeeing, Urban ,Females,3436,24656
+32,State - KERALA (32),InHearing, Total ,Persons,30572,74794
+32,State - KERALA (32),InHearing, Total ,Males,21533,26554
+32,State - KERALA (32),InHearing, Total ,Females,9039,48240
+32,State - KERALA (32),InHearing, Rural ,Persons,17079,39031
+32,State - KERALA (32),InHearing, Rural ,Males,11813,13804
+32,State - KERALA (32),InHearing, Rural ,Females,5266,25227
+32,State - KERALA (32),InHearing, Urban ,Persons,13493,35763
+32,State - KERALA (32),InHearing, Urban ,Males,9720,12750
+32,State - KERALA (32),InHearing, Urban ,Females,3773,23013
+32,State - KERALA (32),InSpeech, Total ,Persons,12793,28553
+32,State - KERALA (32),InSpeech, Total ,Males,9771,12548
+32,State - KERALA (32),InSpeech, Total ,Females,3022,16005
+32,State - KERALA (32),InSpeech, Rural ,Persons,7257,15277
+32,State - KERALA (32),InSpeech, Rural ,Males,5449,6818
+32,State - KERALA (32),InSpeech, Rural ,Females,1808,8459
+32,State - KERALA (32),InSpeech, Urban ,Persons,5536,13276
+32,State - KERALA (32),InSpeech, Urban ,Males,4322,5730
+32,State - KERALA (32),InSpeech, Urban ,Females,1214,7546
+32,State - KERALA (32),InMovement, Total ,Persons,48863,122767
+32,State - KERALA (32),InMovement, Total ,Males,39406,61488
+32,State - KERALA (32),InMovement, Total ,Females,9457,61279
+32,State - KERALA (32),InMovement, Rural ,Persons,26501,66796
+32,State - KERALA (32),InMovement, Rural ,Males,21336,34175
+32,State - KERALA (32),InMovement, Rural ,Females,5165,32621
+32,State - KERALA (32),InMovement, Urban ,Persons,22362,55971
+32,State - KERALA (32),InMovement, Urban ,Males,18070,27313
+32,State - KERALA (32),InMovement, Urban ,Females,4292,28658
+32,State - KERALA (32),MentalRetardation, Total ,Persons,4548,61161
+32,State - KERALA (32),MentalRetardation, Total ,Males,3600,32014
+32,State - KERALA (32),MentalRetardation, Total ,Females,948,29147
+32,State - KERALA (32),MentalRetardation, Rural ,Persons,2705,32465
+32,State - KERALA (32),MentalRetardation, Rural ,Males,2116,16810
+32,State - KERALA (32),MentalRetardation, Rural ,Females,589,15655
+32,State - KERALA (32),MentalRetardation, Urban ,Persons,1843,28696
+32,State - KERALA (32),MentalRetardation, Urban ,Males,1484,15204
+32,State - KERALA (32),MentalRetardation, Urban ,Females,359,13492
+32,State - KERALA (32),MentalIllness, Total ,Persons,9429,57486
+32,State - KERALA (32),MentalIllness, Total ,Males,7413,26406
+32,State - KERALA (32),MentalIllness, Total ,Females,2016,31080
+32,State - KERALA (32),MentalIllness, Rural ,Persons,5536,31896
+32,State - KERALA (32),MentalIllness, Rural ,Males,4261,14680
+32,State - KERALA (32),MentalIllness, Rural ,Females,1275,17216
+32,State - KERALA (32),MentalIllness, Urban ,Persons,3893,25590
+32,State - KERALA (32),MentalIllness, Urban ,Males,3152,11726
+32,State - KERALA (32),MentalIllness, Urban ,Females,741,13864
+32,State - KERALA (32),AnyOther, Total ,Persons,29102,67029
+32,State - KERALA (32),AnyOther, Total ,Males,21273,28225
+32,State - KERALA (32),AnyOther, Total ,Females,7829,38804
+32,State - KERALA (32),AnyOther, Rural ,Persons,16324,36027
+32,State - KERALA (32),AnyOther, Rural ,Males,11764,15324
+32,State - KERALA (32),AnyOther, Rural ,Females,4560,20703
+32,State - KERALA (32),AnyOther, Urban ,Persons,12778,31002
+32,State - KERALA (32),AnyOther, Urban ,Males,9509,12901
+32,State - KERALA (32),AnyOther, Urban ,Females,3269,18101
+32,State - KERALA (32),MultipleDisability, Total ,Persons,12920,86313
+32,State - KERALA (32),MultipleDisability, Total ,Males,10259,41049
+32,State - KERALA (32),MultipleDisability, Total ,Females,2661,45264
+32,State - KERALA (32),MultipleDisability, Rural ,Persons,7337,47235
+32,State - KERALA (32),MultipleDisability, Rural ,Males,5728,22519
+32,State - KERALA (32),MultipleDisability, Rural ,Females,1609,24716
+32,State - KERALA (32),MultipleDisability, Urban ,Persons,5583,39078
+32,State - KERALA (32),MultipleDisability, Urban ,Males,4531,18530
+32,State - KERALA (32),MultipleDisability, Urban ,Females,1052,20548
+33,State - TAMIL NADU (33),TotalDisabledPopulation, Total ,Persons,442032,737931
+33,State - TAMIL NADU (33),TotalDisabledPopulation, Total ,Males,308995,348423
+33,State - TAMIL NADU (33),TotalDisabledPopulation, Total ,Females,133037,389508
+33,State - TAMIL NADU (33),TotalDisabledPopulation, Rural ,Persons,243830,377915
+33,State - TAMIL NADU (33),TotalDisabledPopulation, Rural ,Males,160953,185893
+33,State - TAMIL NADU (33),TotalDisabledPopulation, Rural ,Females,82877,192022
+33,State - TAMIL NADU (33),TotalDisabledPopulation, Urban ,Persons,198202,360016
+33,State - TAMIL NADU (33),TotalDisabledPopulation, Urban ,Males,148042,162530
+33,State - TAMIL NADU (33),TotalDisabledPopulation, Urban ,Females,50160,197486
+33,State - TAMIL NADU (33),InSeeing, Total ,Persons,49160,78245
+33,State - TAMIL NADU (33),InSeeing, Total ,Males,33513,34231
+33,State - TAMIL NADU (33),InSeeing, Total ,Females,15647,44014
+33,State - TAMIL NADU (33),InSeeing, Rural ,Persons,28906,42744
+33,State - TAMIL NADU (33),InSeeing, Rural ,Males,18398,19435
+33,State - TAMIL NADU (33),InSeeing, Rural ,Females,10508,23309
+33,State - TAMIL NADU (33),InSeeing, Urban ,Persons,20254,35501
+33,State - TAMIL NADU (33),InSeeing, Urban ,Males,15115,14796
+33,State - TAMIL NADU (33),InSeeing, Urban ,Females,5139,20705
+33,State - TAMIL NADU (33),InHearing, Total ,Persons,99858,120383
+33,State - TAMIL NADU (33),InHearing, Total ,Males,64155,45724
+33,State - TAMIL NADU (33),InHearing, Total ,Females,35703,74659
+33,State - TAMIL NADU (33),InHearing, Rural ,Persons,54672,52949
+33,State - TAMIL NADU (33),InHearing, Rural ,Males,32172,21567
+33,State - TAMIL NADU (33),InHearing, Rural ,Females,22500,31382
+33,State - TAMIL NADU (33),InHearing, Urban ,Persons,45186,67434
+33,State - TAMIL NADU (33),InHearing, Urban ,Males,31983,24157
+33,State - TAMIL NADU (33),InHearing, Urban ,Females,13203,43277
+33,State - TAMIL NADU (33),InSpeech, Total ,Persons,32227,47850
+33,State - TAMIL NADU (33),InSpeech, Total ,Males,22055,22457
+33,State - TAMIL NADU (33),InSpeech, Total ,Females,10172,25393
+33,State - TAMIL NADU (33),InSpeech, Rural ,Persons,20433,26727
+33,State - TAMIL NADU (33),InSpeech, Rural ,Males,13227,12929
+33,State - TAMIL NADU (33),InSpeech, Rural ,Females,7206,13798
+33,State - TAMIL NADU (33),InSpeech, Urban ,Persons,11794,21123
+33,State - TAMIL NADU (33),InSpeech, Urban ,Males,8828,9528
+33,State - TAMIL NADU (33),InSpeech, Urban ,Females,2966,11595
+33,State - TAMIL NADU (33),InMovement, Total ,Persons,119867,167374
+33,State - TAMIL NADU (33),InMovement, Total ,Males,92256,85220
+33,State - TAMIL NADU (33),InMovement, Total ,Females,27611,82154
+33,State - TAMIL NADU (33),InMovement, Rural ,Persons,65382,93242
+33,State - TAMIL NADU (33),InMovement, Rural ,Males,48893,49349
+33,State - TAMIL NADU (33),InMovement, Rural ,Females,16489,43893
+33,State - TAMIL NADU (33),InMovement, Urban ,Persons,54485,74132
+33,State - TAMIL NADU (33),InMovement, Urban ,Males,43363,35871
+33,State - TAMIL NADU (33),InMovement, Urban ,Females,11122,38261
+33,State - TAMIL NADU (33),MentalRetardation, Total ,Persons,12189,88658
+33,State - TAMIL NADU (33),MentalRetardation, Total ,Males,8191,47663
+33,State - TAMIL NADU (33),MentalRetardation, Total ,Females,3998,40995
+33,State - TAMIL NADU (33),MentalRetardation, Rural ,Persons,7405,45117
+33,State - TAMIL NADU (33),MentalRetardation, Rural ,Males,4648,23870
+33,State - TAMIL NADU (33),MentalRetardation, Rural ,Females,2757,21247
+33,State - TAMIL NADU (33),MentalRetardation, Urban ,Persons,4784,43541
+33,State - TAMIL NADU (33),MentalRetardation, Urban ,Males,3543,23793
+33,State - TAMIL NADU (33),MentalRetardation, Urban ,Females,1241,19748
+33,State - TAMIL NADU (33),MentalIllness, Total ,Persons,4480,28484
+33,State - TAMIL NADU (33),MentalIllness, Total ,Males,2937,14770
+33,State - TAMIL NADU (33),MentalIllness, Total ,Females,1543,13714
+33,State - TAMIL NADU (33),MentalIllness, Rural ,Persons,2875,14469
+33,State - TAMIL NADU (33),MentalIllness, Rural ,Males,1780,7229
+33,State - TAMIL NADU (33),MentalIllness, Rural ,Females,1095,7240
+33,State - TAMIL NADU (33),MentalIllness, Urban ,Persons,1605,14015
+33,State - TAMIL NADU (33),MentalIllness, Urban ,Males,1157,7541
+33,State - TAMIL NADU (33),MentalIllness, Urban ,Females,448,6474
+33,State - TAMIL NADU (33),AnyOther, Total ,Persons,104117,134275
+33,State - TAMIL NADU (33),AnyOther, Total ,Males,71608,59542
+33,State - TAMIL NADU (33),AnyOther, Total ,Females,32509,74733
+33,State - TAMIL NADU (33),AnyOther, Rural ,Persons,52463,61381
+33,State - TAMIL NADU (33),AnyOther, Rural ,Males,33969,29119
+33,State - TAMIL NADU (33),AnyOther, Rural ,Females,18494,32262
+33,State - TAMIL NADU (33),AnyOther, Urban ,Persons,51654,72894
+33,State - TAMIL NADU (33),AnyOther, Urban ,Males,37639,30423
+33,State - TAMIL NADU (33),AnyOther, Urban ,Females,14015,42471
+33,State - TAMIL NADU (33),MultipleDisability, Total ,Persons,20134,72662
+33,State - TAMIL NADU (33),MultipleDisability, Total ,Males,14280,38816
+33,State - TAMIL NADU (33),MultipleDisability, Total ,Females,5854,33846
+33,State - TAMIL NADU (33),MultipleDisability, Rural ,Persons,11694,41286
+33,State - TAMIL NADU (33),MultipleDisability, Rural ,Males,7866,22395
+33,State - TAMIL NADU (33),MultipleDisability, Rural ,Females,3828,18891
+33,State - TAMIL NADU (33),MultipleDisability, Urban ,Persons,8440,31376
+33,State - TAMIL NADU (33),MultipleDisability, Urban ,Males,6414,16421
+33,State - TAMIL NADU (33),MultipleDisability, Urban ,Females,2026,14955
+34,State - PUDUCHERRY (34),TotalDisabledPopulation, Total ,Persons,9358,20831
+34,State - PUDUCHERRY (34),TotalDisabledPopulation, Total ,Males,7251,9122
+34,State - PUDUCHERRY (34),TotalDisabledPopulation, Total ,Females,2107,11709
+34,State - PUDUCHERRY (34),TotalDisabledPopulation, Rural ,Persons,3545,7036
+34,State - PUDUCHERRY (34),TotalDisabledPopulation, Rural ,Males,2689,3191
+34,State - PUDUCHERRY (34),TotalDisabledPopulation, Rural ,Females,856,3845
+34,State - PUDUCHERRY (34),TotalDisabledPopulation, Urban ,Persons,5813,13795
+34,State - PUDUCHERRY (34),TotalDisabledPopulation, Urban ,Males,4562,5931
+34,State - PUDUCHERRY (34),TotalDisabledPopulation, Urban ,Females,1251,7864
+34,State - PUDUCHERRY (34),InSeeing, Total ,Persons,1124,2484
+34,State - PUDUCHERRY (34),InSeeing, Total ,Males,852,989
+34,State - PUDUCHERRY (34),InSeeing, Total ,Females,272,1495
+34,State - PUDUCHERRY (34),InSeeing, Rural ,Persons,434,915
+34,State - PUDUCHERRY (34),InSeeing, Rural ,Males,320,352
+34,State - PUDUCHERRY (34),InSeeing, Rural ,Females,114,563
+34,State - PUDUCHERRY (34),InSeeing, Urban ,Persons,690,1569
+34,State - PUDUCHERRY (34),InSeeing, Urban ,Males,532,637
+34,State - PUDUCHERRY (34),InSeeing, Urban ,Females,158,932
+34,State - PUDUCHERRY (34),InHearing, Total ,Persons,2188,3964
+34,State - PUDUCHERRY (34),InHearing, Total ,Males,1633,1326
+34,State - PUDUCHERRY (34),InHearing, Total ,Females,555,2638
+34,State - PUDUCHERRY (34),InHearing, Rural ,Persons,897,1332
+34,State - PUDUCHERRY (34),InHearing, Rural ,Males,643,455
+34,State - PUDUCHERRY (34),InHearing, Rural ,Females,254,877
+34,State - PUDUCHERRY (34),InHearing, Urban ,Persons,1291,2632
+34,State - PUDUCHERRY (34),InHearing, Urban ,Males,990,871
+34,State - PUDUCHERRY (34),InHearing, Urban ,Females,301,1761
+34,State - PUDUCHERRY (34),InSpeech, Total ,Persons,603,1221
+34,State - PUDUCHERRY (34),InSpeech, Total ,Males,474,484
+34,State - PUDUCHERRY (34),InSpeech, Total ,Females,129,737
+34,State - PUDUCHERRY (34),InSpeech, Rural ,Persons,201,410
+34,State - PUDUCHERRY (34),InSpeech, Rural ,Males,154,185
+34,State - PUDUCHERRY (34),InSpeech, Rural ,Females,47,225
+34,State - PUDUCHERRY (34),InSpeech, Urban ,Persons,402,811
+34,State - PUDUCHERRY (34),InSpeech, Urban ,Males,320,299
+34,State - PUDUCHERRY (34),InSpeech, Urban ,Females,82,512
+34,State - PUDUCHERRY (34),InMovement, Total ,Persons,3284,5770
+34,State - PUDUCHERRY (34),InMovement, Total ,Males,2678,2786
+34,State - PUDUCHERRY (34),InMovement, Total ,Females,606,2984
+34,State - PUDUCHERRY (34),InMovement, Rural ,Persons,1187,2021
+34,State - PUDUCHERRY (34),InMovement, Rural ,Males,977,1029
+34,State - PUDUCHERRY (34),InMovement, Rural ,Females,210,992
+34,State - PUDUCHERRY (34),InMovement, Urban ,Persons,2097,3749
+34,State - PUDUCHERRY (34),InMovement, Urban ,Males,1701,1757
+34,State - PUDUCHERRY (34),InMovement, Urban ,Females,396,1992
+34,State - PUDUCHERRY (34),MentalRetardation, Total ,Persons,158,2177
+34,State - PUDUCHERRY (34),MentalRetardation, Total ,Males,118,1167
+34,State - PUDUCHERRY (34),MentalRetardation, Total ,Females,40,1010
+34,State - PUDUCHERRY (34),MentalRetardation, Rural ,Persons,52,597
+34,State - PUDUCHERRY (34),MentalRetardation, Rural ,Males,41,322
+34,State - PUDUCHERRY (34),MentalRetardation, Rural ,Females,11,275
+34,State - PUDUCHERRY (34),MentalRetardation, Urban ,Persons,106,1580
+34,State - PUDUCHERRY (34),MentalRetardation, Urban ,Males,77,845
+34,State - PUDUCHERRY (34),MentalRetardation, Urban ,Females,29,735
+34,State - PUDUCHERRY (34),MentalIllness, Total ,Persons,107,746
+34,State - PUDUCHERRY (34),MentalIllness, Total ,Males,81,369
+34,State - PUDUCHERRY (34),MentalIllness, Total ,Females,26,377
+34,State - PUDUCHERRY (34),MentalIllness, Rural ,Persons,37,218
+34,State - PUDUCHERRY (34),MentalIllness, Rural ,Males,26,112
+34,State - PUDUCHERRY (34),MentalIllness, Rural ,Females,11,106
+34,State - PUDUCHERRY (34),MentalIllness, Urban ,Persons,70,528
+34,State - PUDUCHERRY (34),MentalIllness, Urban ,Males,55,257
+34,State - PUDUCHERRY (34),MentalIllness, Urban ,Females,15,271
+34,State - PUDUCHERRY (34),AnyOther, Total ,Persons,1546,2591
+34,State - PUDUCHERRY (34),AnyOther, Total ,Males,1135,1060
+34,State - PUDUCHERRY (34),AnyOther, Total ,Females,411,1531
+34,State - PUDUCHERRY (34),AnyOther, Rural ,Persons,614,944
+34,State - PUDUCHERRY (34),AnyOther, Rural ,Males,431,415
+34,State - PUDUCHERRY (34),AnyOther, Rural ,Females,183,529
+34,State - PUDUCHERRY (34),AnyOther, Urban ,Persons,932,1647
+34,State - PUDUCHERRY (34),AnyOther, Urban ,Males,704,645
+34,State - PUDUCHERRY (34),AnyOther, Urban ,Females,228,1002
+34,State - PUDUCHERRY (34),MultipleDisability, Total ,Persons,348,1878
+34,State - PUDUCHERRY (34),MultipleDisability, Total ,Males,280,941
+34,State - PUDUCHERRY (34),MultipleDisability, Total ,Females,68,937
+34,State - PUDUCHERRY (34),MultipleDisability, Rural ,Persons,123,599
+34,State - PUDUCHERRY (34),MultipleDisability, Rural ,Males,97,321
+34,State - PUDUCHERRY (34),MultipleDisability, Rural ,Females,26,278
+34,State - PUDUCHERRY (34),MultipleDisability, Urban ,Persons,225,1279
+34,State - PUDUCHERRY (34),MultipleDisability, Urban ,Males,183,620
+34,State - PUDUCHERRY (34),MultipleDisability, Urban ,Females,42,659
+35,State - ANDAMAN & NICOBAR ISLANDS (35),TotalDisabledPopulation, Total ,Persons,2097,4563
+35,State - ANDAMAN & NICOBAR ISLANDS (35),TotalDisabledPopulation, Total ,Males,1701,2160
+35,State - ANDAMAN & NICOBAR ISLANDS (35),TotalDisabledPopulation, Total ,Females,396,2403
+35,State - ANDAMAN & NICOBAR ISLANDS (35),TotalDisabledPopulation, Rural ,Persons,1511,3369
+35,State - ANDAMAN & NICOBAR ISLANDS (35),TotalDisabledPopulation, Rural ,Males,1225,1609
+35,State - ANDAMAN & NICOBAR ISLANDS (35),TotalDisabledPopulation, Rural ,Females,286,1760
+35,State - ANDAMAN & NICOBAR ISLANDS (35),TotalDisabledPopulation, Urban ,Persons,586,1194
+35,State - ANDAMAN & NICOBAR ISLANDS (35),TotalDisabledPopulation, Urban ,Males,476,551
+35,State - ANDAMAN & NICOBAR ISLANDS (35),TotalDisabledPopulation, Urban ,Females,110,643
+35,State - ANDAMAN & NICOBAR ISLANDS (35),InSeeing, Total ,Persons,359,725
+35,State - ANDAMAN & NICOBAR ISLANDS (35),InSeeing, Total ,Males,284,314
+35,State - ANDAMAN & NICOBAR ISLANDS (35),InSeeing, Total ,Females,75,411
+35,State - ANDAMAN & NICOBAR ISLANDS (35),InSeeing, Rural ,Persons,303,616
+35,State - ANDAMAN & NICOBAR ISLANDS (35),InSeeing, Rural ,Males,240,271
+35,State - ANDAMAN & NICOBAR ISLANDS (35),InSeeing, Rural ,Females,63,345
+35,State - ANDAMAN & NICOBAR ISLANDS (35),InSeeing, Urban ,Persons,56,109
+35,State - ANDAMAN & NICOBAR ISLANDS (35),InSeeing, Urban ,Males,44,43
+35,State - ANDAMAN & NICOBAR ISLANDS (35),InSeeing, Urban ,Females,12,66
+35,State - ANDAMAN & NICOBAR ISLANDS (35),InHearing, Total ,Persons,503,716
+35,State - ANDAMAN & NICOBAR ISLANDS (35),InHearing, Total ,Males,394,270
+35,State - ANDAMAN & NICOBAR ISLANDS (35),InHearing, Total ,Females,109,446
+35,State - ANDAMAN & NICOBAR ISLANDS (35),InHearing, Rural ,Persons,346,488
+35,State - ANDAMAN & NICOBAR ISLANDS (35),InHearing, Rural ,Males,272,192
+35,State - ANDAMAN & NICOBAR ISLANDS (35),InHearing, Rural ,Females,74,296
+35,State - ANDAMAN & NICOBAR ISLANDS (35),InHearing, Urban ,Persons,157,228
+35,State - ANDAMAN & NICOBAR ISLANDS (35),InHearing, Urban ,Males,122,78
+35,State - ANDAMAN & NICOBAR ISLANDS (35),InHearing, Urban ,Females,35,150
+35,State - ANDAMAN & NICOBAR ISLANDS (35),InSpeech, Total ,Persons,171,360
+35,State - ANDAMAN & NICOBAR ISLANDS (35),InSpeech, Total ,Males,142,174
+35,State - ANDAMAN & NICOBAR ISLANDS (35),InSpeech, Total ,Females,29,186
+35,State - ANDAMAN & NICOBAR ISLANDS (35),InSpeech, Rural ,Persons,109,253
+35,State - ANDAMAN & NICOBAR ISLANDS (35),InSpeech, Rural ,Males,92,124
+35,State - ANDAMAN & NICOBAR ISLANDS (35),InSpeech, Rural ,Females,17,129
+35,State - ANDAMAN & NICOBAR ISLANDS (35),InSpeech, Urban ,Persons,62,107
+35,State - ANDAMAN & NICOBAR ISLANDS (35),InSpeech, Urban ,Males,50,50
+35,State - ANDAMAN & NICOBAR ISLANDS (35),InSpeech, Urban ,Females,12,57
+35,State - ANDAMAN & NICOBAR ISLANDS (35),InMovement, Total ,Persons,590,1003
+35,State - ANDAMAN & NICOBAR ISLANDS (35),InMovement, Total ,Males,500,543
+35,State - ANDAMAN & NICOBAR ISLANDS (35),InMovement, Total ,Females,90,460
+35,State - ANDAMAN & NICOBAR ISLANDS (35),InMovement, Rural ,Persons,421,774
+35,State - ANDAMAN & NICOBAR ISLANDS (35),InMovement, Rural ,Males,359,417
+35,State - ANDAMAN & NICOBAR ISLANDS (35),InMovement, Rural ,Females,62,357
+35,State - ANDAMAN & NICOBAR ISLANDS (35),InMovement, Urban ,Persons,169,229
+35,State - ANDAMAN & NICOBAR ISLANDS (35),InMovement, Urban ,Males,141,126
+35,State - ANDAMAN & NICOBAR ISLANDS (35),InMovement, Urban ,Females,28,103
+35,State - ANDAMAN & NICOBAR ISLANDS (35),MentalRetardation, Total ,Persons,39,255
+35,State - ANDAMAN & NICOBAR ISLANDS (35),MentalRetardation, Total ,Males,27,133
+35,State - ANDAMAN & NICOBAR ISLANDS (35),MentalRetardation, Total ,Females,12,122
+35,State - ANDAMAN & NICOBAR ISLANDS (35),MentalRetardation, Rural ,Persons,26,163
+35,State - ANDAMAN & NICOBAR ISLANDS (35),MentalRetardation, Rural ,Males,17,90
+35,State - ANDAMAN & NICOBAR ISLANDS (35),MentalRetardation, Rural ,Females,9,73
+35,State - ANDAMAN & NICOBAR ISLANDS (35),MentalRetardation, Urban ,Persons,13,92
+35,State - ANDAMAN & NICOBAR ISLANDS (35),MentalRetardation, Urban ,Males,10,43
+35,State - ANDAMAN & NICOBAR ISLANDS (35),MentalRetardation, Urban ,Females,3,49
+35,State - ANDAMAN & NICOBAR ISLANDS (35),MentalIllness, Total ,Persons,39,325
+35,State - ANDAMAN & NICOBAR ISLANDS (35),MentalIllness, Total ,Males,25,138
+35,State - ANDAMAN & NICOBAR ISLANDS (35),MentalIllness, Total ,Females,14,187
+35,State - ANDAMAN & NICOBAR ISLANDS (35),MentalIllness, Rural ,Persons,32,232
+35,State - ANDAMAN & NICOBAR ISLANDS (35),MentalIllness, Rural ,Males,18,89
+35,State - ANDAMAN & NICOBAR ISLANDS (35),MentalIllness, Rural ,Females,14,143
+35,State - ANDAMAN & NICOBAR ISLANDS (35),MentalIllness, Urban ,Persons,7,93
+35,State - ANDAMAN & NICOBAR ISLANDS (35),MentalIllness, Urban ,Males,7,49
+35,State - ANDAMAN & NICOBAR ISLANDS (35),MentalIllness, Urban ,Females,0,44
+35,State - ANDAMAN & NICOBAR ISLANDS (35),AnyOther, Total ,Persons,288,550
+35,State - ANDAMAN & NICOBAR ISLANDS (35),AnyOther, Total ,Males,237,253
+35,State - ANDAMAN & NICOBAR ISLANDS (35),AnyOther, Total ,Females,51,297
+35,State - ANDAMAN & NICOBAR ISLANDS (35),AnyOther, Rural ,Persons,186,359
+35,State - ANDAMAN & NICOBAR ISLANDS (35),AnyOther, Rural ,Males,154,170
+35,State - ANDAMAN & NICOBAR ISLANDS (35),AnyOther, Rural ,Females,32,189
+35,State - ANDAMAN & NICOBAR ISLANDS (35),AnyOther, Urban ,Persons,102,191
+35,State - ANDAMAN & NICOBAR ISLANDS (35),AnyOther, Urban ,Males,83,83
+35,State - ANDAMAN & NICOBAR ISLANDS (35),AnyOther, Urban ,Females,19,108
+35,State - ANDAMAN & NICOBAR ISLANDS (35),MultipleDisability, Total ,Persons,108,629
+35,State - ANDAMAN & NICOBAR ISLANDS (35),MultipleDisability, Total ,Males,92,335
+35,State - ANDAMAN & NICOBAR ISLANDS (35),MultipleDisability, Total ,Females,16,294
+35,State - ANDAMAN & NICOBAR ISLANDS (35),MultipleDisability, Rural ,Persons,88,484
+35,State - ANDAMAN & NICOBAR ISLANDS (35),MultipleDisability, Rural ,Males,73,256
+35,State - ANDAMAN & NICOBAR ISLANDS (35),MultipleDisability, Rural ,Females,15,228
+35,State - ANDAMAN & NICOBAR ISLANDS (35),MultipleDisability, Urban ,Persons,20,145
+35,State - ANDAMAN & NICOBAR ISLANDS (35),MultipleDisability, Urban ,Males,19,79
+35,State - ANDAMAN & NICOBAR ISLANDS (35),MultipleDisability, Urban ,Females,1,66
